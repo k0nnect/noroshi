@@ -1,0 +1,21 @@
+{
+  "fda_ai_devices": {
+    "url": "https://www.fda.gov/media/178541/download?attachment",
+    "retrieved_at": "2026-11-16T05:14:30+00:00",
+    "sha256": "b1efeb680371f44cae574ae5a5aa548ac8a63391e6888a007b17177d17527880",
+    "rows": 616
+  },
+  "lantern": {
+    "url": "https://lantern.healthit.gov/api/daily/download",
+    "retrieved_at": "2026-11-16T05:14:48+00:00",
+    "sha256": "a0827b2e3653c07cbc00d62ecdf3ab6c1318025e5ad6645133d8532d70f25cbf",
+    "rows": 214
+  },
+  "csaf_icsma": {
+    "url": "https://raw.githubusercontent.com/cisagov/CSAF/2701eb50ca2aa92c373bce21d4877f88ce1fd4cd/csaf_files/OT/white/index.txt",
+    "retrieved_at": "2026-11-16T05:14:55+00:00",
+    "repository_commit": "2701eb50ca2aa92c373bce21d4877f88ce1fd4cd",
+    "files_downloaded": 191,
+    "rows": 82
+  }
+}

@@ -1,0 +1,14 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Contact: mailto:security@lakeview-clinic.example.org
+Expires: 2027-05-01T00:00:00Z
+Encryption: https://lakeview-clinic.example.org/pgp.asc
+Canonical: https://lakeview-clinic.example.org/.well-known/security.txt
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCgAdFiEEexampleexampleexampleexampleexampleFAmQAAAAACgkQ
+exampleexampleexampleexampleexampleexampleexampleexampleexample
+fakesigfakesigfakesigfakesigfakesigfakesigfakesigfakesigfakesig
+=AbCd
+-----END PGP SIGNATURE-----

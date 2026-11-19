@@ -1,0 +1,305 @@
+domain,decision,category,reason
+brown.wi.us,exclude,county_or_city_portal,Brown County WI portal
+buttecounty.net,exclude,county_or_city_portal,Butte County CA portal
+charlestoncounty.org,exclude,county_or_city_portal,Charleston County SC portal
+essexcountynj.org,exclude,county_or_city_portal,Essex County NJ portal
+hudsoncountynj.org,exclude,county_or_city_portal,Hudson County NJ portal
+indian-river.fl.us,exclude,county_or_city_portal,Indian River County FL portal
+littlerivercounty.org,exclude,county_or_city_portal,Little River County AR portal
+lynch.ne.us,exclude,county_or_city_portal,city of Lynch NE portal
+milwaukeecounty.org,exclude,county_or_city_portal,Milwaukee County portal
+nyc.gov,exclude,county_or_city_portal,city of New York portal
+ripley.ms,exclude,county_or_city_portal,Tippah County and city of Ripley MS portal (tippahcounty.ripley.ms)
+sjgov.org,exclude,county_or_city_portal,San Joaquin County CA portal; page /mhs/ for the psychiatric health facility
+srnm.org,exclude,county_or_city_portal,city of Santa Rosa NM portal; page /residents/health-care.aspx
+sutter.ca.us,exclude,county_or_city_portal,Sutter County CA portal
+ucnj.org,exclude,county_or_city_portal,Union County NJ portal; page for Cornerstone Behavioral Health Hospital
+waukeshacounty.gov,exclude,county_or_city_portal,Waukesha County portal
+winkler.tx.us,exclude,county_or_city_portal,Winkler County TX portal
+wood.wi.us,exclude,county_or_city_portal,Wood County WI portal
+google.com,exclude,directory_or_association,search engine or review directory
+healthgrades.com,exclude,directory_or_association,search engine or review directory
+namisacramento.org,exclude,directory_or_association,NAMI Sacramento advocacy group local-links page (/resources/locallinks-saccounty.html); not a hospital site (not an audit candidate because the domain contains 'sacramento')
+spechospnjfdn.org,exclude,directory_or_association,specialty hospital foundation member-hospital list page (2011memberhospitals.html)
+wikipedia.org,exclude,directory_or_association,"encyclopedia page, not a hospital site"
+wsha.org,exclude,directory_or_association,state hospital association member directory page
+yelp.com,exclude,directory_or_association,search engine or review directory
+ihs.gov,exclude,federal_portal,federal health or defense portal; its hospitals belong to the federal frame
+medicare.gov,exclude,federal_portal,federal government portal
+navy.mil,exclude,federal_portal,federal health or defense portal; its hospitals belong to the federal frame
+tricare.mil,exclude,federal_portal,federal health or defense portal; its hospitals belong to the federal frame
+va.gov,exclude,federal_portal,federal health or defense portal; its hospitals belong to the federal frame
+alaweb.com,exclude,other_third_party,"ISP personal-page host; path is a user folder (/ tgarske), not the hospital's own site"
+brokenbow-ne.com,exclude,other_third_party,"community site (Broken Bow NE) with a /community/healthcare/ page, not the hospital's or its system's site"
+shopaitribes.org,exclude,other_third_party,tribal government site hosting a page for a Public Health Service Indian hospital
+smma.com,exclude,other_third_party,architecture firm project page for a hospital pavilion
+business.site,exclude,site_builder,free Google site builder hosting unrelated businesses
+facebook.com,exclude,social_network,"social network, not a hospital site"
+instagram.com,exclude,social_network,"social network, not a hospital site"
+linkedin.com,exclude,social_network,"social network, not a hospital site"
+twitter.com,exclude,social_network,"social network, not a hospital site"
+x.com,exclude,social_network,"social network, not a hospital site"
+youtube.com,exclude,social_network,"social network, not a hospital site"
+alabama.gov,exclude,state_portal,state government portal
+arkansas.gov,exclude,state_portal,state government portal
+ca.gov,exclude,state_portal,state government portal
+ct.gov,exclude,state_portal,state government portal
+georgia.gov,exclude,state_portal,state government portal
+hawaii.gov,exclude,state_portal,state government portal
+in.gov,exclude,state_portal,state government portal
+kentucky.gov,exclude,state_portal,state government portal
+ks.gov,exclude,state_portal,state government portal
+louisiana.gov,exclude,state_portal,state government portal
+maine.gov,exclude,state_portal,state government portal
+mass.gov,exclude,state_portal,state government portal
+mo.gov,exclude,state_portal,state government portal
+ms.gov,exclude,state_portal,state government portal
+myflfamilies.com,exclude,state_portal,"Florida Department of Children and Families agency site for Florida State Hospital; agency is the operator but domain is the department's, not dedicated; excluded by controller ruling: state agency site"
+ny.gov,exclude,state_portal,state government portal
+ohio.gov,exclude,state_portal,state government portal
+oregon.gov,exclude,state_portal,state government portal
+pa.gov,exclude,state_portal,state government portal
+ri.gov,exclude,state_portal,state government portal
+sc.gov,exclude,state_portal,state government portal
+scvrd.net,exclude,state_portal,SC Vocational Rehabilitation Department agency site for its evaluation center; excluded by controller ruling: state agency site
+sd.gov,exclude,state_portal,state government portal
+state.co.us,exclude,state_portal,state government portal
+state.fl.us,exclude,state_portal,state government portal
+state.ia.us,exclude,state_portal,state government portal
+state.md.us,exclude,state_portal,state government portal
+state.mo.us,exclude,state_portal,state government portal
+state.ms.us,exclude,state_portal,state government portal
+state.ne.us,exclude,state_portal,state government portal
+state.nj.us,exclude,state_portal,state government portal
+state.sc.us,exclude,state_portal,state government portal
+state.tx.us,exclude,state_portal,state government portal
+state.wi.us,exclude,state_portal,state government portal
+texas.gov,exclude,state_portal,state government portal
+utah.gov,exclude,state_portal,state government portal
+virginia.gov,exclude,state_portal,state government portal
+wa.gov,exclude,state_portal,state government portal
+wi.gov,exclude,state_portal,state government portal
+wvdhhr.org,exclude,state_portal,"WV Department of Health and Human Resources agency site for Sharpe Hospital; operator agency, not dedicated; excluded by controller ruling: state agency site"
+aahs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+agnesian.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ahn.org,keep,,own site or its health system or operator's site (location page on a system domain)
+allinahealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+altapointe.org,keep,,own site or its health system or operator's site (location page on a system domain)
+amgihm.com,keep,,own site or its health system or operator's site (location page on a system domain)
+amitahealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+arh.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ascension.org,keep,,own site or its health system or operator's site (location page on a system domain)
+atlantichealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+atriumhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+augustahealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+avera.org,keep,,own site or its health system or operator's site (location page on a system domain)
+avitahealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+balladhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+baptisthealth.net,keep,,own site or its health system or operator's site (location page on a system domain)
+barnabashealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bassett.org,keep,,own site or its health system or operator's site (location page on a system domain)
+baycare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+baylorhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+berkshirehealthsystems.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bestcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bhcpns.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bhsala.com,keep,,own site or its health system or operator's site (location page on a system domain)
+bhset.net,keep,,own site or its health system or operator's site (location page on a system domain)
+bidmc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+blessinghealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bmhcc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+bonsecours.com,keep,,own site or its health system or operator's site (location page on a system domain)
+capecodhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+capefearvalley.com,keep,,own site or its health system or operator's site (location page on a system domain)
+carolinashealthcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+carsontahoe.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ccannj.com,keep_uncertain,,"Catholic Charities site for Mount Carmel Guild; likely the operator, cannot confirm from name and URL"
+ccghospital.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ccmedicalcenter.com,keep,,own site or its health system or operator's site (location page on a system domain)
+challiance.org,keep,,own site or its health system or operator's site (location page on a system domain)
+chifranciscan.org,keep,,own site or its health system or operator's site (location page on a system domain)
+chihealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+choa.org,keep,,own site or its health system or operator's site (location page on a system domain)
+chomp.org,keep,,own site or its health system or operator's site (location page on a system domain)
+chsbuffalo.org,keep,,own site or its health system or operator's site (location page on a system domain)
+clearskyhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+communicarehealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+compasshealthnetwork.org,keep,,own site or its health system or operator's site (location page on a system domain)
+conehealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+conemaugh.org,keep,,own site or its health system or operator's site (location page on a system domain)
+cookcountyhhs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+coxhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+cqch.org,keep,,own site or its health system or operator's site (location page on a system domain)
+crozerkeystone.org,keep,,own site or its health system or operator's site (location page on a system domain)
+dchsystem.com,keep,,own site or its health system or operator's site (location page on a system domain)
+dekalbmedical.org,keep,,own site or its health system or operator's site (location page on a system domain)
+delraymedicalctr.com,keep,,own site or its health system or operator's site (location page on a system domain)
+dhchd.org,keep,,own site or its health system or operator's site (location page on a system domain)
+dhr-rgv.com,keep,,own site or its health system or operator's site (location page on a system domain)
+doctorshosplaredo.com,keep,,own site or its health system or operator's site (location page on a system domain)
+downstate.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+dubuis.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ebaptisthealthcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+echn.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ecommunity.com,keep,,own site or its health system or operator's site (location page on a system domain)
+eehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+encompasshealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+encore-healthcare.com,keep_uncertain,,company site for a specialty hospital; likely operator but unconfirmed
+etmc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+exodusrecovery.com,keep,,own site or its health system or operator's site (location page on a system domain)
+fairview.org,keep,,own site or its health system or operator's site (location page on a system domain)
+floridahospital.com,keep,,own site or its health system or operator's site (location page on a system domain)
+forresthealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ghmh.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ghs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+goodsamaritanmedical.org,keep,,own site or its health system or operator's site (location page on a system domain)
+gshvin.org,keep,,own site or its health system or operator's site (location page on a system domain)
+guthrie.org,keep,,own site or its health system or operator's site (location page on a system domain)
+harrisonmedical.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hawaiipacifichealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hf.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hfch.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hhsc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hptc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+hsh.org,keep_uncertain,,domain not obviously tied to the hospital name; page is /behavioral-health/
+ihc.com,keep,,own site or its health system or operator's site (location page on a system domain)
+intermountainhealthcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+iuhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+jchd.org,keep,,own site or its health system or operator's site (location page on a system domain)
+jfkmc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+kaleidahealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+kentuckyonehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ketteringhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+kindredhealthcare.com,keep,,own site or its health system or operator's site (location page on a system domain)
+kishhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+lahey.org,keep,,own site or its health system or operator's site (location page on a system domain)
+laspalmasdelsolhealthcare.com,keep,,own site or its health system or operator's site (location page on a system domain)
+lcmh.com,keep,,own site or its health system or operator's site (location page on a system domain)
+lhcgroup.com,keep,,own site or its health system or operator's site (location page on a system domain)
+lifepointhospitals.com,keep,,own site or its health system or operator's site (location page on a system domain)
+lubbockmhmr.org,keep,,own site or its health system or operator's site (location page on a system domain)
+lvhn.org,keep,,own site or its health system or operator's site (location page on a system domain)
+mainlinehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+martinhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+maryblackgaffney.com,keep,,own site or its health system or operator's site (location page on a system domain)
+marywashingtonhealthcare.com,keep,,own site or its health system or operator's site (location page on a system domain)
+mauihealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+mbhs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+mchsys.org,keep,,own site or its health system or operator's site (location page on a system domain)
+memorial.health,keep,,own site or its health system or operator's site (location page on a system domain)
+memorialhealth.us,keep,,own site or its health system or operator's site (location page on a system domain)
+methodisthealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+missionhospitals.org,keep,,own site or its health system or operator's site (location page on a system domain)
+mountainstateshealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+msha.com,keep,,own site or its health system or operator's site (location page on a system domain)
+mywheaton.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nahealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+nchsi.com,keep,,own site or its health system or operator's site (location page on a system domain)
+nemhs.net,keep,,own site or its health system or operator's site (location page on a system domain)
+nfch.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nhrmc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nm.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nmhs.net,keep,,own site or its health system or operator's site (location page on a system domain)
+nobisrehabpartners.com,keep,,own site or its health system or operator's site (location page on a system domain)
+novanthealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nuvancehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nvbh.com,keep,,own site or its health system or operator's site (location page on a system domain)
+nychealthandhospitals.org,keep,,own site or its health system or operator's site (location page on a system domain)
+nyp.org,keep,,own site or its health system or operator's site (location page on a system domain)
+oakwood.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ocalahealthsystem.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ochsner.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ohiohealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+oriolhealthcare.com,keep,,own site or its health system or operator's site (location page on a system domain)
+orlandohealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+osfhealthcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ouhsc.edu,keep_uncertain,,university site hosting a tribal long-term-care unit page; operator unclear
+oumedicine.com,keep,,own site or its health system or operator's site (location page on a system domain)
+palmettohealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+pamf.org,keep,,own site or its health system or operator's site (location page on a system domain)
+pamhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+partners.org,keep,,own site or its health system or operator's site (location page on a system domain)
+peacehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+penbayhealthcare.org,keep,,own site or its health system or operator's site (location page on a system domain)
+phs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+portsmouthhospital.com,keep,,own site or its health system or operator's site (location page on a system domain)
+postacutemedical.com,keep,,own site or its health system or operator's site (location page on a system domain)
+queens.org,keep,,own site or its health system or operator's site (location page on a system domain)
+regionalonehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+rehabhospital.com,keep,,own site or its health system or operator's site (location page on a system domain)
+rhri.net,keep,,own site or its health system or operator's site (location page on a system domain)
+riversidehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+rochester.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+rochesterregional.org,keep,,own site or its health system or operator's site (location page on a system domain)
+rrh.org,keep,,own site or its health system or operator's site (location page on a system domain)
+rsfh.com,keep,,own site or its health system or operator's site (location page on a system domain)
+rwjuh.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+sahealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+saintfrancis.com,keep,,own site or its health system or operator's site (location page on a system domain)
+saintlukeskc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+samhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sanfordhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sclhealthcommunity.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sehealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sentara.com,keep,,own site or its health system or operator's site (location page on a system domain)
+sghs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sinaichicago.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sjhlex.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sjmctx.com,keep,,own site or its health system or operator's site (location page on a system domain)
+smh.com,keep_uncertain,,domain not obviously tied to the hospital name
+spartanburgregional.com,keep,,own site or its health system or operator's site (location page on a system domain)
+sphkc.net,keep,,own site or its health system or operator's site (location page on a system domain)
+sphn-pmh.com,keep,,own site or its health system or operator's site (location page on a system domain)
+srhshealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ssm-select.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ssmhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+stdavids.com,keep,,own site or its health system or operator's site (location page on a system domain)
+steward.org,keep,,own site or its health system or operator's site (location page on a system domain)
+sthealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+stjoesannarbor.org,keep,,own site or its health system or operator's site (location page on a system domain)
+stjohnprovidence.org,keep,,own site or its health system or operator's site (location page on a system domain)
+stmarysofmichigan.org,keep,,own site or its health system or operator's site (location page on a system domain)
+stvhs.com,keep,,own site or its health system or operator's site (location page on a system domain)
+sutterhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+tanner.org,keep,,own site or its health system or operator's site (location page on a system domain)
+telecarecorp.com,keep,,own site or its health system or operator's site (location page on a system domain)
+tennovaeast.com,keep,,own site or its health system or operator's site (location page on a system domain)
+tennovamiddle.com,keep,,own site or its health system or operator's site (location page on a system domain)
+texomamedicalcenter.net,keep,,own site or its health system or operator's site (location page on a system domain)
+tmfhc.org,keep,,own site or its health system or operator's site (location page on a system domain)
+tmfhs.org,keep,,own site or its health system or operator's site (location page on a system domain)
+tnhealthmanagement.com,keep,,own site or its health system or operator's site (location page on a system domain)
+tridenthealthsystem.com,keep,,own site or its health system or operator's site (location page on a system domain)
+trihealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+trinityhealthofne.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uabmedicine.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uchealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uchicagomedicine.org,keep,,own site or its health system or operator's site (location page on a system domain)
+ufhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uhhg.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uhhospitals.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uhsystem.com,keep,,own site or its health system or operator's site (location page on a system domain)
+uky.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+umassmemorial.org,keep,,own site or its health system or operator's site (location page on a system domain)
+umms.org,keep,,own site or its health system or operator's site (location page on a system domain)
+umrhospital.com,keep,,own site or its health system or operator's site (location page on a system domain)
+unitypoint.org,keep,,own site or its health system or operator's site (location page on a system domain)
+unm.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+usahealthsystem.com,keep,,own site or its health system or operator's site (location page on a system domain)
+utah.edu,keep,,own site or its health system or operator's site (location page on a system domain)
+utmbhealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+utswmedicine.org,keep,,own site or its health system or operator's site (location page on a system domain)
+uvahealth.com,keep,,own site or its health system or operator's site (location page on a system domain)
+uwhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+valleyhealthlink.com,keep,,own site or its health system or operator's site (location page on a system domain)
+vcuhealth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+vhsemichigan.com,keep,,own site or its health system or operator's site (location page on a system domain)
+warmsprings.org,keep,,own site or its health system or operator's site (location page on a system domain)
+weat.com,keep_uncertain,,domain looks like a media or unrelated company; page /site6/ for a rehab and nursing facility
+wellmont.org,keep,,own site or its health system or operator's site (location page on a system domain)
+wellpathcare.com,keep_uncertain,,correctional-health contractor site for a state treatment program; operator likely but unconfirmed
+wkhs.com,keep,,own site or its health system or operator's site (location page on a system domain)
+wrtc.com,keep_uncertain,,domain looks like a telecom host; page /cullum/hospital for a Turtle Lake hospital
+wth.org,keep,,own site or its health system or operator's site (location page on a system domain)
+wvuniversityhealthcare.com,keep,,own site or its health system or operator's site (location page on a system domain)
+ynhh.org,keep,,own site or its health system or operator's site (location page on a system domain)

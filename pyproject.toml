@@ -1,0 +1,38 @@
+[project]
+name = "noroshi"
+version = "0.1.0"
+description = "Measure which healthcare websites publish a way to report security vulnerabilities"
+authors = [
+    { name = "cj", email = "66845682+k0nnect@users.noreply.github.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.15.0",
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.1",
+    "protego>=0.7.0",
+    "scipy>=1.18.1",
+    "sectxt>=0.9.8",
+    "tldextract>=5.4.0",
+]
+
+[project.scripts]
+noroshi = "noroshi.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "cryptography==50.0.2",
+    "pytest>=9.2.0",
+    "pytest-asyncio>=1.5.0",
+    "pytest-httpserver>=1.2.1",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"

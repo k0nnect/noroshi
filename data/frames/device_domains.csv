@@ -1,0 +1,526 @@
+sector,domain,start_url,n_units,beds_sum,name_tokens
+device,16bit.ai,https://16bit.ai/,1,,
+device,23andme.com,https://23andme.com/,1,,andme
+device,3d-side.com,https://3d-side.com/,1,,side
+device,3dsystems.com,https://3dsystems.com/,1,,systems
+device,3shape.com,https://3shape.com/,1,,shape trios
+device,7dsurgical.com,https://7dsurgical.com/,2,,surgical
+device,a2zradiology.ai,https://a2zradiology.ai/,1,,radiology
+device,abbott.com,https://abbott.com/,2,,abbott
+device,acceleratediagnostics.com,https://acceleratediagnostics.com/,1,,accelerate diagnostics
+device,adas3d.com,https://adas3d.com/,1,,adas
+device,admdx.com,https://admdx.com/,1,,diagnostics
+device,adra.ai,https://adra.ai/,1,,adra
+device,aeyehealth.com,https://aeyehealth.com/,1,,aeye
+device,agada-medical.com,https://agada-medical.com/,1,,agada
+device,agamatrix.com,https://agamatrix.com/,1,,agamatrix
+device,agfa.com,https://agfa.com/,1,,agfa
+device,agilemd.com,https://agilemd.com/,1,,agilemd
+device,ai-medical.ch,https://ai-medical.ch/,1,,
+device,ai4medimaging.com,https://ai4medimaging.com/,1,,medimaging solutions
+device,aidoc.com,https://aidoc.com/,1,,aidoc
+device,aikenist.com,https://aikenist.com/,1,,aikenist technologies
+device,aimetrics.com,https://aimetrics.com/,1,,metrics
+device,aimfolds.com,https://aimfolds.com/,1,,alpha intelligence manifolds
+device,aiq-solutions.com,https://aiq-solutions.com/,2,,global solutions
+device,airamed.de,https://airamed.de/,1,,airamed
+device,airsmed.com,https://airsmed.com/,1,,airs
+device,aisap.ai,https://aisap.ai/,1,,aisap
+device,ait.ac.at,https://ait.ac.at/,1,,austrian institute technology
+device,aitewan-bio.com,https://aitewan-bio.com/,1,,aitewan biomedical technology
+device,algomedica.com,https://algomedica.com/,1,,algomedica
+device,alifehealth.com,https://alifehealth.com/,1,,alife
+device,alimetry.com,https://alimetry.com/,1,,alimetry
+device,alivecor.com,https://alivecor.com/,1,,alivecor
+device,amcad.com.tw,https://amcad.com.tw/,1,,amcad biomed
+device,amramedical.com,https://amramedical.com/,1,,amra
+device,analyticsforlife.com,https://analyticsforlife.com/,1,,analytics life
+device,angiowave.com,https://angiowave.com/,1,,angiowave imaging
+device,ankoninc.com.cn,https://ankoninc.com.cn/,1,,ankon technologies
+device,annalise.ai,https://annalise.ai/,1,,annalise
+device,anumana.ai,https://anumana.ai/,1,,anumana
+device,appianmed.com,https://appianmed.com/,1,,appian
+device,apple.com,https://apple.com/,1,,apple
+device,arineta.com,https://arineta.com/,1,,arineta
+device,arkray.co.jp,https://arkray.co.jp/,1,,arkray
+device,army.mil,https://army.mil/,1,,army department general surgeon
+device,artera.ai,https://artera.ai/,1,,artera
+device,arterys.com,https://arterys.com/,1,,arterys
+device,artrya.com,https://artrya.com/,1,,artrya
+device,asensus.com,https://asensus.com/,1,,transenterix
+device,atecspine.com,https://atecspine.com/,1,,alphatec spine
+device,athelas.com,https://athelas.com/,1,,athelas
+device,atsens.com,https://atsens.com/,1,,atsens
+device,audaxceph.com,https://audaxceph.com/,1,,audax
+device,augmedics.com,https://augmedics.com/,1,,augmedics
+device,augmedit.com,https://augmedit.com/,1,,augmedit
+device,ausculthing.com,https://ausculthing.com/,1,,ausculthing
+device,avatarmedical.ai,https://avatarmedical.ai/,1,,avatar
+device,avendahealth.com,https://avendahealth.com/,1,,avenda
+device,avicenna.ai,https://avicenna.ai/,1,,avicenna
+device,avive.life,https://avive.life/,1,,avive solutions
+device,axial3d.com,https://axial3d.com/,1,,axial printing
+device,azmed.co,https://azmed.co/,2,,azmed
+device,b-secur.com,https://b-secur.com/,1,,secur
+device,bayesianhealth.com,https://bayesianhealth.com/,1,,bayesian
+device,bd.com,https://bd.com/,1,,diagnostics
+device,beacon.bio,https://beacon.bio/,1,,beacon biosignals
+device,beaubrain.bio,https://beaubrain.bio/,1,,beaubrain
+device,beckmancoulter.com,https://beckmancoulter.com/,1,,beckman coulter
+device,behold.ai,https://behold.ai/,1,,behold technologies
+device,beluntech.com,https://beluntech.com/,1,,belun technology
+device,beringresearch.com,https://beringresearch.com/,1,,bering
+device,betterdiagnostics.ai,https://betterdiagnostics.ai/,1,,better diagnostics
+device,bio-rad.com,https://bio-rad.com/,1,,laboratories
+device,biofourmis.com,https://biofourmis.com/,1,,biofourmis singapore
+device,biomerieux.com,https://biomerieux.com/,1,,biomerieux
+device,biosensewebster.com,https://biosensewebster.com/,1,,biosense webster
+device,biotics.ai,https://biotics.ai/,1,,bioticsai
+device,bkmedical.com,https://bkmedical.com/,1,,
+device,bodyvisionmedical.com,https://bodyvisionmedical.com/,2,,body bodyvision vision
+device,bonraybio.com,https://bonraybio.com/,1,,bonraybio
+device,bostonscientific.com,https://bostonscientific.com/,1,,boston cardiac diagnostic scientific technologies
+device,brainlab.com,https://brainlab.com/,1,,brainlab
+device,brainomix.com,https://brainomix.com/,1,,brainomix
+device,brainscope.com,https://brainscope.com/,1,,brainscope
+device,brightheart.ai,https://brightheart.ai/,1,,brightheart
+device,bruker.com,https://bruker.com/,1,,bruker daltonics
+device,bunkerhillhealth.com,https://bunkerhillhealth.com/,2,,bunkerhill
+device,butterflynetwork.com,https://butterflynetwork.com/,1,,butterfly network
+device,cancergenetics.com,https://cancergenetics.com/,1,,cancer genetics
+device,captionhealth.com,https://captionhealth.com/,2,,caption labs
+device,cara-medical.co,https://cara-medical.co/,1,,cara
+device,caranx-medical.com,https://caranx-medical.com/,1,,caranx
+device,cardiologs.com,https://cardiologs.com/,1,,cardiologs technologies
+device,cardiophoenix.com,https://cardiophoenix.com/,1,,cardio phoenix
+device,cardiosense.com,https://cardiosense.com/,1,,cardiosense
+device,carestream.com,https://carestream.com/,1,,carestream
+device,carestreamdental.com,https://carestreamdental.com/,1,,carestream dental
+device,careverse.com,https://careverse.com/,1,,careverse technology
+device,carewell.com.cn,https://carewell.com.cn/,1,,carewell electronics shenzhen
+device,carinaai.com,https://carinaai.com/,1,,carina
+device,caristo.com,https://caristo.com/,1,,caristo diagnostics
+device,carlsmed.com,https://carlsmed.com/,1,,carlsmed
+device,casis.fr,https://casis.fr/,1,,cardiac casis imaging simulation software
+device,cathworks.com,https://cathworks.com/,1,,cathworks
+device,cedars-sinai.org,https://cedars-sinai.org/,1,,cedars sinai
+device,ceevra.com,https://ceevra.com/,1,,ceevra
+device,cellavision.com,https://cellavision.com/,2,,cella cellavision vision
+device,cephx.com,https://cephx.com/,1,,dental orca
+device,cercare-medical.com,https://cercare-medical.com/,1,,cercare
+device,ceribell.com,https://ceribell.com/,1,,ceribell
+device,changehealthcare.com,https://changehealthcare.com/,1,,canada change
+device,checkcells.com,https://checkcells.com/,1,,checkcells
+device,chohotech.com,https://chohotech.com/,1,,chohotech hangzhou
+device,circlecvi.com,https://circlecvi.com/,1,,cardiovascular circle imaging
+device,circlenvi.com,https://circlenvi.com/,1,,circle imaging neurovascular
+device,clairity.com,https://clairity.com/,1,,clairity
+device,claripi.com,https://claripi.com/,1,,claripi
+device,clarius.com,https://clarius.com/,1,,clarius mobile
+device,clearpointneuro.com,https://clearpointneuro.com/,1,,clearpoint neuro
+device,clearviewdiagnosticsinc.com,https://clearviewdiagnosticsinc.com/,1,,clearview diagnostics
+device,cleerlyhealth.com,https://cleerlyhealth.com/,1,,cleerly
+device,cleverculturesystems.com,https://cleverculturesystems.com/,1,,clever culture systems
+device,clewmed.com,https://clewmed.com/,1,,clew
+device,coaptengineering.com,https://coaptengineering.com/,1,,coapt
+device,cognoa.com,https://cognoa.com/,1,,cognoa
+device,columbo.me,https://columbo.me/,2,,smart soft
+device,combinostics.com,https://combinostics.com/,1,,combinostics
+device,compumedics.com.au,https://compumedics.com.au/,2,,compumedics
+device,conavi.com,https://conavi.com/,1,,conavi
+device,copangroup.com,https://copangroup.com/,1,,copan wasp
+device,corelinesoft.com,https://corelinesoft.com/,1,,coreline soft
+device,cortechs.ai,https://cortechs.ai/,1,,cortechs labs
+device,corticometrics.com,https://corticometrics.com/,1,,corticometrics
+device,corvista.com,https://corvista.com/,1,,corvista
+device,cosmoimd.com,https://cosmoimd.com/,1,,artificial cosmo intelligence
+device,crescom.co,https://crescom.co/,1,,crescom
+device,cu-bx.com,https://cu-bx.com/,1,,biometrics continuse
+device,curacloudcorp.com,https://curacloudcorp.com/,1,,curacloud
+device,curemetrix.com,https://curemetrix.com/,1,,curemetrix
+device,cycleclarity.com,https://cycleclarity.com/,1,,clarity cycle
+device,cydarmedical.com,https://cydarmedical.com/,1,,cydar
+device,dariohealth.com,https://dariohealth.com/,1,,innovations labstyle
+device,darmiyan.com,https://darmiyan.com/,1,,darmiyan
+device,dasisim.com,https://dasisim.com/,1,,dasi simulations
+device,deep-voxel.com,https://deep-voxel.com/,1,,deepvoxel
+device,deep01.com,https://deep01.com/,1,,deep
+device,deepbreathe.ai,https://deepbreathe.ai/,1,,breathe deep
+device,deepecho.io,https://deepecho.io/,1,,deepecho
+device,deephealth.com,https://deephealth.com/,1,,deephealth
+device,deeptek.ai,https://deeptek.ai/,1,,deeptek imaging
+device,densitas.health,https://densitas.health/,1,,densitas
+device,dental-monitoring.com,https://dental-monitoring.com/,1,,dental monitoring
+device,denti.ai,https://denti.ai/,1,,denti technology
+device,dentsplysirona.com,https://dentsplysirona.com/,1,,dentsply sirona
+device,depuysynthes.com,https://depuysynthes.com/,1,,depuy ireland
+device,dermasensor.com,https://dermasensor.com/,1,,dermasensor
+device,dia-analysis.com,https://dia-analysis.com/,1,,analysis imaging
+device,diacardio.com,https://diacardio.com/,1,,diacardio
+device,diacoustic.co.za,https://diacoustic.co.za/,1,,devices diacoustic
+device,diagnocat.com,https://diagnocat.com/,1,,dgnct
+device,diagnoly.com,https://diagnoly.com/,1,,diagnoly
+device,digestaid.health,https://digestaid.health/,1,,artificial development digestaid intelligence
+device,digitaldiagnostics.com,https://digitaldiagnostics.com/,2,,diagnostics digital
+device,dilon.com,https://dilon.com/,1,,dilon technologies
+device,disior.com,https://disior.com/,1,,disior
+device,dreamed-diabetes.com,https://dreamed-diabetes.com/,1,,diabetes dreamed
+device,dyadmed.com,https://dyadmed.com/,1,,dyad
+device,earlipointhealth.com,https://earlipointhealth.com/,1,,diagnostics earlitec
+device,echoiq.ai,https://echoiq.ai/,1,,echo
+device,echonous.com,https://echonous.com/,1,,echonous
+device,edgecare.co.kr,https://edgecare.co.kr/,1,,edgecare
+device,edwards.com,https://edwards.com/,2,,edwards lifeciences lifesciences
+device,ekohealth.com,https://ekohealth.com/,2,,devices
+device,elaitra.com,https://elaitra.com/,1,,elaitra
+device,elekta.com,https://elekta.com/,1,,elekta solutions
+device,elementscience.com,https://elementscience.com/,1,,element science
+device,elucid.com,https://elucid.com/,1,,bioimaging elucid
+device,empatica.com,https://empatica.com/,1,,empatica
+device,emurmur.com,https://emurmur.com/,1,,labs
+device,enhatch.com,https://enhatch.com/,1,,enhatch
+device,ensodata.com,https://ensodata.com/,1,,ensodata
+device,envisionit.ai,https://envisionit.ai/,1,,deepai envisionit
+device,eos-imaging.com,https://eos-imaging.com/,1,,imaging
+device,epitel.com,https://epitel.com/,1,,epitel
+device,esaote.com,https://esaote.com/,1,,esaote
+device,everfortuneai.com.tw,https://everfortuneai.com.tw/,2,,ever fortune
+device,ewoosoft.com,https://ewoosoft.com/,1,,ewoosoft
+device,excel-medical.com,https://excel-medical.com/,1,,electronics excel
+device,exini.com,https://exini.com/,1,,diagnostics exini
+device,exo.inc,https://exo.inc/,2,,imaging
+device,eyenuk.com,https://eyenuk.com/,1,,eyenuk
+device,ezra.com,https://ezra.com/,1,,ezra
+device,faceheart.com,https://faceheart.com/,1,,faceheart
+device,fairtility.com,https://fairtility.com/,1,,fairtility
+device,fasikl.com,https://fasikl.com/,1,,fasikl incorporated
+device,feops.com,https://feops.com/,1,,feops
+device,fiftheye.com,https://fiftheye.com/,1,,fifth
+device,fitbit.com,https://fitbit.com/,1,,fitbit
+device,fluidda.com,https://fluidda.com/,1,,fluidda
+device,foqus.ca,https://foqus.ca/,1,,foqus technologies
+device,formuslabs.com,https://formuslabs.com/,1,,formus labs
+device,fovia.com,https://fovia.com/,1,,fovia
+device,fujifilm.com,https://fujifilm.com/,3,,americas fujifilm
+device,galgomedical.com,https://galgomedical.com/,1,,galgo
+device,galileocds.com,https://galileocds.com/,1,,galileo
+device,gausssurgical.com,https://gausssurgical.com/,1,,gauss surgical
+device,gehealthcare.co.jp,https://gehealthcare.co.jp/,1,,japan
+device,gehealthcare.com,https://gehealthcare.com/,13,,care diagnostic diagnostics functional hangwei hualun imaging israel primary systems tianjin ultrasound
+device,geneseeq.com,https://geneseeq.com/,1,,geneseeq technology
+device,getsetsurgical.com,https://getsetsurgical.com/,1,,getset surgical
+device,gleamer.ai,https://gleamer.ai/,2,,gleamer
+device,global.canon,https://global.canon/,1,,canon
+device,guideaihealth.com,https://guideaihealth.com/,1,,guideai
+device,harrison.ai,https://harrison.ai/,1,,harrison
+device,healthlytix.com,https://healthlytix.com/,1,,healthlytix imaging multimodal services
+device,healthy.io,https://healthy.io/,1,,healthy
+device,heartflow.com,https://heartflow.com/,1,,heartflow
+device,heartfocus.ai,https://heartfocus.ai/,1,,deski
+device,heartlung.ai,https://heartlung.ai/,1,,heartlung
+device,heartvista.ai,https://heartvista.ai/,1,,heartvista
+device,hellopearl.com,https://hellopearl.com/,1,,pearl
+device,hermesmedical.com,https://hermesmedical.com/,1,,hermes solutions
+device,heroic-faith.com,https://heroic-faith.com/,1,,faith heroic international
+device,hidimaging.com,https://hidimaging.com/,1,,imaging
+device,high-rad.com,https://high-rad.com/,1,,highrad
+device,histosonics.com,https://histosonics.com/,1,,histosonics
+device,holbergeeg.com,https://holbergeeg.com/,1,,holberg
+device,hologic.com,https://hologic.com/,1,,hologic
+device,honeynaps.com,https://honeynaps.com/,1,,honeynaps
+device,hutom.io,https://hutom.io/,1,,hutom
+device,huxleymed.com,https://huxleymed.com/,1,,huxley
+device,hygieia.com,https://hygieia.com/,1,,hygieia
+device,hyperfine.io,https://hyperfine.io/,2,,hyperfine research
+device,hypervisionsurgical.com,https://hypervisionsurgical.com/,1,,hypervision surgical
+device,i-biomed.com,https://i-biomed.com/,1,,biomedical infinite technologies
+device,ibex-ai.com,https://ibex-ai.com/,1,,analytics ibex
+device,icadmed.com,https://icadmed.com/,1,,icad
+device,icardio.ai,https://icardio.ai/,1,,icardio
+device,icometrix.com,https://icometrix.com/,1,,icometrix
+device,iheuron.com,https://iheuron.com/,1,,heuron
+device,imagebiopsy.com,https://imagebiopsy.com/,1,,
+device,imagen.ai,https://imagen.ai/,1,,imagen technologies
+device,imagingbiometrics.com,https://imagingbiometrics.com/,1,,biometrics imaging
+device,imbio.com,https://imbio.com/,1,,imbio
+device,imeka.ca,https://imeka.ca/,1,,imeka solutions
+device,imidex.com,https://imidex.com/,1,,imidex
+device,impedimed.com,https://impedimed.com/,1,,impedimed
+device,implicity.com,https://implicity.com/,1,,implicity
+device,imvaria.com,https://imvaria.com/,1,,imvaria
+device,indevr.com,https://indevr.com/,1,,indevr
+device,infervision.com,https://infervision.com/,3,,beijing infervision technology
+device,infinitt.com,https://infinitt.com/,1,,infinitt
+device,inflammatix.com,https://inflammatix.com/,1,,inflammatix
+device,informai.com,https://informai.com/,1,,informai
+device,inheartmedical.com,https://inheartmedical.com/,1,,inheart
+device,inmed.ai,https://inmed.ai/,1,,prognostics
+device,innolitics.com,https://innolitics.com/,1,,innolitics
+device,insightmedsys.com,https://insightmedsys.com/,1,,insight systems
+device,intelligentultrasound.com,https://intelligentultrasound.com/,1,,intelligent ultrasound
+device,intuitive.com,https://intuitive.com/,1,,intuitive surgical
+device,invisionmedtech.com,https://invisionmedtech.com/,1,,invision technology
+device,irhythmtech.com,https://irhythmtech.com/,1,,irhythm technologies
+device,iterative.health,https://iterative.health/,2,,iterative scopes
+device,jlkgroup.com,https://jlkgroup.com/,1,,
+device,kestramedical.com,https://kestramedical.com/,1,,kestra technologies
+device,keyamedical.com,https://keyamedical.com/,2,,keya keyamed technology
+device,kneesystems.com,https://kneesystems.com/,1,,innovation kico knee
+device,kneevoice.com,https://kneevoice.com/,1,,kneevoice
+device,koiosmedical.com,https://koiosmedical.com/,1,,koios
+device,laralab.com,https://laralab.com/,1,,laralab
+device,ligence.io,https://ligence.io/,1,,ligence
+device,limbus.ai,https://limbus.ai/,1,,limbus
+device,lunit.io,https://lunit.io/,1,,lunit
+device,lviscorp.com,https://lviscorp.com/,1,,lvis
+device,m3dicine.com,https://m3dicine.com/,1,,dicine
+device,magentiq.com,https://magentiq.com/,1,,magentiq
+device,manteiatech.com,https://manteiatech.com/,2,,manteia technologies technology xiamen
+device,masimo.com,https://masimo.com/,1,,masimo
+device,maxq.ai,https://maxq.ai/,1,,maxq
+device,mazorrobotics.com,https://mazorrobotics.com/,1,,mazor robotics
+device,mdanderson.org,https://mdanderson.org/,1,,anderson cancer texas university
+device,medacta.com,https://medacta.com/,1,,international medacta
+device,medasense.com,https://medasense.com/,1,,biometrics medasense
+device,medcognetics.com,https://medcognetics.com/,1,,medcognetics
+device,mediantechnologies.com,https://mediantechnologies.com/,1,,median technologies
+device,medicacorp.com,https://medicacorp.com/,1,,medica
+device,medical.canon,https://medical.canon/,2,,canon informatics systems
+device,medicalgorithmics.com,https://medicalgorithmics.com/,1,,medicalgorithmics
+device,medicalip.com,https://medicalip.com/,1,,medicalip
+device,medicalmetrics.com,https://medicalmetrics.com/,1,,metrics
+device,medicalmind.cn,https://medicalmind.cn/,1,,medmind technology
+device,medicalvr.eu,https://medicalvr.eu/,1,,medicalvr
+device,medicrea.com,https://medicrea.com/,2,,international medicrea medtronic
+device,medicvision.com,https://medicvision.com/,1,,imaging medic solutions vision
+device,medipixel.io,https://medipixel.io/,1,,medipixel
+device,medivis.com,https://medivis.com/,1,,medivis
+device,medo.ai,https://medo.ai/,2,,medo
+device,medtronic.com,https://medtronic.com/,4,,cardiac covidien disease management medtronic navigation rhythm
+device,medviso.com,https://medviso.com/,1,,medviso
+device,medweb.com,https://medweb.com/,1,,electronics medweb nexsys
+device,merge.com,https://merge.com/,1,,incorporated merge
+device,metamorphosis.ai,https://metamorphosis.ai/,1,,metamorphosis
+device,methinks.ai,https://methinks.ai/,1,,methinks software
+device,mevis.de,https://mevis.de/,1,,mevis solutions
+device,microsoft.com,https://microsoft.com/,1,,microsoft
+device,micsi.com,https://micsi.com/,1,,imaging microstructure
+device,mightyoakmedical.com,https://mightyoakmedical.com/,1,,mighty
+device,milvue.com,https://milvue.com/,1,,milvue
+device,mimfertility.ai,https://mimfertility.ai/,1,,fertility
+device,mimosadiagnostics.com,https://mimosadiagnostics.com/,1,,diagnostics mimosa
+device,mimsoftware.com,https://mimsoftware.com/,1,,software
+device,mindray.com,https://mindray.com/,1,,electronics mindray shenzhen
+device,mindsetmedical.com,https://mindsetmedical.com/,1,,mindset
+device,mirada-medical.com,https://mirada-medical.com/,1,,mirada
+device,mlhealth360.com,https://mlhealth360.com/,1,,mlhealth
+device,momentum.health,https://momentum.health/,1,,momentum
+device,monarchmedtech.com,https://monarchmedtech.com/,1,,monarch technologies
+device,moonsurgical.com,https://moonsurgical.com/,1,,moon surgical
+device,mriguidance.com,https://mriguidance.com/,2,,mriguidance mrlguidance
+device,mrimath.com,https://mrimath.com/,1,,mrimath
+device,mskai.ai,https://mskai.ai/,1,,mskai
+device,mvision.ai,https://mvision.ai/,1,,mvision
+device,mycardium.com,https://mycardium.com/,1,,mycardium
+device,naitive.com,https://naitive.com/,1,,naitive technologies
+device,nanox.vision,https://nanox.vision/,2,,nano nanoxai
+device,nemotec.com,https://nemotec.com/,1,,nemotec software
+device,neosomainc.com,https://neosomainc.com/,1,,neosoma
+device,neumetry.com,https://neumetry.com/,1,,neumetry
+device,neuroeventlabs.com,https://neuroeventlabs.com/,1,,event labs neuro
+device,neurophet.com,https://neurophet.com/,1,,neurophet
+device,neurorpm.com,https://neurorpm.com/,1,,digital touch
+device,neurospectruminsights.com,https://neurospectruminsights.com/,1,,insights neurospectrum
+device,neusoftmedical.com,https://neusoftmedical.com/,1,,neusoft systems
+device,nicolab.com,https://nicolab.com/,2,,nico
+device,ninepointmedical.com,https://ninepointmedical.com/,1,,ninepoint
+device,nines.com,https://nines.com/,1,,nines
+device,nobelbiocare.com,https://nobelbiocare.com/,2,,biocare medicim nobel
+device,nordicneurolab.com,https://nordicneurolab.com/,1,,nordicneurolab
+device,notalvision.com,https://notalvision.com/,1,,notal vision
+device,noxmedical.com,https://noxmedical.com/,1,,
+device,nurea-soft.com,https://nurea-soft.com/,1,,nurea
+device,nuvasive.com,https://nuvasive.com/,1,,incorporated nuvasive
+device,nuvoair.com,https://nuvoair.com/,1,,nuvoair
+device,obsmedical.com,https://obsmedical.com/,1,,
+device,oculogica.com,https://oculogica.com/,1,,oculogica
+device,odinmedical.com,https://odinmedical.com/,1,,odin
+device,olea-medical.com,https://olea-medical.com/,2,,olea
+device,omegamedicalimaging.com,https://omegamedicalimaging.com/,1,,imaging omega
+device,oncosoft.io,https://oncosoft.io/,1,,oncosoft
+device,oncospace.com,https://oncospace.com/,1,,oncospace
+device,onerahealth.com,https://onerahealth.com/,1,,onera
+device,ontacthealth.com,https://ontacthealth.com/,1,,ontact
+device,optellum.com,https://optellum.com/,1,,optellum
+device,orthofix.com,https://orthofix.com/,2,,orthofix
+device,orthogrid.com,https://orthogrid.com/,1,,orthogrid systems
+device,ortoma.com,https://ortoma.com/,1,,ortoma
+device,ottobock.com,https://ottobock.com/,1,,bock otto products
+device,overjet.ai,https://overjet.ai/,1,,overjet
+device,oxehealth.com,https://oxehealth.com/,1,,oxehealth
+device,oxfordbraindiagnostics.com,https://oxfordbraindiagnostics.com/,1,,brain diagnostics oxford
+device,oxos.com,https://oxos.com/,1,,oxos
+device,paige.ai,https://paige.ai/,1,,paige
+device,pathwaylabs.com,https://pathwaylabs.com/,1,,pathwai
+device,pathworkdx.com,https://pathworkdx.com/,1,,diagnostics pathwork
+device,peekmed.com,https://peekmed.com/,1,,peek
+device,peerbridgehealth.com,https://peerbridgehealth.com/,1,,peerbridge
+device,perahealth.com,https://perahealth.com/,1,,perahealth
+device,perigen.com,https://perigen.com/,1,,perigen
+device,perimetermed.com,https://perimetermed.com/,1,,imaging perimeter
+device,perinhealth.com,https://perinhealth.com/,1,,devices perin
+device,perspectum.com,https://perspectum.com/,2,,diagnostics perspectum
+device,persyst.com,https://persyst.com/,1,,development persyst
+device,phantomics.io,https://phantomics.io/,1,,phantomics
+device,philips.com,https://philips.com/,11,,commercial finland france nederland nederlands philips suzhou systems technologies ultrasound
+device,physcade.com,https://physcade.com/,1,,physcade
+device,physiq.com,https://physiq.com/,2,,physiq vgbio
+device,piemedicalimaging.com,https://piemedicalimaging.com/,1,,imaging
+device,piurimaging.com,https://piurimaging.com/,1,,imaging piur
+device,pmdbiotech.com,https://pmdbiotech.com/,1,,biotech pacificmd
+device,pranaq.com,https://pranaq.com/,1,,pranaq
+device,precisionai.com.au,https://precisionai.com.au/,1,,precision
+device,predilife.com,https://predilife.com/,1,,statlife
+device,preemptive.ai,https://preemptive.ai/,1,,labs measure preemptiveai
+device,prenosis.com,https://prenosis.com/,1,,prenosis
+device,prenuvo.com,https://prenuvo.com/,1,,prenuvo
+device,preventice.com,https://preventice.com/,1,,preventice technologies
+device,procept-biorobotics.com,https://procept-biorobotics.com/,1,,biorobotics procept
+device,prolaio.com,https://prolaio.com/,1,,prolaio
+device,q.bio,https://q.bio/,1,,
+device,qlarityimaging.com,https://qlarityimaging.com/,1,,insights quantitative
+device,qmenta.com,https://qmenta.com/,1,,labs mint qmenta
+device,qompium.com,https://qompium.com/,1,,qompium
+device,qtimaging.com,https://qtimaging.com/,1,,holdings imaging
+device,quantatw.com,https://quantatw.com/,1,,computer quanta
+device,quantib.com,https://quantib.com/,1,,quantib
+device,quantitativeradiologysolutions.com,https://quantitativeradiologysolutions.com/,1,,quantitative radiology solutions
+device,quibim.com,https://quibim.com/,1,,quibim
+device,qure.ai,https://qure.ai/,1,,qure technologies
+device,qviewmedical.com,https://qviewmedical.com/,1,,qview
+device,qynapse.com,https://qynapse.com/,1,,qynapse
+device,radformation.com,https://radformation.com/,1,,radformation
+device,radiobotics.com,https://radiobotics.com/,1,,radiobotics
+device,radlogics.com,https://radlogics.com/,1,,radlogics
+device,rapidai.com,https://rapidai.com/,2,,ischema ischemaview view
+device,raymedical.co.kr,https://raymedical.co.kr/,1,,
+device,raysearchlabs.com,https://raysearchlabs.com/,1,,laboratories publ raysearch
+device,rebrain.eu,https://rebrain.eu/,1,,rebrain
+device,relu.ai,https://relu.ai/,1,,relu
+device,remedylogic.com,https://remedylogic.com/,1,,logic remedy
+device,renalytix.com,https://renalytix.com/,1,,renalytix
+device,resmed.com,https://resmed.com/,1,,resmed
+device,resonancehealth.com,https://resonancehealth.com/,1,,analysis resonance services
+device,restor3d.com,https://restor3d.com/,1,,restor
+device,retinalscreenings.com,https://retinalscreenings.com/,1,,imaging intelligent retinal systems
+device,revealdx.com,https://revealdx.com/,1,,precision revealdx ventures
+device,rhythm-ai.com,https://rhythm-ai.com/,1,,rhythm
+device,righteye.com,https://righteye.com/,1,,righteye
+device,rivannamedical.com,https://rivannamedical.com/,1,,rivanna
+device,riveraintech.com,https://riveraintech.com/,2,,group riverain technologies
+device,roche.com,https://roche.com/,1,,molecular roche systems
+device,rootilabs.com,https://rootilabs.com/,1,,labs rooti
+device,ropca.com,https://ropca.com/,1,,ropca
+device,safebeat.com,https://safebeat.com/,1,,safebeat
+device,samsung.com,https://samsung.com/,1,,electronics samsung
+device,samsungmedison.com,https://samsungmedison.com/,1,,medison samsung
+device,saranas.com,https://saranas.com/,1,,saranas
+device,savelife.ai,https://savelife.ai/,2,,neurocareai savelife
+device,scandiags.com,https://scandiags.com/,1,,scandiags
+device,scanmed.com,https://scanmed.com/,1,,scanmed
+device,scibase.com,https://scibase.com/,1,,scibase
+device,scopiolabs.com,https://scopiolabs.com/,1,,labs scopio
+device,screenpoint-medical.com,https://screenpoint-medical.com/,1,,screenpoint
+device,see-mode.com,https://see-mode.com/,1,,mode technologies
+device,senomedical.com,https://senomedical.com/,1,,instruments seno
+device,sensicardiac.com,https://sensicardiac.com/,1,,diacoustic
+device,shimadzu.com,https://shimadzu.com/,1,,shimadzu
+device,shukun.net,https://shukun.net/,1,,beijing technology yukun
+device,siemens-healthineers.com,https://siemens-healthineers.com/,6,,healthineers magnetic resonance shenzhen siemens solution solutions
+device,sightdx.com,https://sightdx.com/,1,,diagnostics sight
+device,sigtuple.com,https://sigtuple.com/,1,,sigtuple technologies
+device,simbiosys.com,https://simbiosys.com/,1,,simbiosys
+device,sk-inc.com,https://sk-inc.com/,1,,
+device,smartalpha.ai,https://smartalpha.ai/,1,,alfa smart teknoloji
+device,smarttarget.co.uk,https://smarttarget.co.uk/,1,,smarttarget
+device,smiledx.ai,https://smiledx.ai/,1,,click cube
+device,snac.com.au,https://snac.com.au/,1,,analysis centre neuroimaging sydney
+device,softlinkinternational.com,https://softlinkinternational.com/,1,,international private softlink
+device,sonicincytes.com,https://sonicincytes.com/,1,,incytes sonic
+device,sonio.ai,https://sonio.ai/,1,,sonio
+device,sonoscape.com,https://sonoscape.com/,1,,sonoscape
+device,sonosite.com,https://sonosite.com/,1,,fujifilm sonosite
+device,soraneuroscience.com,https://soraneuroscience.com/,1,,neuroscience sora
+device,sparrowbioacoustics.com,https://sparrowbioacoustics.com/,1,,acoustics sparrow
+device,spectral-ai.com,https://spectral-ai.com/,1,,spectralmd
+device,spectrascience.com,https://spectrascience.com/,1,,science spectra
+device,spectrawave.com,https://spectrawave.com/,1,,spectrawave
+device,spectronic.se,https://spectronic.se/,1,,spectronic
+device,spectrum-dynamics.com,https://spectrum-dynamics.com/,1,,dynamics spectrum
+device,springbokanalytics.com,https://springbokanalytics.com/,2,,analytics springbok
+device,spryhealth.com,https://spryhealth.com/,1,,spry
+device,strataskinsciences.com,https://strataskinsciences.com/,1,,sciences skin strata
+device,stryker.com,https://stryker.com/,2,,instruments stryker
+device,subtlemedical.com,https://subtlemedical.com/,1,,subtle
+device,surgicalis.com,https://surgicalis.com/,1,,information sciences surgical
+device,surgicaltheater.com,https://surgicaltheater.com/,1,,surgical theater
+device,synapsica.com,https://synapsica.com/,1,,synapsica
+device,syncthink.com,https://syncthink.com/,1,,syncthink
+device,taihaomed.com,https://taihaomed.com/,1,,taihao
+device,techsomed.com,https://techsomed.com/,2,,technologies techsomed
+device,tempus.com,https://tempus.com/,2,,labs tempus
+device,terarecon.com,https://terarecon.com/,1,,terarecon
+device,therapanacea.eu,https://therapanacea.eu/,2,,therapanacea
+device,therapixel.com,https://therapixel.com/,1,,therapixel
+device,therenva.com,https://therenva.com/,1,,therenva
+device,thinksurgical.com,https://thinksurgical.com/,1,,surgical think
+device,thirona.eu,https://thirona.eu/,1,,thirona
+device,tissueintel.com,https://tissueintel.com/,1,,differentiation intelligence tissue
+device,tomtec.de,https://tomtec.de/,1,,imaging systems tomtec
+device,topiamedtech.com,https://topiamedtech.com/,1,,medtech topia
+device,twinsight-medical.com,https://twinsight-medical.com/,1,,twinsight
+device,tytocare.com,https://tytocare.com/,1,,care tyto
+device,uii-ai.com,https://uii-ai.com/,1,,imaging intelligence shanghai united
+device,ultrasight.com,https://ultrasight.com/,1,,ultrasight
+device,ultrasound.ai,https://ultrasound.ai/,1,,ultrasound
+device,ultromics.com,https://ultromics.com/,1,,ultromics
+device,united-imaging.com,https://united-imaging.com/,2,,imaging shanghai united wuhan
+device,us2.ai,https://us2.ai/,1,,
+device,v5med.com,https://v5med.com/,1,,
+device,varian.com,https://varian.com/,1,,systems varian
+device,velmeni.ai,https://velmeni.ai/,1,,velmeni
+device,ventcreativity.com,https://ventcreativity.com/,1,,creativity vent
+device,ventrichealth.com,https://ventrichealth.com/,1,,avicena
+device,ventripoint.com,https://ventripoint.com/,1,,diagnostics ventripoint
+device,verathon.com,https://verathon.com/,1,,incorporated verathon
+device,verdureimaging.com,https://verdureimaging.com/,1,,imaging verdure
+device,verily.com,https://verily.com/,1,,life sciences verily
+device,vidadiagnostics.com,https://vidadiagnostics.com/,1,,diagnostics vida
+device,videa.ai,https://videa.ai/,1,,videahealth
+device,vinbigdata.com,https://vinbigdata.com/,1,,joint stock vinbigdata
+device,vinbrain.net,https://vinbrain.net/,1,,joint stock vinbrain
+device,visageimaging.com,https://visageimaging.com/,1,,imaging visage
+device,vista.ai,https://vista.ai/,1,,vista
+device,vitaamedical.com,https://vitaamedical.com/,1,,solutions vitaa
+device,vitalconnect.com,https://vitalconnect.com/,1,,vitalconnect
+device,vitalimages.com,https://vitalimages.com/,1,,images vital
+device,vitrolife.com,https://vitrolife.com/,1,,vitrolife
+device,vivaquant.com,https://vivaquant.com/,2,,express rhythm vivaquant
+device,viz.ai,https://viz.ai/,3,,
+device,volparahealth.com,https://volparahealth.com/,2,,matakina technologies technology volpara
+device,volta-medical.com,https://volta-medical.com/,1,,volta
+device,voronoihealthanalytics.com,https://voronoihealthanalytics.com/,1,,analytics incorporated voronoi
+device,vuno.co,https://vuno.co/,1,,vuno
+device,vysioneer.com,https://vysioneer.com/,1,,vysioneer
+device,waveneuro.com,https://waveneuro.com/,1,,neuroscience wave
+device,welldoc.com,https://welldoc.com/,1,,welldoc
+device,wesper.co,https://wesper.co/,1,,wesper
+device,whiterabbit.ai,https://whiterabbit.ai/,1,,whiterabbit
+device,wision.com,https://wision.com/,1,,chengdu device wision
+device,withings.com,https://withings.com/,1,,withings
+device,x-navtech.com,https://x-navtech.com/,1,,technologies
+device,zebra-med.com,https://zebra-med.com/,1,,vision zebra
+device,zeiss.com,https://zeiss.com/,1,,carl meditec zeiss
+device,zephyrsleep.com,https://zephyrsleep.com/,1,,sleep technologies zephyr
+device,zimmerbiomet.com,https://zimmerbiomet.com/,1,,orthosoft zimmer
+device,ziosoft.com,https://ziosoft.com/,1,,ziosoft

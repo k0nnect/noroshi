@@ -1,0 +1,389 @@
+hifld_id,name,state,website_raw,domain,n_units_on_domain
+0000136502,ATMORE COMMUNITY HOSPITAL,AL,http://www.ebaptisthealthcare.org/atmorecommunityhospital/,ebaptisthealthcare.org,4
+0003035161,CITIZENS BAPTIST MEDICAL CENTER,AL,http://www.bhsala.com/home_citizens.cfm?id=38,bhsala.com,4
+0004336526,EASTPOINTE HOSPITAL,AL,http://www.altapointe.org/eastpointe.php,altapointe.org,2
+0004835555,FAYETTE MEDICAL CENTER,AL,http://www.dchsystem.com/body.cfm?id=36928,dchsystem.com,3
+0007035565,LAKELAND COMMUNITY HOSPITAL,AL,http://www.lifepointhospitals.com/serving-communities/community/lakeland-community-hospital/,lifepointhospitals.com,1
+0004735570,NORTH MISSISSIPPI MEDICAL CENTER - HAMILTON,AL,http://www.nmhs.net/hamilton/,nmhs.net,5
+0000335211,PRINCETON BAPTIST MEDICAL CENTER,AL,http://www.bhsala.com/princeton/home.aspx,bhsala.com,4
+0010735007,SHELBY BAPTIST MEDICAL CENTER,AL,http://www.bhsala.com/shelby/home.aspx,bhsala.com,4
+0009035235,ST. VINCENT'S EAST,AL,http://www.stvhs.com/east/,stvhs.com,4
+0000635233,UAB CALLAHAN EYE HOSPITAL AUTHORITY,AL,http://www.uabmedicine.org/eye#/1213770818351/?keyword=&submit=submit&reset=reset&page=1&articles=true,uabmedicine.org,1
+0001935806,UNITY PSYCHIATRIC CARE - HUNTSVILLE,AL,http://www.tnhealthmanagement.com/bhc/huntsville,tnhealthmanagement.com,1
+0009836617,USA HEALTH UNIVERSITY HOSPITAL,AL,http://www.usahealthsystem.com/usamc,usahealthsystem.com,1
+0012035502,WALKER BAPTIST MEDICAL CENTER,AL,http://www.bhsala.com/home_walker.cfm?id=41,bhsala.com,4
+0005272315,GREAT RIVER MEDICAL CENTER,AR,http://www.mchsys.org/getpage.php?name=greatriver,mchsys.org,2
+0005772370,SOUTH MISSISSIPPI COUNTY REGIONAL MEDICAL CENTER,AR,http://www.mchsys.org/getpage.php?name=smrmc,mchsys.org,2
+0193880504,LONGS PEAK HOSPITAL,CO,https://www.uchealth.org/locations/uchealth-longs-peak-hospital/,uchealth.org,2
+0177380233,SCL HEALTH COMMUNITY HOSPITAL - NORTHGLENN,CO,http://www.sclhealthcommunity.org/locations/northglenn/,sclhealthcommunity.org,2
+0002206040,MANCHESTER MEMORIAL HOSPITAL,CT,http://www.echn.org/locations/manchester-memorial-hospital.aspx,echn.org,2
+0000406069,SHARON HOSPITAL,CT,https://www.nuvancehealth.org/locations/sharon-hospital,nuvancehealth.org,2
+0001306706,"SAINT MARY'S HOSPITAL, INC",CT,https://www.trinityhealthofne.org/location/saint-marys-hospital,trinityhealthofne.org,2
+0002706856,NORWALK HOSPITAL,CT,https://www.nuvancehealth.org/locations/norwalk-hospital,nuvancehealth.org,2
+0000206105,SAINT FRANCIS HOSPITAL AND MEDICAL CENTER,CT,https://www.trinityhealthofne.org/location/saint-francis-hospital,trinityhealthofne.org,2
+0001106066,ROCKVILLE GENERAL HOSPITAL,CT,http://www.echn.org/locations/rockville-general-hospital.aspx,echn.org,2
+0002333831,BARTOW REGIONAL MEDICAL CENTER,FL,https://baycare.org/brmc,baycare.org,10
+0003333435,BETHESDA HOSPITAL EAST,FL,https://baptisthealth.net/en/pages/home.aspx,baptisthealth.net,9
+0003633486,BOCA RATON REGIONAL HOSPITAL,FL,baptisthealth.net/locations/hospitals/boca-raton-regional-hospital,baptisthealth.net,9
+0005232440,CAMPBELLTON - GRACEVILLE HOSPITAL,FL,www.nfch.org/c-ghospital,nfch.org,2
+0005432931,CAPE CANAVERAL HOSPITAL,FL,http://www.hf.org/hospitals_services/cch/,hf.org,4
+0036434987,CLEVELAND CLINIC TRADITION HOSPITAL,FL,https://www.martinhealth.org/mhs-tradition-medical-center,martinhealth.org,3
+0015332127,HALIFAX HEALTH MEDICAL CENTER - PORT ORANGE,FL,http://www.hfch.org/hmc-port_orange.html,hfch.org,1
+0017432901,HOLMES REGIONAL MEDICAL CENTER,FL,http://www.hf.org/hospitals_services/hrmc/,hf.org,4
+0019032565,JAY HOSPITAL,FL,http://www.bhcpns.org/jayhospital/,bhcpns.org,2
+0023733070,MARINERS HOSPITAL,FL,http://baptisthealth.net/en/facilities/mariners-hospital/pages/default.aspx,baptisthealth.net,9
+0027233549,MORTON PLANT NORTH BAY HOSPITAL RECOVERY CENTER,FL,https://baycare.org/locations/m/morton-plant-north-bay-hospital--recovery-center,baycare.org,10
+0029932907,PALM BAY HOSPITAL,FL,https://hf.org/hospitals_services/pbch/,hf.org,4
+0037833705,ST ANTHONYS HOSPITAL,FL,https://baycare.org/sah,baycare.org,10
+0038533607,ST JOSEPHS HOSPITAL,FL,https://baycare.org/sjh,baycare.org,10
+0038733607,ST JOSEPHS HOSPITAL BEHAVIORAL HEALTH CENTER,FL,https://baycare.org/locations/s/st-josephs-hospital-behavioral-health-center,baycare.org,10
+0038833558,ST JOSEPHS HOSPITAL NORTH,FL,https://baycare.org/sjhn,baycare.org,10
+0036533578,ST JOSEPHS HOSPITAL SOUTH,FL,https://baycare.org/sjhs,baycare.org,10
+0035032610,UF HEALTH SHANDS HOSPITAL,FL,https://ufhealth.org/uf-health-shands-hospital,ufhealth.org,3
+0079632606,UF HEALTH SHANDS PSYCHIATRIC HOSPITAL,FL,https://ufhealth.org/uf-health-shands-hospital,ufhealth.org,3
+0041532940,VIERA HOSPITAL,FL,http://www.hf.org/hospitals_services/viera/,hf.org,4
+0042534474,WEST MARION COMMUNITY HOSPITAL,FL,http://ocalahealthsystem.com/home/,ocalahealthsystem.com,3
+0043433881,WINTER HAVEN HOSPITAL,FL,https://baycare.org/whh,baycare.org,10
+0032533880,WINTER HAVEN WOMEN'S HOSPITAL,FL,https://baycare.org/whwh,baycare.org,10
+0087230912,AU MEDICAL CENTER,GA,http://www.augustahealth.org/locations-and-maps/medical-center,augustahealth.org,1
+0013630030,EMORY LONG TERM ACUTE CARE,GA,http://www.dekalbmedical.org/locations/locations-module/dekalb-medical-downtown-decatur/,dekalbmedical.org,1
+0003830110,HIGGINS GENERAL HOSPITAL,GA,http://www.tanner.org/main/higginsgeneralhospitalbremen.aspx,tanner.org,4
+0009631558,SOUTHEAST GEORGIA HEALTH SYSTEM - CAMDEN CAMPUS,GA,http://www.sghs.org/locations/hospital-campuses/camden/,sghs.org,1
+0000796706,KAHI MOHALA,HI,https://www.sutterhealth.org/kahi,sutterhealth.org,1
+0001096826,KAPIOLANI MEDICAL CENTER FOR WOMEN AND CHILDREN,HI,https://www.hawaiipacifichealth.org/kapiolani/locations/kapiolani-medical-center/,hawaiipacifichealth.org,4
+0001696790,KULA HOSPITAL,HI,https://www.mauihealth.org/locations/kula-hospital/,mauihealth.org,3
+0002296701,PALI MOMI MEDICAL CENTER,HI,https://www.hawaiipacifichealth.org/pali-momi/,hawaiipacifichealth.org,4
+0002596746,SAMUEL MAHELONA MEMORIAL HOSPITAL,HI,http://kauai.hhsc.org/facilities/samuel-mahelona-memorial-hospital-smmh/,hhsc.org,4
+0002796813,STRAUB CLINIC AND HOSPITAL,HI,https://www.hawaiipacifichealth.org/straub/,hawaiipacifichealth.org,4
+0002996766,WILCOX MEMORIAL HOSPITAL,HI,https://www.hawaiipacifichealth.org/wilcox/,hawaiipacifichealth.org,4
+0001796763,LANAI COMMUNITY HOSPITAL,HI,https://www.mauihealth.org/locations/lanai-community-hospital/,mauihealth.org,3
+0002096748,MOLOKAI GENERAL HOSPITAL,HI,https://www.queens.org/molokai/molokai-general-hospital,queens.org,5
+0002196743,NORTH HAWAII COMMUNITY HOSPITAL,HI,https://www.queens.org/north-hawaii/north-hawaii-community-hospital,queens.org,5
+0000961605,GREATER PEORIA SPECIALTY HOSPITAL LLC,IL,https://www.kindredhealthcare.com/locations/ltac/kindred-hospital-peoria,kindredhealthcare.com,9
+0096760540,NAPERVILLE PSYCHIATRIC VENTURES,IL,https://www.eehealth.org/locations/naperville/linden-oaks-behavioral-health/,eehealth.org,1
+0196060045,NORTHWESTERN LAKE FOREST HOSPITAL,IL,https://www.nm.org/locations/lake-forest-hospital,nm.org,5
+0015761443,OSF SAINT LUKE MEDICAL CENTER,IL,https://www.osfhealthcare.org/saint-luke/,osfhealthcare.org,1
+0001160016,PRESENCE CHICAGO HOSPITALS NETWORK,IL,https://www.amitahealth.org/location/amita-health-holy-family-medical-center-des-plaines,amitahealth.org,1
+0002360608,SCHWAB REHABILITATION HOSPITAL AND CARE NETWORK,IL,https://www.sinaichicago.org/en/find-a-location/results/schwab-rehabilitation/,sinaichicago.org,2
+0100460548,VALLEY WEST COMMUNITY HOSPITAL,IL,http://www.kishhealth.org/locations/profile/?id=11,kishhealth.org,1
+0001246219,COMMUNITY HOSPITAL EAST,IN,http://www.ecommunity.com/east/,ecommunity.com,4
+0004747591,GOOD SAMARITAN HOSPITAL,IN,http://www.gshvin.org/goodsamaritan,gshvin.org,1
+0006947454,INDIANA UNIVERSITY HEALTH PAOLI HOSPITAL,IN,http://www.iuhealth.org/paoli,iuhealth.org,14
+0007347960,INDIANA UNIVERSITY HEALTH WHITE MEMORIAL HOSPITAL,IN,http://www.iuhealth.org/white-memorial,iuhealth.org,14
+0011846804,REHABILITATION HOSPITAL OF FORT WAYNE GENERAL - PART OF LUTHERAN HEALTH NETWORK,IN,http://www.rehabhospital.com/pages/home.aspx,rehabhospital.com,1
+0012247906,RIVER BEND HOSPITAL,IN,http://www.nchsi.com/riverbendhospital.cfm,nchsi.com,1
+0016047842,UNION HOSPITAL CLINTON,IN,http://www.uhhg.org/wcch/index.html,uhhg.org,2
+0012250841,CHI HEALTH - MERCY CORNING,IA,http://www.chihealth.com/chi-health-mercy-corning,chihealth.com,2
+0093151503,METHODIST JENNIE EDMUNDSON,IA,https://www.bestcare.org/jennie-edmundson/,bestcare.org,2
+0095351249,OSCEOLA COMMUNITY HOSPITAL,IA,http://www.avera.org/osceola-community-hospital/,avera.org,6
+0004640906,BARBOURVILLE ARH HOSPITAL,KY,http://www.arh.org/locations/barbourville.aspx,arh.org,9
+0003140831,HARLAN ARH HOSPITAL,KY,http://www.arh.org/locations/harlan.aspx,arh.org,9
+0012341503,TUG VALLEY ARH REGIONAL MEDICAL CENTER,KY,http://www.arh.org/locations/tug_valley.aspx,arh.org,9
+0011540508,UK HEALTHCARE GOOD SAMARITAN HOSPITAL,KY,http://www.ukhealthcare.uky.edu/samaritan,uky.edu,2
+0012241858,WHITESBURG ARH HOSPITAL,KY,http://www.arh.org/whitesburg,arh.org,9
+0009340353,CHI SAINT JOSEPH MOUNT STERLING,KY,http://www.sjhlex.org/system-locations-saint-joseph-mount-sterling-mount-sterling-ky,sjhlex.org,1
+0004040202,UOFL HEALTH - JEWISH HOSPITAL,KY,http://www.kentuckyonehealth.org/body.cfm?id=3299&fr=true,kentuckyonehealth.org,3
+0009440215,UOFL HEALTH - MARY AND ELIZABETH HOSPITAL,KY,http://www.kentuckyonehealth.org/body.cfm?id=3288&fr=true,kentuckyonehealth.org,3
+0004140065,UOFL HEALTH - SHELBYVILLE HOSPITAL,KY,http://www.kentuckyonehealth.org/jewish-hospital-shelbyville,kentuckyonehealth.org,3
+0161471301,CHRISTUS DUBUIS HOSPITAL OF ALEXANDRIA,LA,https://lhcgroup.com/locations/christus-dubuis-hospital-of-alexandria/,lhcgroup.com,8
+0163770503,LAFAYETTE - AMG SPECIALTY HOSPITAL,LA,https://amgihm.com/locations/lafayette-specialty/,amgihm.com,2
+0007170508,LAFAYETTE PHYSICAL REHABILITATION HOSPITAL,LA,https://amgihm.com/locations/lafayette-physical/,amgihm.com,2
+0009771446,LEESVILLE REHABILITATION HOSPITAL,LA,https://clearskyhealth.com/leesville/,clearskyhealth.com,4
+0008470363,LEONARD J. CHABERT MEDICAL CENTER,LA,https://www.ochsner.org/locations/leonard-j-chabert-medical-center,ochsner.org,15
+0002970506,LOUISIANA EXTENDED CARE HOSPITAL OF LAFAYETTE,LA,https://lhcgroup.com/locations/louisiana-extended-care-hospital-of-lafayette/,lhcgroup.com,8
+0162571457,LOUISIANA EXTENDED CARE HOSPITAL OF NATCHITOCHES,LA,http://lhcgroup.com/locations/louisiana-extended-care-hospital-of-natchitoches,lhcgroup.com,8
+0162671291,LOUISIANA EXTENDED CARE HOSPITAL OF WEST MONROE,LA,http://lhcgroup.com/locations/louisiana-extended-care-hospital-of-west-monroe,lhcgroup.com,8
+0010170445,NORTHSHORE EXTENDED CARE HOSPITAL,LA,https://www.ochsner.org/services/ochsner-extended-care-hospital,ochsner.org,15
+0164671202,OCHSNER LSU HEALTH MONROE,LA,http://www.uhsystem.com/conway/home,uhsystem.com,1
+0163870403,PAM SPECIALTY HOSPITAL OF HAMMOND,LA,https://pamhealth.com/index.php/facilities/find-facility/specialty-hospitals/pam-specialty-hospital-hammond,pamhealth.com,5
+0021671115,PAM SPECIALTY HOSPITAL OF SHREVEPORT SOUTH,LA,https://pamhealth.com/index.php/facilities/find-facility/specialty-hospitals/pam-specialty-hospital-of-shreveport-south,pamhealth.com,5
+0016971241,SPECIALTY HOSPITAL,LA,https://lhcgroup.com/locations/specialty-hospital/,lhcgroup.com,8
+0164370043,ST. BERNARD PARISH HOSPITAL,LA,https://www.ochsner.org/locations/st-bernard-parish-hospital,ochsner.org,15
+0018270070,ST. CHARLES PARISH HOSPITAL,LA,https://www.ochsner.org/locations/st-charles-parish-hospital,ochsner.org,15
+0013670570,ST. LANDRY EXTENDED CARE HOSPITAL,LA,https://lhcgroup.com/locations/st-landry-extended-care-hospital/,lhcgroup.com,8
+0019971446,"TRI PARISH REHABILITATION HOSPITAL, LLC",LA,https://clearskyhealth.com/rosepine/,clearskyhealth.com,4
+0160970056,UNITED MEDICAL HEALTHWEST - NEW ORLEANS,LA,http://umrhospital.com/locations/new-orleans/,umrhospital.com,2
+0002604856,PENOBSCOT BAY MEDICAL CENTER,ME,http://www.penbayhealthcare.org/penbaymedicalcenter/page/about_our_facility/,penbayhealthcare.org,1
+0191021401,LUMINIS HEALTH J KENT MCNEW FAMILY MEDICAL CENTER,MD,https://aahs.org/locations/j--kent-mcnew-family-medical-center/,aahs.org,2
+0103821061,UMD BALTIMORE WASHINGTON MEDICAL CENTER,MD,https://www.umms.org/bwmc/locations/um-baltimore-washington-medical-center?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing,umms.org,7
+0005321204,UNIVERSITY OF MD ST JOSEPH MEDICAL CENTER,MD,https://www.umms.org/sjmc/locations/um-st-joseph-medical-center?utm_campaign=website-link&utm_medium=organic&utm_source=local-listing,umms.org,7
+0005920646,UMD CHARLES REGIONAL MEDICAL CENTER,MD,https://www.umms.org/charles/locations/um-charles-regional-medical-center,umms.org,7
+0006621613,UMD SHORE MEDICAL CTR AT DORCHESTER,MD,https://www.umms.org/shore/locations/medical-center-dorchester,umms.org,7
+0103921014,UMD UPPER CHESAPEAKE MEDICAL CENTER,MD,https://www.umms.org/uch/locations/um-upper-chesapeake-medical-center,umms.org,7
+0104021078,UNIVERSITY OF MD HARFORD MEMORIAL HOSPITAL,MD,https://www.umms.org/uch/locations/um-harford-memorial-hospital,umms.org,7
+0003502492,BETH ISRAEL DEACONESS HOSPITAL - NEEDHAM,MA,http://www.bidmc.org/centersanddepartments/departments/otherlocations/bethisraeldeaconesshospitalneedham.aspx,bidmc.org,1
+0007402124,CARNEY HOSPITAL,MA,http://steward.org/carney-hospital,steward.org,1
+0006902139,CHA CAMBRIDGE HOSPITAL,MA,http://www.challiance.org/locations/cambridgehospitalcampus.aspx,challiance.org,3
+0008102149,CHA EVERETT HOSPITAL,MA,http://www.challiance.org/locations/whiddenhospitalcampus.aspx,challiance.org,3
+0005901230,FAIRVIEW HOSPITAL,MA,http://www.berkshirehealthsystems.org/fairview,berkshirehealthsystems.org,3
+0002802540,FALMOUTH HOSPITAL,MA,http://www.capecodhealth.org/hospitals-facilities/falmouth-hospital/,capecodhealth.org,2
+0009501913,AMESBURY HEALTH CENTER,MA,http://www.lahey.org/amesbury/,lahey.org,1
+0011502035,NORCAP LODGE,MA,https://goodsamaritanmedical.org/services-directory/substance-abuse,goodsamaritanmedical.org,2
+0014748124,BEAUMONT HOSPITAL - DEARBORN,MI,https://www.oakwood.org/beaumont-hospital-dearborn,oakwood.org,4
+0015248184,BEAUMONT HOSPITAL - WAYNE,MI,https://www.oakwood.org/beaumont-hospital-wayne,oakwood.org,4
+0014248106,ST JOSEPH MERCY HOSPITAL,MI,http://www.stjoesannarbor.org/maple,stjoesannarbor.org,1
+0015548183,BEAUMONT HOSPITAL - TRENTON,MI,https://www.oakwood.org/beaumont-hospital-trenton,oakwood.org,4
+0006048093,ASCENSION MACOMB OAKLAND HOSP - WARREN CAMPUS,MI,http://www.stjohnprovidence.org/macomb,stjohnprovidence.org,2
+0015748180,BEAUMONT HOSPITAL - TAYLOR,MI,https://www.oakwood.org/beaumont-hospital-taylor,oakwood.org,4
+0001748658,ASCENSION STANDISH HOSPITAL,MI,http://www.stmarysofmichigan.org/standish,stmarysofmichigan.org,2
+0018248180,VIBRA HOSPITAL OF SOUTHEASTERN MI - TAYLOR CAMPUS,MI,http://www.vhsemichigan.com/locations/taylor_campus.aspx,vhsemichigan.com,1
+0000355407,ABBOTT NORTHWESTERN HOSPITAL,MN,https://www.allinahealth.org/abbott-northwestern-hospital/,allinahealth.org,7
+0004455313,BUFFALO HOSPITAL,MN,https://www.allinahealth.org/buffalo-hospital/,allinahealth.org,7
+0003155021,DISTRICT ONE HOSPITAL,MN,https://www.allinahealth.org/district-one-hospital/,allinahealth.org,7
+0001955103,HEALTHEAST BETHESDA HOSPITAL,MN,https://www.fairview.org/locations/bethesda-hospital,fairview.org,5
+0009956172,MURRAY COUNTY MEM HOSPITAL,MN,https://www.sanfordhealth.org/locations/murray-county-medical-center,sanfordhealth.org,10
+0008856573,PERHAM HEALTH,MN,https://www.sanfordhealth.org/locations/perham-health-clinic,sanfordhealth.org,10
+0005155033,REGINA HOSPITAL,MN,https://www.allinahealth.org/regina-hospital/,allinahealth.org,7
+0008255981,ST. ELIZABETHS MEDICAL CENTER,MN,https://healthcare.ascension.org/locations/wisconsin/wiapm/wabasha%20saint%20elizabeths%20medical%20center,ascension.org,18
+0000655102,UNITED HOSPITAL,MN,https://www.allinahealth.org/united-hospital/,allinahealth.org,7
+0001439090,BAPTIST MEDICAL CENTER - ATTALA,MS,http://mbhs.org/locations/baptist-medical-center-attala/,mbhs.org,2
+0011639194,BAPTIST MEDICAL CENTER YAZOO,MS,http://mbhs.org/locations/baptist-medical-center-yazoo/,mbhs.org,2
+0008738829,BAPTIST MEMORIAL HOSPITAL - BOONEVILLE,MS,http://www.bmhcc.org/booneville,bmhcc.org,1
+0004938916,BAPTIST MEMORIAL HOSPITAL - CALHOUN,MS,http://www.nmhs.net/calhoun_city,nmhs.net,5
+0012539466,HIGHLAND COMMUNITY HOSPITAL,MS,http://www.forresthealth.org/our-locations/highland-community-hospital/,forresthealth.org,2
+0006739429,MARION GENERAL HOSPITAL,MS,http://www.forresthealth.org/our-locations/marion-general-hospital/,forresthealth.org,2
+0003539564,OCEAN SPRINGS HOSPITAL,MS,http://srhshealth.com/osh_hospital.htm,srhshealth.com,1
+0008638863,PONTOTOC HEALTH SERVICES,MS,http://www.nmhs.net/pontotoc/,nmhs.net,5
+0005365807,COX MEDICAL CENTERS MEYER ORTHOPEDIC,MO,https://www.coxhealth.com/our-hospitals-and-clinics/our-locations/meyer-orthopedic-rehabilitation-hospital/,coxhealth.com,3
+0001865807,COX MEDICAL CENTERS SOUTH HOSPITAL,MO,http://www.coxhealth.com/body.cfm?id=1344,coxhealth.com,3
+0004064134,CRITTENTON CHILDREN'S CENTER,MO,https://www.saintlukeskc.org/locations/crittenton-childrens-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link,saintlukeskc.org,4
+0017864601,HEDRICK MEDICAL CENTER,MO,https://www.saintlukeskc.org/locations/hedrick-medical-center?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link,saintlukeskc.org,4
+0013963128,MERCY HOSPITAL SOUTH,MO,https://www.kindredhealthcare.com/locations/transitional-care-hospitals/kindred-hospital-st-louis-st-anthonys,kindredhealthcare.com,9
+0008664468,MOSAIC MEDICAL CENTER - MARYVILLE,MO,https://www.ssmhealth.com/locations/st-francis-hospital-maryville?utm_id=gmb18-13,ssmhealth.com,2
+0006865360,"ROYAL OAKS HOSPITAL, INC",MO,http://compasshealthnetwork.org/about-us/royal-oaks-hospital/,compasshealthnetwork.org,1
+0183364068,SIGNATURE PSYCHIATRIC HOSPITAL LIBERTY,MO,https://sphkc.net/locations/,sphkc.net,1
+0014263044,SSM HEALTH REHABILITATION HOSPITAL - BRI,MO,http://www.ssm-select.com/locations/inpatientrehab.aspx,ssm-select.com,1
+0013063017,ST. LUKE'S REHABILITATION HOSPITAL,MO,https://www.kindredhealthcare.com/locations/inpatient-rehabilitation-hospitals/st-lukes-rehabilitation-hospital,kindredhealthcare.com,9
+0182663376,THE REHABILITATION INSTITUTE OF ST. LOUIS,MO,https://encompasshealth.com/locations/rehabinstitutestl-stpeters,encompasshealth.com,35
+0005464683,WRIGHT MEMORIAL HOSPITAL,MO,https://www.saintlukeskc.org/locations/wright-memorial-hospital?utm_source=local-listing&utm_medium=organic&utm_campaign=website-link,saintlukeskc.org,4
+0004659255,POPLAR COMMUNITY HOSPITAL,MT,http://www.nemhs.net/index.php/facilities/critical-access-hospital/96-poplar-hospital,nemhs.net,1
+0005268114,THE NEBRASKA METHODIST HOSPITAL,NE,http://www.bestcare.org/methodist-hospital/,bestcare.org,2
+0176389149,PAM REHABILITATION HOSPITAL OF CENTENNIAL HILLS,NV,http://www.postacutemedical.com/our-facilities/outpatient-rehabilitation/pam-rehab-centennial-hills/,postacutemedical.com,9
+0000389128,PAM SPECIALTY HOSPITAL OF LAS VEGAS LLC,NV,https://postacutemedical.com/facilities/find-facility/specialty-hospitals/pam-specialty-hospital-of-las-vegas,postacutemedical.com,9
+0019323820,DOVER EMERGENCY ROOM,NH,https://portsmouthhospital.com/locations/dover-er/,portsmouthhospital.com,3
+0018633874,SEABROOK EMERGENCY ROOM,NH,https://portsmouthhospital.com/locations/seabrook-er/,portsmouthhospital.com,3
+0006307444,CHILTON MEDICAL CENTER,NJ,https://www.atlantichealth.org/locations/hospitals/chilton-medical-center.html,atlantichealth.org,4
+0007007109,CLARA MAASS MEDICAL CENTER,NJ,http://www.barnabashealth.org/hospitals/clara_maass/index.html,barnabashealth.org,4
+0109908818,JFK JOHNSON REHABILITATION INSTITUTE,NJ,https://www.jfkmc.org/clinical-services/jfk-johnson-rehabilitation-institute/,jfkmc.org,3
+0108608701,MONMOUTH MEDICAL CENTER - SOUTHERN CAMPUS,NJ,http://www.barnabashealth.org/monmouth-medical-center-southern-campus.aspx,barnabashealth.org,4
+0008207901,OVERLOOK MEDICAL CENTER,NJ,http://www.atlantichealth.org/overlook,atlantichealth.org,4
+0108708876,ROBERT WOOD JOHNSON UNIVERSITY HOSPITAL SOMERSET,NJ,http://www.rwjuh.edu/rwjuh/home.aspx,rwjuh.edu,2
+0003488345,LINCOLN COUNTY MEDICAL CENTER,NM,https://lincoln-county-medical-center.phs.org/pages/default.aspx,phs.org,2
+0004787532,PRESBYTERIAN ESPANOLA HOSPITAL,NM,https://espanola-hospital.phs.org/pages/default.aspx,phs.org,2
+0119014020,UNITED MEMORIAL MEDICAL CENTER NORTH STREET CAMPUS,NY,https://www.rochesterregional.org/locations/hospitals/united-memorial-medical-center/,rochesterregional.org,2
+0009513820,A.O. FOX MEMORIAL HOSPITAL,NY,https://www.bassett.org/locations/ao-fox-hospital,bassett.org,2
+0121114830,CORNING HOSPITAL,NY,https://www.guthrie.org/location/guthrie-corning-hospital,guthrie.org,3
+0119710701,SJRH - ST JOHNS DIVISION,NY,http://www.riversidehealth.org/facilities/andrus.aspx,riversidehealth.org,2
+0121310703,SJRH - PARK CARE PAVILION,NY,http://www.riversidehealth.org/facilities/parkcare.aspx,riversidehealth.org,2
+0119111203,UNIVERSITY HOSPITAL OF BROOKLYN,NY,http://www.downstate.edu/uhb/,downstate.edu,1
+0119310038,NEW YORK - PRESBYTERIAN - LOWER MANHATTAN HOSPITAL,NY,http://www.nyp.org/lowermanhattan,nyp.org,5
+0114010016,BELLEVUE HOSPITAL CENTER,NY,http://www.nychealthandhospitals.org/bellevue/html/home/home.shtml,nychealthandhospitals.org,3
+0116710037,HARLEM HOSPITAL CENTER,NY,http://www.nychealthandhospitals.org/harlem/html/home/home.shtml,nychealthandhospitals.org,3
+0118810032,NEW YORK - PRESBYTERIAN HOSPITAL - COLUMBIA PRESBYTERIAN CENTER,NY,http://www.nyp.org/locations/newyork-presbyterian-columbia-university-medical-center,nyp.org,5
+0116810035,HENRY J. CARTER SPECIALTY HOSPITAL,NY,http://www.nychealthandhospitals.org/carter/html/home/home.shtml,nychealthandhospitals.org,3
+0115014127,MERCY HOSPITAL - MERCY HOSPITAL ORCHARD PARK DIVISION,NY,http://www.chsbuffalo.org/facilities/diagnostic/mercyambulatorycarecenter,chsbuffalo.org,1
+0115610034,NEW YORK - PRESBYTERIAN HOSPITAL - ALLEN HOSPITAL,NY,http://www.nyp.org/allenhospital,nyp.org,5
+0118413838,A.O. FOX MEMORIAL HOSPITAL - TRI - TOWN CAMPUS,NY,https://www.bassett.org/locations/ao-fox-hospital-tri-town-campus,bassett.org,2
+0119614420,URMC STRONG WEST,NY,https://www.urmc.rochester.edu/strong-west.aspx,rochester.edu,1
+0014828210,ATRIUM HEALTH PINEVILLE,NC,https://www.carolinashealthcare.org/locations/carolinas-healthcare-system-pineville,carolinashealthcare.org,7
+0008028301,HIGHSMITH - RAINEY SPECIALTY HOSPITAL,NC,http://www.capefearvalley.com/hospitals/hrsh.html,capefearvalley.com,2
+0005528150,ATRIUM HEALTH CLEVELAND,NC,http://www.carolinashealthcare.org/cleveland,carolinashealthcare.org,7
+0014128170,ATRIUM HEALTH ANSON,NC,http://www.carolinashealthcare.org/anson,carolinashealthcare.org,7
+0184927103,NOVANT HEALTH REHABILITATION HOSPITAL,NC,https://www.encompasshealth.com/locations/novanthealthrehab,encompasshealth.com,35
+0003028801,ASHEVILLE SPECIALTY HOSPITAL,NC,http://www.missionhospitals.org/acute-care,missionhospitals.org,2
+0002727320,ANNIE PENN HOSPITAL,NC,www.conehealth.com/locations/annie-penn-hospital,conehealth.com,4
+0004328025,ATRIUM HEALTH CABARRUS,NC,http://www.carolinashealthcare.org/northeast,carolinashealthcare.org,7
+0001458575,CHI ST ALEXIUS HEALTH TURTLE LAKE,ND,http://www.wrtc.com/cullum/hospital,wrtc.com,1
+0012243228,DOCTORS HOSPITAL WEST,OH,https://www.ohiohealth.com/doctors/,ohiohealth.com,5
+0001145242,BETHESDA NORTH HOSPITAL,OH,http://www.trihealth.com/hospitals-and-practices/bethesda-north-hospital/,trihealth.com,3
+0000000091,SOUTHVIEW HOSPITAL,OH,http://www.ketteringhealth.org/southview/,ketteringhealth.org,2
+0012545701,O'BLENESS MEMORIAL HOSPITAL,OH,https://www.ohiohealth.com/obleness/,ohiohealth.com,5
+0013444820,BUCYRUS COMMUNITY HOSPITAL,OH,http://avitahealth.org/home,avitahealth.org,2
+0000643302,MARION GENERAL HOSPITAL,OH,http://www.ohiohealth.com/mariongeneral,ohiohealth.com,5
+0121843614,ADVANCED SPECIALTY HOSPITAL OF TOLEDO,OH,http://www.communicarehealth.com/facility/advanced-specialty-hospitals-of-toledo/,communicarehealth.com,1
+0008573110,INSPIRE SPECIALTY HOSPITAL,OK,http://www.encore-healthcare.com/specialty_midwest/index.aspx,encore-healthcare.com,2
+0002574447,MUSCOGEE - CREEK - NATION LONG TERM ACUTE CARE HOSPITAL,OK,gnrc.ouhsc.edu/ltachunit.html,ouhsc.edu,1
+0131074538,MARY HURLEY HOSPITAL,OK,http://www.ccghospital.com/hospital/,ccghospital.com,1
+0013974136,"LAUREATE PSYCHIATRIC CLINIC AND HOSPITAL, INC",OK,https://www.saintfrancis.com/laureate-psychiatric-clinic/pages/default.aspx,saintfrancis.com,2
+0001197330,GOOD SAMARITAN REGIONAL MEDICAL CENTER,OR,http://www.samhealth.org/locations/goodsamaritanregionalmedicalcenter/pages/default.aspx,samhealth.org,5
+0004297477,SACRED HEART MEDICAL CENTER - RIVERBEND,OR,http://www.peacehealth.org/sacred-heart-riverbend/pages/default.aspx,peacehealth.org,3
+0004397401,SACRED HEART UNIVERSITY DISTRICT,OR,http://www.peacehealth.org/sacred-heart-university-district/pages/default.aspx,peacehealth.org,3
+0196784783,AHN WEXFORD HOSPITAL,PA,https://www.ahn.org/locations/hospitals/wexford,ahn.org,7
+0017919010,THE BRYN MAWR HOSPITAL,PA,https://www.mainlinehealth.org/locations/bryn-mawr-hospital,mainlinehealth.org,2
+0004029485,SUMMERVILLE MEDICAL CENTER,SC,http://tridenthealthsystem.com/about/summerville-medical-center/,tridenthealthsystem.com,2
+0009429651,PELHAM MEDICAL CENTER,SC,https://www.spartanburgregional.com/locations/pelham-medical-center/,spartanburgregional.com,1
+0002229681,PRISMA HEALTH HILLCREST HOSPITAL,SC,http://www.ghs.org/hillcrest,ghs.org,7
+0006129615,PRISMA HEALTH PATEWOOD HOSPITAL,SC,http://www.ghs.org/patewood,ghs.org,7
+0009529650,PRISMA HEALTH - UPSTATE - PRISMA HEALTH GREER MEMORIAL HOSPITAL,SC,http://www.ghs.org/greermemorial,ghs.org,7
+0004829690,PRISMA HEALTH NORTH GREENVILLE LONG TERM ACUTE CARE HOSPITAL,SC,http://www.ghs.org/ngh,ghs.org,7
+0000129605,PRISMA HEALTH GREENVILLE MEMORIAL HOSPITAL,SC,http://www.ghs.org/greenvillememorial,ghs.org,7
+0002129672,PRISMA HEALTH - UPSTATE - PRISMA HEALTH OCONEE MEMORIAL HOSPITAL,SC,https://www.ghs.org/locations/oconee-medical-campus/,ghs.org,7
+0194629210,SOUTH CAROLINA SEXUALLY VIOLENT PREDATOR TREATMENT PROGRAM,SC,https://wellpathcare.com/recovery-solutions-locations/south-carolina-sexually-violent-predator-treatment-program-scvptp/,wellpathcare.com,2
+0001629340,CHEROKEE MEDICAL CENTER,SC,http://maryblackgaffney.com/mary-black-gaffney/home.aspx,maryblackgaffney.com,1
+0010729212,PRISMA HEALTH BAPTIST PARKRIDGE,SC,https://www.palmettohealth.org/locations-directions/hospitals/palmetto-health-baptist-parkridge,palmettohealth.org,2
+0000729325,PRISMA HEALTH - UPSTATE - PRISMA HEALTH LAURENS COUNTY HOSPITAL,SC,http://www.ghs.org/laurens,ghs.org,7
+0183729461,ROPER ST FRANCIS BERKELEY HOSPITAL,SC,https://www.rsfh.com/berkeley-hospital/,rsfh.com,1
+0016637604,FRANKLIN WOODS COMMUNITY HOSPITAL,TN,https://www.mountainstateshealth.com/fwch,mountainstateshealth.com,1
+0015237869,HANCOCK COUNTY HOSPITAL,TN,http://www.wellmont.org/hospitals/hancock-county-hospital.aspx,wellmont.org,3
+0008238301,JACKSON - MADISON COUNTY GENERAL HOSPITAL DISTRICT,TN,http://www.wth.org/locations/page/jackson-madison-co-general,wth.org,3
+0004338556,"JAMESTOWN TN MEDICAL CENTER, INC",TN,http://www.tennovaeast.com/locations/tennova-healthcare-jamestown,tennovaeast.com,5
+0010437604,WOODRIDGE PSYCHIATRIC HOSPITAL,TN,http://www.msha.com/hospitals/woodridge_hospital_l_johnson_city_tn.aspx,msha.com,6
+0003537683,JOHNSON COUNTY COMMUNITY HOSPITAL,TN,http://www.msha.com/hospitals/johnson_county_community_hospital_l_mountain_city_tn.aspx,msha.com,6
+0009038103,LE BONHEUR CHILDREN'S HOSPITAL,TN,http://www.methodisthealth.org/locations/le-bonheur-children-s-hospital,methodisthealth.org,3
+0009538103,REGIONAL ONE HEALTH,TN,http://www.regionalonehealth.org/regional-medical-center/,regionalonehealth.org,2
+0017138103,REGIONAL ONE HEALTH EXTENDED CARE HOSPITAL,TN,http://www.regionalonehealth.org/extended-care-hospital/,regionalonehealth.org,2
+0012437166,"SAINT THOMAS DEKALB HOSPITAL, LLC",TN,http://www.sthealth.com/locations/saint-thomas-dekalb-hospital,sthealth.com,7
+0006437033,SAINT THOMAS HICKMAN HOSPITAL,TN,http://www.sthealth.com/locations/saint-thomas-hickman-hospital,sthealth.com,7
+0011138583,"SAINT THOMAS HIGHLANDS HOSPITAL, LLC",TN,http://www.sthealth.com/locations/saint-thomas-highlands-hospital,sthealth.com,7
+0015337110,"SAINT THOMAS RIVER PARK HOSPITAL, LLC",TN,http://www.sthealth.com/locations/saint-thomas-river-park-hospital,sthealth.com,7
+0006137130,SAINT THOMAS RUTHERFORD HOSPITAL,TN,http://www.sthealth.com/locations/saint-thomas-rutherford-hospital,sthealth.com,7
+0000837190,"SAINT THOMAS STONES RIVER HOSPITAL, LLC",TN,http://www.sthealth.com/locations/saint-thomas-stones-river-hospital,sthealth.com,7
+0017337203,SAINT THOMAS MIDTOWN HOSPITAL,TN,http://www.sthealth.com/locations/saint-thomas-midtown-hospital,sthealth.com,7
+0001137643,SYCAMORE SHOALS HOSPITAL,TN,http://www.msha.com/hospitals/sycamore_shoals_hospital_l_elizabethton_tn.aspx,msha.com,6
+0195337650,UNICOI COUNTY HOSPITAL,TN,https://www.balladhealth.org/hospitals/unicoi-county-hospital-erwin,balladhealth.org,8
+0012237087,VANDERBILT WILSON COUNTY HOSPITAL,TN,http://www.tennovamiddle.com/locations/tennova-healthcare-lebanon,tennovamiddle.com,3
+0012337087,VANDERBILT WILSON COUNTY HOSPITAL - SATELLITE,TN,http://www.tennovamiddle.com/locations/tennova-healthcare-lebanon,tennovamiddle.com,3
+0007038008,WEST TENNESSEE HEALTHCARE BOLIVAR HOSPITAL,TN,http://www.wth.org/locations/page/bolivar-general-hospital,wth.org,3
+0000338320,WEST TENNESSEE HEALTHCARE CAMDEN HOSPITAL,TN,http://www.wth.org/locations/page/camden-general-hospital,wth.org,3
+0078777701,BAPTIST HOSPITALS OF SOUTHEAST TEXAS FANNIN BEHAVIORAL CENTER,TX,http://www.bhset.net/health-services/behavioral-health-services.aspx,bhset.net,2
+0078078539,BEHAVIORAL MEDICINE AT RENAISSANCE,TX,http://www.dhr-rgv.com/healthcare-services/behavioral-hospital,dhr-rgv.com,2
+0034677351,CHI ST LUKES HEALTH - MEMORIAL LIVINGSTON,TX,http://www.memorialhealth.us/centers/livingston,memorialhealth.us,2
+0031275766,CHRISTUS MOTHER FRANCES HOSPITAL - JACKSONVILLE,TX,https://www.tmfhc.org/maps-and-locations/locations-profile/?id=9,tmfhc.org,2
+0169375703,CHRISTUS MOTHER FRANCES HOSPITAL - SOUTH TYLER,TX,https://www.tmfhc.org/maps-and-locations/locations-profile/christus-mother-frances-hospital-south-tyler/,tmfhc.org,2
+0053375701,CHRISTUS MOTHER FRANCES HOSPITAL - TYLER,TX,http://www.tmfhs.org/motherfranceshospitaltyler,tmfhs.org,2
+0058575218,CITY HOSPITAL AT WHITE ROCK,TX,http://www.baylorhealth.com/physicianslocations/whiterock/pages/default.aspx,baylorhealth.com,2
+0013775204,COON MEMORIAL HOSPITAL AND HOME,TX,http://dhchd.org/coon-memorial-hospital,dhchd.org,1
+0075279925,DEL SOL MEDICAL CENTER A CAMPUS OF LPDS HEALTHCARE,TX,http://laspalmasdelsolhealthcare.com/location/del-sol-medical-center,laspalmasdelsolhealthcare.com,3
+0017677957,JACKSON COUNTY HOSPITAL,TX,http://www.jchd.org/getpage.php?name=index,jchd.org,1
+0046278229,METHODIST HOSPITAL,TX,http://sahealth.com/locations/methodist-hospital/index.dot,sahealth.com,3
+0047978201,METHODIST TEXSAN HOSPITAL - A METHODIST HOSPITAL FACILITY,TX,http://sahealth.com/locations/methodisttexsan/,sahealth.com,3
+0000575013,PAM REHABILITATION HOSPITAL OF ALLEN,TX,http://www.warmsprings.org/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-center-allen/,warmsprings.org,9
+0036678648,PAM SPECIALTY HOSPITAL OF LULING,TX,http://www.warmsprings.org/our-facilities/hospitals/warm-springs-specialty-hospital-luling/,warmsprings.org,9
+0039878130,PAM SPECIALTY HOSPITAL OF NEW BRAUNFELS,TX,http://www.warmsprings.org/our-facilities/hospitals/warm-springs-specialty-hospital-new-braunfels,warmsprings.org,9
+0052075503,PAM SPECIALTY HOSPITAL OF TEXARKANA NORTH,TX,http://www.warmsprings.org/our-facilities/hospitals/post-acute-medical-specialty-hospital-texarkana-north/,warmsprings.org,9
+0055077904,PAM SPECIALTY HOSPITAL OF VICTORIA NORTH,TX,http://www.warmsprings.org/our-facilities/hospitals/post-acute-medical-specialty-hospital-victoria/,warmsprings.org,9
+0054977901,PAM SPECIALTY HOSPITAL OF VICTORIA SOUTH,TX,http://www.warmsprings.org/our-facilities/hospitals/post-acute-medical-specialty-hospital-victoria/,warmsprings.org,9
+0018379902,PREMIER SPECIALTY HOSPITAL OF EL PASO,TX,http://www.encore-healthcare.com/mesa_hills/index.aspx,encore-healthcare.com,2
+0082178041,PROVIDENCE HOSPITAL,TX,http://www.doctorshosplaredo.com/hospital-services/doctors-hospital-of-laredo-clinics/rehabilitation-at-providence-health-center,doctorshosplaredo.com,2
+0075875020,REBA MCENTIRE CENTER FOR REHABILITATION,TX,https://www.texomamedicalcenter.net/services/rehabilitation/inpatient-rehabilitation,texomamedicalcenter.net,2
+0078278539,REHAB CENTER AT RENAISSANCE,TX,http://www.dhr-rgv.com/healthcare-services/rehabilitation-hospital,dhr-rgv.com,2
+0044678681,ROUND ROCK MEDICAL CENTER,TX,http://www.stdavids.com/home.aspx,stdavids.com,2
+0012578404,THE CORPUS CHRISTI MEDICAL CENTER - BAY AREA,TX,http://ccmedicalcenter.com/about/bay-area.dot,ccmedicalcenter.com,3
+0017979902,THE HOSPITALS OF PROVIDENCE MEMORIAL CAMPUS,TX,http://www.sphn-pmh.com/en-us/pages/default.aspx,sphn-pmh.com,1
+0024675652,UT HEALTH EAST TEXAS HENDERSON HOSPITAL,TX,http://www.etmc.org/etmchenderson/,etmc.org,9
+0043875783,UT HEALTH EAST TEXAS QUITMAN HOSPITAL,TX,http://www.etmc.org/etmcquitman/,etmc.org,9
+0046978229,WARM SPRINGS REHABILITATION HOSPITAL OF SAN ANTONIO,TX,http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-san-antonio/,postacutemedical.com,9
+0072178247,WARM SPRINGS REHABILITATION HOSPITAL OF THOUSAND OAKS,TX,http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-thousand-oaks/,postacutemedical.com,9
+0072278251,WARM SPRINGS REHABILITATION HOSPITAL OF WESTOVER HILLS,TX,http://postacutemedical.com/our-facilities/outpatient-rehabilitation/warm-springs-rehabilitation-hospital-westover-hills/,postacutemedical.com,9
+0035779408,SUNRISE CANYON,TX,http://www.lubbockmhmr.org/sch/,lubbockmhmr.org,1
+0002184624,DELTA COMMUNITY HOSPITAL,UT,https://intermountainhealthcare.org/locations/delta-community-hospital/,intermountainhealthcare.org,10
+0002084759,GARFIELD MEMORIAL HOSPITAL,UT,http://www.ihc.com/hospitals/garfield,ihc.com,2
+0003984337,BEAR RIVER VALLEY HOSPITAL,UT,http://www.intermountainhealthcare.org/hospitals/bearriver,intermountainhealthcare.org,10
+0005784060,PARK CITY HOSPITAL,UT,https://intermountainhealthcare.org/locations/park-city-hospital/,intermountainhealthcare.org,10
+0001284604,UTAH VALLEY HOSPITAL,UT,https://intermountainhealthcare.org/locations/utah-valley-hospital/,intermountainhealthcare.org,10
+0147922908,UVA TRANSITIONAL CARE HOSPITAL,VA,http://uvahealth.com/services/transitional-care-hospital/referrals,uvahealth.com,2
+0014922560,VCU HEALTH TAPPAHANNOCK HOSPITAL,VA,https://www.vcuhealth.org/tappahannock/locations/tappahannock-hospital,vcuhealth.org,3
+0001422554,STAFFORD HOSPITAL,VA,www.marywashingtonhealthcare.com/locations/stafford-hospital,marywashingtonhealthcare.com,2
+0006024228,DICKENSON COMMUNITY HOSPITAL,VA,www.msha.com/dch.cfm?id=1507,msha.com,6
+0012823507,HOSPITAL FOR EXTENDED RECOVERY,VA,www.sentara.com/hospitalsfacilities/hospitals/norfolkgeneral/pages/hospital_for_extended_recovery.aspx,sentara.com,11
+0147224201,"REHABILITATION HOSPITAL OF BRISTOL, LLC",VA,https://encompasshealth.com/locations/bristolrehab,encompasshealth.com,35
+0006298383,ST. MICHAEL MEDICAL CENTER,WA,http://www.harrisonmedical.org/home/location/2,harrisonmedical.org,1
+0001125801,BECKLEY ARH HOSPITAL,WV,http://www.arh.org/locations/beckley.aspx,arh.org,9
+0005526757,HAMPSHIRE MEMORIAL HOSPITAL,WV,http://www.valleyhealthlink.com/hampshire,valleyhealthlink.com,7
+0000825438,JEFFERSON MEDICAL CENTER,WV,http://www.wvuniversityhealthcare.com/default.aspx,wvuniversityhealthcare.com,1
+0005726003,PETERSON HEALTHCARE AND REHABILITATION HOSPITAL,WV,http://weat.com/site6/,weat.com,1
+0005925951,SUMMERS COUNTY ARH HOSPITAL,WV,http://www.arh.org/locations/summers_county.aspx,arh.org,9
+0006125411,WAR MEMORIAL HOSPITAL INC,WV,http://www.valleyhealthlink.com/war,valleyhealthlink.com,7
+0008153210,ASCENSION SE WISCONSIN HOSPITAL - ST JOSEPH CAMPUS,WI,http://www.mywheaton.org/stjoseph,mywheaton.org,2
+0152354971,RIPON MEDICAL CENTER,WI,http://www.agnesian.com/locations/hospitals/ripon-medical-center,agnesian.com,2
+0001553715,SSM HEALTH ST MARY'S HOSPITAL - MADISON,WI,https://www.ssmhealth.com/locations/st-marys-hospital-madison,ssmhealth.com,2
+0018053718,UW HEALTH REHABILITATION HOSPITAL,WI,http://www.uwhealth.org/locations/detail.jsp?locationid=286,uwhealth.org,2
+0022277550,UNIVERSITY OF TEXAS MEDICAL BRANCH - GALVESTON,TX,https://www.utmbhealth.com/locations/hospitals-campuses/galveston-campus,utmbhealth.com,2
+0018610032,NEW YORK PRESBYTERIAN MORGAN STANLEY CHILDREN'S HOSPITAL,NY,http://www.nyp.org/morganstanley,nyp.org,5
+0120114222,WOMEN AND CHILDREN'S HOSPITAL OF BUFFALO,NY,http://www.kaleidahealth.org/childrens/,kaleidahealth.org,1
+0006973104,OU MEDICAL CENTER -THE CHILDREN'S HOSPITAL,OK,http://www.oumedicine.com/oumedicalcenter,oumedicine.com,3
+0081632806,WINNIE PALMER HOSPITAL FOR WOMEN AND BABIES,FL,http://orlandohealth.com/orlandohealth/index.aspx,orlandohealth.com,9
+0080275701,UT HEALTH EAST TEXAS BEHAVIORAL HEALTH CENTER,TX,http://www.etmc.org/location/etmc-behavioral-health-center-in-tyler/,etmc.org,9
+0049395661,CIRBY HILLS BEHAVIORAL HEALTH,CA,http://www.telecarecorp.com/programs/30,telecarecorp.com,6
+0009170605,LAKE CHARLES MEMORIAL HOSPITAL FOR WOMEN,LA,http://www.lcmh.com/womens-hospital,lcmh.com,2
+0006570535,EUNICE EXTENDED CARE HOSPITAL,LA,http://lhcgroup.com/locations/eunice-extended-care-hospital,lhcgroup.com,8
+0010863935,SOUTHEASTHEALTH CENTER OF RIPLEY COUNTY,MO,https://www.sehealth.org/locations/health-center-ripley-county,sehealth.org,2
+0002207102,MOUNT CARMEL GUILD BEHAVIORAL HEALTHCARE SYSTEM,NJ,http://www.ccannj.com/mental_health_pro.php,ccannj.com,1
+0006746151,INDIANA UNIVERSITY HEALTH MORGAN HOSPITAL INC,IN,http://www.iuhealth.org/morgan/,iuhealth.org,14
+0039475457,EAST TEXAS MEDICAL CENTER MOUNT VERNON,TX,http://www.etmc.org/etmcmountvernon/,etmc.org,9
+0124744106,RAINBOW BABIES AND CHILDRENS HOSPITAL,OH,http://www.uhhospitals.org/rainbow,uhhospitals.org,3
+0000930274,SOUTHERN CRESCENT HOSPITAL FOR SPECIALTY CARE,GA,http://www.dubuis.org/southerncrescenthospitalforspecialtycare,dubuis.org,1
+0021571111,WK BOSSIER HEALTH CENTER,LA,http://www.wkhs.com/wkb/,wkhs.com,3
+0058893555,BELLA SERA,CA,http://rrh.org/hospital-services/tcru/,rrh.org,1
+0188586336,VERDE VALLEY MEDICAL CENTER - SEDONA CAMPUS,AZ,https://www.nahealth.com/emergency-department/emergencies-sedona,nahealth.com,1
+0011228690,CAROLINAS HEALTHCARE SYSTEM BLUE RIDGE - VALDESE,NC,https://atriumhealth.org/locations/detail/carolinas-healthcare-system-blue-ridge-valdese,atriumhealth.org,2
+0010832703,ADVENTHEALTH APOPKA,FL,https://www.floridahospital.com/apopka,floridahospital.com,2
+0001401420,HEALTH ALLIANCE HOSPITAL - BURBANK CAMPUS,MA,http://www.umassmemorial.org/healthalliance-hospital/for-patients-and-visitors/directions,umassmemorial.org,1
+0032595361,OAKDALE NURSING AND REHABILITATION CENTER,CA,http://www.oriolhealthcare.com/oakdale-rehabilitation-and-skilled-nursing-center/,oriolhealthcare.com,1
+0021371118,WILLIS-KNIGHTON SOUTH AND CENTER FOR WOMEN'S HEALTH,LA,http://www.wkhs.com/locations/south.aspx,wkhs.com,3
+0019824201,RIDGEVIEW PAVILION (BRISTOL REGION),VA,https://www.balladhealth.org/behavioral-health/ridgeview-pavilion,balladhealth.org,8
+0013260452,OAK FOREST HOSPITAL,IL,http://www.cookcountyhhs.org/locations/oak-forest-health-center/,cookcountyhhs.org,1
+0035832606,UF HEALTH SHANDS REHAB HOSPITAL,FL,https://ufhealth.org/uf-health-shands-rehabilitation-hospital/welcome-uf-health-shands-rehab-hospital,ufhealth.org,3
+0020518071,PALMERTON HOSPITAL,PA,http://www.ghmh.org/content/palmertoncampus.htm,ghmh.org,1
+0081333484,PINECREST REHAB HOSPITAL,FL,http://www.delraymedicalctr.com/en-us/pages/default.aspx,delraymedicalctr.com,3
+0176593702,CENTRAL STAR PSYCHIATRIC HEALTH FACILITY FRESNO,CA,https://www.exodusrecovery.com/fresno-programs/fresno-csc-in-patient/,exodusrecovery.com,2
+0176627403,BEHAVIORAL HEALTH HOSPITAL,NC,https://www.conehealth.com/locations/behavioral-health-hospital/,conehealth.com,4
+0001555432,MERCY HOSPITAL - UNITY CAMPUS,MN,https://www.allinahealth.org/unity-hospital/,allinahealth.org,7
+0001702896,REHABILITATION HOSPITAL OF RHODE ISLAND,RI,http://www.rhri.net/home.aspx,rhri.net,1
+0057875235,WILLIAM P. CLEMENTS JR. UNIVERSITY HOSPITAL,TX,http://www.utswmedicine.org/hospitals-clinics/clements/,utswmedicine.org,1
+0017452402,CONTINUING CARE HOSPITAL,IA,https://www.unitypoint.org/cedarrapids/services-continuing-care-hospital.aspx,unitypoint.org,2
+0012970065,OCHSNER EXTENDED CARE HOSPITAL OF KENNER,LA,http://lhcgroup.com/locations/ochsner-extended-care-hospital-of-kenner,lhcgroup.com,8
+0047078240,METHODIST AMBULATORY SURGERY HOSPITAL - NORTHWEST,TX,http://sahealth.com/locations/methodistambulatory/,sahealth.com,3
+0000417011,SELECT SPECIALTY HOSPITAL CENTRAL PENNSYLVANIA CAMP HILL,PA,http://www.hsh.org/behavioral-health/,hsh.org,1
+0031895993,NORTH VALLEY BEHAVIORAL HEALTH,CA,http://www.nvbh.com/nvbh/home.html,nvbh.com,1
+0028694025,MENLO PARK SURGICAL HOSPITAL,CA,http://www.pamf.org/mpsh,pamf.org,1
+0004228207,CAROLINAS MEDICAL CENTER-MERCY,NC,https://atriumhealth.org/locations/detail/atrium-health-mercy,atriumhealth.org,2
+0012227403,WESLEY LONG COMMUNITY HOSPITAL,NC,http://www.conehealth.com/locations/wesley-long-hospital,conehealth.com,4
+0019918017,LEHIGH VALLEY HOSPITAL-MUHLENBERG,PA,http://www.lvhn.org/facilities_directions/hospital_locations/lehigh_valley_hospital_muhlenberg,lvhn.org,6
+0000000078,OU MEDICAL CENTER EDMOND-ER,OK,http://www.oumedicine.com/edmond,oumedicine.com,3
+0000000100,IU HEALTH UNIVERSITY HOSPITAL,IN,http://iuhealth.org/university/,iuhealth.org,14
+0000000102,RILEY HOSPITAL FOR CHILDREN,IN,http://iuhealth.org/riley/,iuhealth.org,14
+0000000090,BETHESDA ARROW SPRINGS-ER,OH,http://www.trihealth.com/hospitals-and-practices/bethesda-arrow-springs/,trihealth.com,3
+0012202346,HIGH POINT TREATMENT CENTER,MA,http://www.hptc.org/hospital.php,hptc.org,1
+0000000127,NEW HANOVER REGIONAL MEDICAL CENTER ORTHOPEDIC HOSPITAL,NC,https://www.nhrmc.org/locations/nhrmc-orthopedic-hospital,nhrmc.org,1
+0013433873,ADVENTHEALTH WAUCHULA,FL,http://fh.floridahospital.com/heartland/home.aspx,floridahospital.com,2
+0111487106,UNM AHF PRIMARY CARE CLINIC,NM,http://hospitals.unm.edu/about/about-unmpc.shtml,unm.edu,1
+0003201904,NORTH SHORE MEDICAL CENTER - UNION CAMPUS,MA,http://nsmc.partners.org/locations/union_hospital,partners.org,2
+0003789703,SIERRA SURGERY HOSPITAL,NV,http://www.carsontahoe.com/sierra-surgery,carsontahoe.com,3
+0000000114,SPRINGFIELD HOSPITAL,PA,http://www.crozerkeystone.org/locations/location-profile/?id=5,crozerkeystone.org,3
+0000000126,KERNERSVILLE MEDICAL CENTER-ER,NC,https://www.novanthealth.org/kernersville-medical-center.aspx,novanthealth.org,8
+0075934239,BAYSIDE CENTER FOR BEHAVIORAL HEALTH,FL,http://www.smh.com/p.aspx?p=17,smh.com,2
+0080332563,THE FRIARY OF LAKEVIEW CENTER,FL,http://thefriary.bhcpns.org/thefriary/,bhcpns.org,2
+0080433484,FAIR OAKS PAVILION - PSYCHIATRIC HOSPITAL,FL,http://www.delraymedicalctr.com/en-us/pages/default.aspx,delraymedicalctr.com,3
+0025477008,THE HEIGHTS HOSPITAL,TX,http://www.sjmctx.com/the-heights/,sjmctx.com,2
+0000000115,TAYLOR HOSPITAL,PA,http://www.crozerkeystone.org/locations/location-profile/?id=4,crozerkeystone.org,3
+0001207112,CHILDRENS HOSPITAL OF NEW JERSEY - NEWARK,NJ,http://www.barnabashealth.org/hospitals/childrens_hospital/,barnabashealth.org,4
+0009823226,ST. MARYS HOSPITAL AMBULATORY SURGERY CENTER,VA,http://richmond.bonsecours.com/find-a-facility-st-marys-hospital.,bonsecours.com,10
+0008823116,UROSURGICAL CENTER OF RICHMOND,VA,http://richmond.bonsecours.com/find-a-facility-memorial-regional-medical-center.html,bonsecours.com,10
+0011755404,PHILLIPS EYE INSTITUTE,MN,http://www.allinahealth.org/ahs/pei.nsf/,allinahealth.org,7
+0014515901,CRICHTON REHABILITATION CENTER,PA,http://www.conemaugh.org/template_article.aspx?id=4856,conemaugh.org,3
+0145622601,WINCHESTER REHABILITATION CENTER,VA,http://www.valleyhealthlink.com/our-locations/inpatient-outpatient-rehabilitation/winchester-rehabilitation-center-inpatient-.aspx,valleyhealthlink.com,7
+0002820785,UMD PRINCE GEORGE'S HOSPITAL CTR,MD,https://www.umms.org/capital/locations/um-prince-georges-hospital-center,umms.org,7
+0000000117,LEHIGH VALLEY HOSPITAL-17TH ST,PA,http://www.lvhn.org/facilities_directions/hospital_locations/lehigh_valley_hospital_17th_street,lvhn.org,6
+0014998166,REGIONAL HOSPITAL FOR RESPIRATORY AND COMPLEX CARE,WA,https://www.chifranciscan.org/regional-hospital,chifranciscan.org,1
+0184168803,CHI HEALTH ST. FRANCIS,NE,https://www.chihealth.com/en/services/cancer-care/cancer-treatment/radiation-therapy.html?utm_source=localsearch&utm_medium=facility&utm_campaign=chihealth&utm_term=chihealthradiationoncology(stfrancis),chihealth.com,2
+0004707960,GORYEB CHILDRENS CENTER,NJ,http://www.atlantichealth.org/goryeb/,atlantichealth.org,4
+0000106511,YALE-NEW HAVEN HOSPITAL SAINT RAPHAEL CAMPUS,CT,http://www.ynhh.org/src/,ynhh.org,2
+0177280123,SCL HEALTH COMMUNITY HOSPITAL - SOUTHWEST,CO,http://www.sclhealthcommunity.org/locations/southwest/,sclhealthcommunity.org,2
+0188838801,NMMC WOMEN'S HOSPITAL,MS,https://www.nmhs.net/locations/profile/nmmc-womens-hospital/?searchid=a776ec61-218e-ea11-a82c-000d3a61151d&sort=15,nmhs.net,5
+0185838852,NORTH MS MEDICAL CENTER - IUKA,MS,https://www.nmhs.net/locations/profile/north-mississippi-medical-center-iuka/,nmhs.net,5
+0192185607,COPPER QUEEN DOUGLAS EMERGENCY DEPARTMENT,AZ,https://cqch.org/cqch-clinics/copper-queen-douglas-rhc/,cqch.org,1
+0196784108,UNIVERSITY ORTHOPAEDIC CENTER,UT,https://healthcare.utah.edu/orthopaedics/,utah.edu,2
+0196784113,WESTLAND HOUSE,CA,https://www.chomp.org/services/hospice/westland-house/#.x47_unbkhpy,chomp.org,1
+0196784120,HUGHES SPALDING CHILDRENS HOSP,GA,https://www.choa.org/hughesspalding?cid=20809_na1_ch-yx_na3_na4_na5,choa.org,1
+0196785255,SPRINGFIELD MEMORIAL HOSPITAL,IL,https://memorial.health/springfield-memorial-hospital/overview,memorial.health,2
+0196785250,NORTHWESTERN MEDICINE DELNOR HOSPITAL,IL,https://www.nm.org/locations/delnor-hospital,nm.org,5
+0196785253,NORTHWESTERN MEDICINE PALOS HOSPITAL,IL,https://www.nm.org/locations/palos-hospital,nm.org,5
+0196785251,NORTHWESTERN MEDICINE KISHWAUKEE HOSPITAL,IL,https://www.nm.org/locations/kishwaukee-hospital,nm.org,5
+0196785259,UW HEALTH SWEDISHAMERICAN HOSPITAL,IL,https://www.uwhealth.org/locations/swedishamerican,uwhealth.org,2
+0196785252,NORTHWESTERN MEDICINE LAKE FOREST HOSPITAL,IL,https://www.nm.org/locations/lake-forest-hospital,nm.org,5
+0196785245,LINCOLN MEMORIAL HOSPITAL,IL,https://memorial.health/lincoln-memorial-hospital,memorial.health,2
+0196785244,ILLINI COMMUNITY HOSPITAL,IL,https://www.blessinghealth.org/locations/illini-community-hospital/illini-community-hospital,blessinghealth.org,1
+0196785225,ADVENTHEALTH GLENOAKS,IL,https://www.uchicagomedicine.org/find-a-location/uchicago-medicine-adventhealth-glenoaks,uchicagomedicine.org,2
+0196784995,JOHNSON COUNTY REHABILITATION HOSPITAL,KS,https://www.nobisrehabpartners.com/johnson-county-rehabilitation,nobisrehabpartners.com,1
+0196785202,REHABILITATION HOSPITAL OF NAPLES,FL,www.encompasshealth.com/locations/naplesrehab,encompasshealth.com,35

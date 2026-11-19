@@ -1,0 +1,10 @@
+# Vulnerability disclosure for Riverbend Medical Center
+# Last reviewed 2026-09-12
+
+Contact: mailto:infosec@riverbend-medical.example.org
+
+# Please do not send PHI.
+Expires: 2027-09-12T00:00:00Z
+
+Policy: https://riverbend-medical.example.org/security-policy
+

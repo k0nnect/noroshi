@@ -1,0 +1,692 @@
+{
+ "_source": "main-final-audit-report.md (the final audit's report of November 19, 2026; it discusses individual sites and is not part of the public snapshot)",
+ "_note": "Numbers from the final audit (November 19, 2026), after the retry pass, on the final data (both passes; data/derived/domains.csv md5 704b02563c72f6abba5cc6f2b764e54e). Same layout and key names as audit_numbers.json; added keys: check6_unreachable.rows_detail, check6_blocked, check2_concentration extra fields, claims. Scripts: the audit's scripts (not part of the public snapshot). verify.py reads the audit report by section heading: the unreachable section is now '### Unreachable (705 domains): how each ended' (was 716) with the same table header and row-name prefixes; the organization row ('| Distinct organization (') and the HCA file row ('| `714fa82cb3d9`', hospitals in the third column) keep the pass-1 shape.",
+ "check6_unreachable": {
+  "_basis": "Check 6, 'Unreachable (705 domains): how each ended', all 705 domains whose final status is unreachable (no sample); last homepage attempt of each domain's latest pass (pass 2 for all 705). Column order of the audit table. Column totals equal Table 1's unreachable counts.",
+  "columns": [
+   "hospital",
+   "federal",
+   "device",
+   "icsma",
+   "ehr",
+   "all"
+  ],
+  "rows": {
+   "DNS: no such name": [
+    199,
+    15,
+    11,
+    2,
+    1,
+    228
+   ],
+   "Connection failed": [
+    52,
+    1,
+    1,
+    0,
+    0,
+    54
+   ],
+   "Timeout": [
+    120,
+    1,
+    4,
+    1,
+    1,
+    127
+   ],
+   "TLS: incomplete chain": [
+    54,
+    0,
+    1,
+    0,
+    2,
+    57
+   ],
+   "TLS total": [
+    174,
+    2,
+    17,
+    1,
+    9,
+    203
+   ],
+   "More than 5 redirects": [
+    6,
+    0,
+    1,
+    0,
+    0,
+    7
+   ],
+   "Status 202: SiteGround": [
+    25,
+    0,
+    13,
+    2,
+    4,
+    44
+   ],
+   "Status 404": [
+    14,
+    1,
+    2,
+    0,
+    0,
+    17
+   ],
+   "Status 5xx": [
+    20,
+    0,
+    0,
+    0,
+    0,
+    20
+   ],
+   "Status 307": [
+    4,
+    0,
+    0,
+    0,
+    0,
+    4
+   ],
+   "Status 402": [
+    1,
+    0,
+    0,
+    0,
+    0,
+    1
+   ],
+   "All": [
+    615,
+    20,
+    49,
+    6,
+    15,
+    705
+   ]
+  },
+  "rows_detail": {
+   "TLS: wrong name": [
+    75,
+    1,
+    7,
+    1,
+    4,
+    88
+   ],
+   "TLS: certificate expired": [
+    7,
+    1,
+    5,
+    0,
+    1,
+    14
+   ],
+   "TLS: self-signed": [
+    7,
+    0,
+    0,
+    0,
+    0,
+    7
+   ],
+   "TLS: handshake failure 13, internal-error alert 10, SNI unrecognized-name 5, no TLS on 443 4, other 5": [
+    31,
+    0,
+    4,
+    0,
+    2,
+    37
+   ]
+  },
+  "table1_rows": {
+   "... no DNS entry": [
+    "DNS: no such name"
+   ],
+   "... TLS failure (of which incomplete certificate chain)": [
+    "TLS total",
+    "|",
+    "TLS: incomplete chain"
+   ],
+   "... timeout or connection failure": [
+    "Timeout",
+    "Connection failed"
+   ],
+   "... challenge page with status 202": [
+    "Status 202: SiteGround"
+   ],
+   "... other status or too many redirects": [
+    "More than 5 redirects",
+    "Status 404",
+    "Status 5xx",
+    "Status 307",
+    "Status 402"
+   ]
+  }
+ },
+ "check6_blocked": {
+  "_basis": "Check 6, 'Blocked (170 domains)', all 170 domains whose final status is blocked; last homepage attempt of pass 2.",
+  "total": 170,
+  "cloudflare_just_a_moment_challenge": 99,
+  "of_which_for_sale_hugedomains": 11,
+  "akamai_access_denied": 21,
+  "imperva_incapsula": 9,
+  "cloudflare_block_page": 6,
+  "cloudflare_other_page": 2,
+  "cleantalk_spamfirewall": 5,
+  "aws_waf_empty_202_or_403": 5,
+  "security_check_verifying_browser": 3,
+  "rate_limited_429": 10,
+  "plain_403": 5,
+  "dead_hosting_or_other_page": 5,
+  "blocked_chains": 0,
+  "unrecognized_challenge_refusals": {
+   "unreachable": 45,
+   "unreachable_of": 705,
+   "mismatch": 6,
+   "mismatch_of_other_unclear_decisions": 187,
+   "total": 51
+  },
+  "measured_in_pass1_refused_or_unreachable_in_pass2": {
+   "blocked": 39,
+   "unreachable": 2,
+   "of_measured_domains_retried": 144
+  }
+ },
+ "check2_concentration": {
+  "_basis": "Check 2, 'How the hospital share reads' (organizations; the pass-1 audit's file-to-organization map, every one of the 19 files mapped) and the file table, row 714fa82cb3d9 (hospitals on the most common file). Same 132 domains and 19 file hashes as pass 1.",
+  "organizations": 17,
+  "most_common_file_hospitals": 120,
+  "positive_domains": 132,
+  "distinct_files": 19,
+  "most_common_file_domains": 95,
+  "most_common_file_final_sites": 25,
+  "hospitals_on_positive_domains": 175,
+  "commonspirit_files": 3,
+  "commonspirit_domains": 18,
+  "files_on_one_domain": 13,
+  "positive_final_sites": 42,
+  "final_sites_known": 1374,
+  "files_without_expires_field": 3,
+  "domains_serving_a_file_without_expires": 97,
+  "found_by_wellknown_request": 130,
+  "found_by_root_request": 2,
+  "found_at_both_locations": 0,
+  "hospital_domains_with_policy_page": 114,
+  "hospital_policy_domains_whose_page_is_the_hca_statement": 95
+ },
+ "claims": {
+  "_basis": "One entry per claim row of the manuscript draft named in the final-audit brief. 'final' holds the numbers the sentence needs on the final data; 'changed' says whether any number differs from the draft; 'section' is the report section. 23 rows: 16 changed, 7 unchanged.",
+  "R4": {
+   "sentence": "Most unreachable hospital domains no longer existed in DNS (200) or failed TLS (173).",
+   "draft": {
+    "dns": 200,
+    "tls": 173
+   },
+   "final": {
+    "dns": 199,
+    "tls_total": 174,
+    "sum": 373,
+    "of_hospital_unreachable": 615,
+    "share_of_unreachable": "60.7%",
+    "most": true
+   },
+   "changed": true,
+   "section": "Check 6, Unreachable (705 domains): how each ended, Hospital column"
+  },
+  "R5": {
+   "sentence": "Most blocked domains met a browser challenge page (111 of 189 across all lists).",
+   "draft": {
+    "challenge": 111,
+    "blocked": 189
+   },
+   "final": {
+    "challenge": 99,
+    "blocked": 170,
+    "share": "58.2%",
+    "most": true,
+    "of_which_for_sale_hugedomains": 11
+   },
+   "changed": true,
+   "section": "Check 6, Blocked (170 domains), 'By what refused'"
+  },
+  "R6": {
+   "sentence": "Most hospital mismatches were parked, for-sale or reused domains, and 25 led to another organization's site.",
+   "draft": {
+    "another_organization": 25,
+    "hospital_mismatches": 162
+   },
+   "final": {
+    "hospital_mismatches": 165,
+    "parked_for_sale_or_reused": 120,
+    "parked_for_sale_or_reused_precision": "+-2 (keyword split)",
+    "another_organization": 26,
+    "another_organization_doubtful": 1,
+    "another_organization_certain": 25,
+    "most": true
+   },
+   "changed": true,
+   "section": "Check 5, Hospital mismatches by kind (165)",
+   "note": "The 26th is rehabhospital.com (redirects to Select Medical's site); doubtful because Select Medical may operate the listed hospital. Writing '25 or 26' or '26 (one doubtful)' is accurate."
+  },
+  "R9": {
+   "sentence": "The channel was nearly always a policy page (65 of 76 domains; 85.5%), and one department-wide page served 63 domains.",
+   "draft": {
+    "policy_k": 65,
+    "policy_n": 76,
+    "share": "85.5%",
+    "hhs_vdp_domains": 63
+   },
+   "final": {
+    "policy_k": 76,
+    "policy_n": 87,
+    "share": "87.4%",
+    "hhs_vdp_domains": 74,
+    "hhs_vdp_only": 73,
+    "other_policy_pages": "cms.gov and medicare.gov (CMS VDP)"
+   },
+   "changed": true,
+   "section": "Check 4, Recounts on the final data; Check 7"
+  },
+  "R10": {
+   "sentence": "Of the 11 negatives, 9 sites linked no disclosure policy, 1 homepage was an error page, and 1 was a true miss.",
+   "draft": {
+    "negatives": 11,
+    "no_link": 9,
+    "error_homepage": 1,
+    "true_miss": 1
+   },
+   "final": {
+    "negatives": 11,
+    "no_link": 9,
+    "error_homepage": 1,
+    "true_miss": 1,
+    "script_shell": 0,
+    "derived": "11 = 89 - 78"
+   },
+   "changed": false,
+   "section": "Check 7, broad False (11): unchanged from the pass-1 audit"
+  },
+  "R11": {
+   "sentence": "Of the 20 with an unknown value, 10 were stopped by the per-site request limit ...; 7 homepages showed no readable content, 2 met challenge pages, and 1 policy page was unreadable.",
+   "draft": {
+    "unknown": 20,
+    "site_limit": 10,
+    "no_readable_content": 7,
+    "challenge_pages": 2,
+    "unreadable_policy_page": 1
+   },
+   "final": {
+    "unknown": 12,
+    "site_limit": 2,
+    "site_limit_domains": [
+     "smokefree.gov",
+     "thisfreelife.gov"
+    ],
+    "no_readable_content": 7,
+    "challenge_pages": 2,
+    "unreadable_policy_page": 1,
+    "derived": "12 = 101 - 89"
+   },
+   "changed": true,
+   "section": "Check 7, broad unknown (12)",
+   "note": "The 2 site-limit domains were not retried: section 6.2 does not select a domain whose only gap is a page skipped for the site limit. The other 8 of the pass-1 10 were measured in pass 2 and are positive."
+  },
+  "R12": {
+   "sentence": "The 25 unmeasured federal-control domains were unreachable (20, 1 through a bot-block redirect) or blocked (5, 3 of them retired domains).",
+   "draft": {
+    "not_measured": 25,
+    "unreachable": 20,
+    "bot_block": 1,
+    "blocked": 5,
+    "retired": 3
+   },
+   "final": {
+    "not_measured": 23,
+    "unreachable": 20,
+    "bot_block": 1,
+    "blocked": 3,
+    "retired": 1,
+    "aws_waf": 2,
+    "derived": "23 = 124 - 101"
+   },
+   "changed": true,
+   "section": "Check 7, Not measured (23)",
+   "note": "Two of the pass-1 'retired' domains (aanhpiheritage.gov, lowerdrugcosts.gov) were measured in pass 2 (live HHS pages linking the HHS VDP); only nextlegends.gov remains. The other 2 blocked are guideline.gov and guidelines.gov (AWS WAF)."
+  },
+  "R13": {
+   "sentence": "Had the 10 stopped domains been measured, the share would have been 78 of 89 (87.6%).",
+   "draft": {
+    "k": 78,
+    "n": 89,
+    "share": "87.6%"
+   },
+   "final": {
+    "actual_k": 78,
+    "actual_n": 89,
+    "actual_share": "87.6%",
+    "ci": "79.0%-93.7%",
+    "composition": "8 of the 10 site-limit domains plus 2 formerly blocked domains measured in pass 2",
+    "counterfactual_two_remaining_measured_k": 80,
+    "counterfactual_n": 91,
+    "counterfactual_share": "87.9%",
+    "also_healthdata_found_and_reach_set_aside": "81/90 = 90.0%"
+   },
+   "changed": true,
+   "section": "Check 7, What pass 2 changed; What it does to the control",
+   "note": "The sentence's counterfactual no longer has a counterpart: 78/89 is now the reported result, reached differently from the prediction."
+  },
+  "R14": {
+   "sentence": "Before tie-breaks, the two judges agreed on 151 or 152 of 153 distinct page texts for each question (kappa 0.97 to 0.98), and the identity raters on 2,463 of 2,546 homepages (96.7%; kappa 0.80).",
+   "draft": {
+    "judge_agree": "151 or 152",
+    "judge_n": 153,
+    "kappa": "0.97 to 0.98",
+    "identity_agree": 2463,
+    "identity_n": 2546,
+    "identity_share": "96.7%",
+    "identity_kappa": 0.8
+   },
+   "final": {
+    "judge_n": 156,
+    "invites_reports": {
+     "agree": 153,
+     "kappa": 0.95
+    },
+    "contact_method": {
+     "agree": 154,
+     "kappa": 0.9688
+    },
+    "safe_harbor": {
+     "agree": 155,
+     "kappa": 0.9791
+    },
+    "judge_agree_range": "153 to 155 of 156",
+    "kappa_range": "0.95 to 0.98",
+    "identity_agree": 2490,
+    "identity_n": 2574,
+    "identity_share": "96.7%",
+    "identity_kappa": 0.7975
+   },
+   "changed": true,
+   "section": "Summary by check (check 4 and 5 counts); recomputed by c_agreement.py, equal to tableS2",
+   "note": "A pipeline number (tableS2), listed in the brief's range; recomputed independently and equal to the table."
+  },
+  "R15": {
+   "sentence": "The audit found no broken request limit, no false-positive policy page among the 114 distinct texts judged positive and no missed disclosure link on 70 sampled homepages.",
+   "draft": {
+    "violations": 0,
+    "positive_texts": 114,
+    "homepages_sampled": 70
+   },
+   "final": {
+    "violations": 0,
+    "rows_checked_both_passes": 33127,
+    "rows_checked_pass2": 3087,
+    "positive_texts": 116,
+    "positive_texts_policy_pages": 112,
+    "false_positives": 0,
+    "homepages_sampled_pass1": 70,
+    "pass2_homepages_scanned": 127,
+    "missed_links": 0
+   },
+   "changed": true,
+   "section": "Check 1; Check 4, New distinct texts and Recounts",
+   "note": "116 counts texts judged to invite reports (the pass-1 audit's 114 convention); 112 of them are policy pages (both answers yes)."
+  },
+  "R16": {
+   "sentence": "Nor did it find a wrong judgement among the 39 texts judged negative; but 2 of them were challenge pages ..., and on 2 more ... the value should have been unmeasured, not negative.",
+   "draft": {
+    "negative_texts": 39,
+    "challenge_texts": 2,
+    "more": 2,
+    "total": 4
+   },
+   "final": {
+    "negative_texts": 40,
+    "wrong": 0,
+    "challenge_texts": 2,
+    "more": 2,
+    "total": 4,
+    "domains": [
+     "geisinger.org",
+     "nychealthandhospitals.org",
+     "nobelbiocare.com",
+     "quantatw.com"
+    ]
+   },
+   "changed": true,
+   "section": "Check 4, Recounts on the final data"
+  },
+  "R17": {
+   "sentence": "Its other findings are given under Limitations.",
+   "draft": {},
+   "final": {},
+   "changed": false,
+   "section": "-",
+   "note": "Pointer; no number."
+  },
+  "R19": {
+   "sentence": "At hospitals the channel was a security.txt file: every hospital domain with a policy page (105) or a listing (1) also had one.",
+   "draft": {
+    "policy": 105,
+    "listing": 1
+   },
+   "final": {
+    "policy": 114,
+    "listing": 1,
+    "without_file": 0
+   },
+   "changed": true,
+   "section": "Check 2 (Hospital policy pages and listings) and Check 4, Recounts",
+   "note": "The 9 new hospital policy domains are CommonSpirit domains whose Policy: page was first requested in pass 2."
+  },
+  "R25": {
+   "sentence": "The 132 domains served 19 distinct files from 17 organizations.",
+   "draft": {
+    "domains": 132,
+    "files": 19,
+    "organizations": 17
+   },
+   "final": {
+    "domains": 132,
+    "files": 19,
+    "organizations": 17
+   },
+   "changed": false,
+   "section": "Check 2, How the hospital share reads"
+  },
+  "R26": {
+   "sentence": "One HCA Healthcare file ... accounted for 95 of the 132 domains (72.0%) and 120 of the 175 hospitals on positive domains; that statement was also the policy page of 95 of the 105 hospital domains with one.",
+   "draft": {
+    "final_sites": 25,
+    "domains": 95,
+    "share": "72.0%",
+    "hospitals": 120,
+    "hospitals_on_positive": 175,
+    "policy_hca": 95,
+    "policy_all": 105
+   },
+   "final": {
+    "final_sites": 25,
+    "domains": 95,
+    "share": "72.0%",
+    "hospitals": 120,
+    "hospitals_on_positive": 175,
+    "policy_hca": 95,
+    "policy_all": 114
+   },
+   "changed": true,
+   "section": "Check 2, The 19 files; Check 4, Recounts"
+  },
+  "R27": {
+   "sentence": "Three nearly identical CommonSpirit Health files accounted for 18 more domains; 13 files were each on a single domain.",
+   "draft": {
+    "files": 3,
+    "domains": 18,
+    "single_domain_files": 13
+   },
+   "final": {
+    "files": 3,
+    "domains": 18,
+    "single_domain_files": 13
+   },
+   "changed": false,
+   "section": "Check 2, Recounts"
+  },
+  "R33": {
+   "sentence": "Most hospital domains with a file had no Expires field: 97 of 132 (73.5%; 95% CI, 65.1%-80.8%), 95 of them serving the HCA file; of the other 35, 32 had a valid date, 1 had expired and 2 used a nonconforming format.",
+   "draft": {
+    "missing": 97,
+    "n": 132,
+    "share": "73.5%",
+    "hca": 95,
+    "other": 35,
+    "valid": 32,
+    "expired": 1,
+    "nonconforming": 2
+   },
+   "final": {
+    "missing": 97,
+    "n": 132,
+    "share": "73.5%",
+    "ci": "65.1%-80.8%",
+    "hca": 95,
+    "other": 35,
+    "valid": 32,
+    "expired": 1,
+    "nonconforming": 2,
+    "distinct_files_without_expires": 3
+   },
+   "changed": false,
+   "section": "Check 2, Expires"
+  },
+  "L2": {
+   "sentence": "The list's age shows in the 623 unreachable hospital domains (23.5%), 200 of them no longer in DNS.",
+   "draft": {
+    "unreachable": 623,
+    "share": "23.5%",
+    "dns": 200
+   },
+   "final": {
+    "unreachable": 615,
+    "of_frame": 2652,
+    "share": "23.2%",
+    "dns": 199
+   },
+   "changed": true,
+   "section": "Check 6, Unreachable (705 domains), Hospital column"
+  },
+  "L3": {
+   "sentence": "Some unmeasured domains might load in a browser: 57 failed only on an incomplete certificate chain.",
+   "draft": {
+    "incomplete_chain": 57
+   },
+   "final": {
+    "incomplete_chain": 57,
+    "hospital": 54,
+    "device": 1,
+    "ehr": 2
+   },
+   "changed": false,
+   "section": "Check 6, Unreachable table, TLS: incomplete chain"
+  },
+  "L4": {
+   "sentence": "The audit's scans found 50 domains that refused the crawler with a challenge page it did not recognize and were labeled unreachable (44 of all 716 unreachable domains) or mismatch (6 of all 183 other or unclear identity decisions) instead of blocked; with the 4 negative values read from challenge pages, correcting them moves no headline share by more than 0.1 percentage point.",
+   "draft": {
+    "total": 50,
+    "unreachable": 44,
+    "unreachable_of": 716,
+    "mismatch": 6,
+    "decisions_of": 183,
+    "negative_values": 4,
+    "max_shift_points": 0.1
+   },
+   "final": {
+    "total": 51,
+    "unreachable": 45,
+    "unreachable_of": 705,
+    "mismatch": 6,
+    "decisions_of": 187,
+    "negative_values": 4,
+    "max_shift_points": 0.1,
+    "unreachable_parts": "44 SiteGround 202 + fda.gov"
+   },
+   "changed": true,
+   "section": "Check 6, Refusals the crawler does not recognize; Check 4, Recounts",
+   "note": "Still true that correcting them moves no headline share by more than 0.1 point (they sit outside every primary denominator; the 4 values shift hospital and device n by 1 or 2)."
+  },
+  "L5": {
+   "sentence": "The policy-page measure is a lower bound: only homepage links were followed, and two policy pages were unreadable; listings cover only public, listed programs.",
+   "draft": {
+    "unreadable_policies": 2
+   },
+   "final": {
+    "unreadable_policies": 2,
+    "which": [
+     "VA VDP (va.gov, vets.gov, vsafe.gov)",
+     "modmed.com /security/"
+    ]
+   },
+   "changed": false,
+   "section": "Check 4, Recounts (real policy pages left unread)"
+  },
+  "L7": {
+   "sentence": "A scan of all 2,363 own decisions found 9 hospital domains, revived copies of former hospital sites, wrongly accepted (a fixed-seed sample of 60 had found 1); as mismatches, the hospital any-channel share would be 8.4% (132 of 1,580).",
+   "draft": {
+    "own_decisions": 2363,
+    "wrong": 9,
+    "sample": 60,
+    "sample_wrong": 1,
+    "share": "8.4%",
+    "k": 132,
+    "n": 1580
+   },
+   "final": {
+    "own_decisions": 2387,
+    "wrong": 9,
+    "still_measured": 9,
+    "sample": 60,
+    "sample_wrong": 1,
+    "new_own_read": 42,
+    "new_own_wrong": 0,
+    "share": "8.2%",
+    "k": 132,
+    "n": 1609,
+    "share_2dp": "8.20%",
+    "reported_share_2dp": "8.16%"
+   },
+   "changed": true,
+   "section": "Check 5, Recounts on the final data",
+   "note": "With the 9 set aside the share is 8.2%, the same as the reported 8.2% at one decimal; give the n (1,609 against 1,618) or two decimals if the sentence is to show a difference."
+  },
+  "L8": {
+   "sentence": "The scan of the 183 other or unclear decisions found 12 own sites wrongly set aside: the 6 challenge pages above and 6 sites shown only by a script or a near-empty page (a fixed-seed sample of 80 had found 6).",
+   "draft": {
+    "decisions": 183,
+    "own_set_aside": 12,
+    "challenge": 6,
+    "script": 6,
+    "sample": 80,
+    "sample_found": 6
+   },
+   "final": {
+    "decisions": 187,
+    "own_set_aside": 12,
+    "challenge": 6,
+    "script": 6,
+    "sample": 80,
+    "sample_found": 6,
+    "new_other_read": 5,
+    "new_doubtful": 1
+   },
+   "changed": true,
+   "section": "Check 5, Recounts on the final data",
+   "note": "The 4 new other/unclear decisions are 3 right and 1 doubtful (rehabhospital.com); none of the 12 was re-crawled."
+  }
+ }
+}

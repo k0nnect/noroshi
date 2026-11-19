@@ -1,0 +1,40 @@
+{
+ "rows": [
+  {
+   "measure": "per listed domain (pre-specified)",
+   "k": 132,
+   "n": 1682,
+   "share": "7.8%",
+   "ci_lo": "6.6%",
+   "ci_hi": "9.2%"
+  },
+  {
+   "measure": "per distinct final site (post hoc)",
+   "k": 42,
+   "n": 1374,
+   "share": "3.1%",
+   "ci_lo": "2.2%",
+   "ci_hi": "4.1%"
+  },
+  {
+   "measure": "per listed domain, without the domains serving the most common file (post hoc)",
+   "k": 37,
+   "n": 1587,
+   "share": "2.3%",
+   "ci_lo": "1.6%",
+   "ci_hi": "3.2%"
+  }
+ ],
+ "summary": {
+  "positive_domains": 132,
+  "distinct_files": 19,
+  "most_common_file_domains": 95,
+  "most_common_file_share_of_positive_domains": "72.0%",
+  "most_common_file_final_sites": 25,
+  "second_most_common_file_domains": 9,
+  "files_on_one_domain": 13,
+  "positive_final_sites": 42,
+  "final_sites": 1374,
+  "domains_csv_md5": "704b02563c72f6abba5cc6f2b764e54e"
+ }
+}

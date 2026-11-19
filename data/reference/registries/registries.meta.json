@@ -1,0 +1,65 @@
+{
+  "downloaded_at": "2026-11-16T05:34:43+00:00",
+  "files": {
+    "program-list.json": {
+      "repo": "disclose/diodb",
+      "branch": "master",
+      "commit": "c181d0d9a80bee0091bdb5f22536bcc377464aed",
+      "url": "https://raw.githubusercontent.com/disclose/diodb/c181d0d9a80bee0091bdb5f22536bcc377464aed/program-list.json",
+      "sha256": "6021b8bacbabea51f99f2cea995f6fb6887d5414d43a047ccb398d2a30366cf1",
+      "bytes": 1183787,
+      "entries": 2433,
+      "stored_in": "reference"
+    },
+    "CNAsList.json": {
+      "repo": "CVEProject/cve-website",
+      "branch": "dev",
+      "commit": "06790124bfe7a4b0b8eb2533c89a7652c429aca9",
+      "url": "https://raw.githubusercontent.com/CVEProject/cve-website/06790124bfe7a4b0b8eb2533c89a7652c429aca9/src/assets/data/CNAsList.json",
+      "sha256": "e1646e0631d0857e52bd606d78bf9251664f11fe871fbcadb1abb8dda884ca81",
+      "bytes": 761086,
+      "entries": 567,
+      "stored_in": "reference"
+    },
+    "hackerone_data.json": {
+      "repo": "arkadiyt/bounty-targets-data",
+      "branch": "main",
+      "commit": "a5734fe6bc9f9680b782e860fc994ecdf5103c12",
+      "url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/a5734fe6bc9f9680b782e860fc994ecdf5103c12/data/hackerone_data.json",
+      "sha256": "6a155f2ebc53c489b69ca3d140e21757fbbda590c42947813f70469a0fa58eab",
+      "bytes": 18781048,
+      "entries": 450,
+      "stored_in": "reference"
+    },
+    "bugcrowd_data.json": {
+      "repo": "arkadiyt/bounty-targets-data",
+      "branch": "main",
+      "commit": "a5734fe6bc9f9680b782e860fc994ecdf5103c12",
+      "url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/a5734fe6bc9f9680b782e860fc994ecdf5103c12/data/bugcrowd_data.json",
+      "sha256": "e50586bbffdaad7d3a8563e43b333aec89bb2b1249a5c23a60d3fa01e4807b94",
+      "bytes": 1208450,
+      "entries": 296,
+      "stored_in": "reference"
+    },
+    "intigriti_data.json": {
+      "repo": "arkadiyt/bounty-targets-data",
+      "branch": "main",
+      "commit": "a5734fe6bc9f9680b782e860fc994ecdf5103c12",
+      "url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/a5734fe6bc9f9680b782e860fc994ecdf5103c12/data/intigriti_data.json",
+      "sha256": "790c4aad17e2fabfce910dabd8f540a155a17cf8d0622f06241da870f34641e4",
+      "bytes": 547467,
+      "entries": 140,
+      "stored_in": "reference"
+    },
+    "yeswehack_data.json": {
+      "repo": "arkadiyt/bounty-targets-data",
+      "branch": "main",
+      "commit": "a5734fe6bc9f9680b782e860fc994ecdf5103c12",
+      "url": "https://raw.githubusercontent.com/arkadiyt/bounty-targets-data/a5734fe6bc9f9680b782e860fc994ecdf5103c12/data/yeswehack_data.json",
+      "sha256": "a0a7486c47591d4544e58bf38582a10bbc7d3ba7accdbde4bd047edb77b5bd77",
+      "bytes": 119826,
+      "entries": 52,
+      "stored_in": "reference"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+| sector | frame | multi_sector | optout | not_crawled | blocked | blocked_rate_limited | unreachable | unreachable_archive_redirect | mismatch | mismatch_crawl_rule | mismatch_identity_other | mismatch_identity_unclear | measured | redirected_offdomain | passes_disagree | browser | site_switched | file_forbidden | policy_unjudged | look_robots_unreadable | look_robots_disallowed | look_candidate_disallowed | look_candidate_skipped | look_request_failed | look_unreadable_page | look_not_judged | look_homepage_truncated | look_homepage_unreadable | probes_cut | requests_sent | requests_sent_purged |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| hospital | 2652 | 2 | 0 | 0 | 151 | 7 | 615 | 225 | 165 | 5 | 96 | 64 | 1721 | 502 | 1 | 238 | 137 | 59 | 90 | 20 | 7 | 2 | 0 | 47 | 6 | 0 | 0 | 11 | 80 | 21338 |  |
+| federal | 124 | 1 | 0 | 0 | 3 | 0 | 20 |  | 0 | 0 | 0 | 0 | 101 | 41 | 0 | 25 | 24 | 1 | 14 | 0 | 0 | 0 | 2 | 2 | 8 | 0 | 0 | 7 | 28 | 860 |  |
+| device | 525 | 16 | 0 | 0 | 14 | 2 | 49 |  | 26 | 3 | 7 | 16 | 436 | 43 | 0 | 25 | 9 | 10 | 34 | 3 | 1 | 0 | 1 | 4 | 15 | 0 | 2 | 14 | 12 | 4958 |  |
+| icsma | 75 | 15 | 0 | 0 | 1 | 1 | 6 |  | 1 | 0 | 1 | 0 | 67 | 7 | 0 | 13 | 4 | 6 | 4 | 1 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 7 | 785 |  |
+| ehr | 200 | 4 | 0 | 0 | 1 | 0 | 15 |  | 3 | 0 | 1 | 2 | 181 | 11 | 0 | 7 | 2 | 2 | 17 | 0 | 5 | 2 | 1 | 3 | 7 | 0 | 0 | 5 | 3 | 1937 |  |
+| all | 3557 | 19 | 0 | 0 | 170 | 10 | 705 |  | 195 | 8 | 105 | 82 | 2487 | 601 | 1 | 303 | 173 | 76 | 157 | 23 | 13 | 4 | 3 | 58 | 37 | 0 | 2 | 37 | 127 | 29681 | 0 |
+
+Note: requests_sent_purged, in the all-sectors row, counts requests that were sent to domains that later opted out and whose records were deleted (the sum of "requests sent" over the store's purge log); requests_sent counts only the requests whose records are still in the store. unreachable_archive_redirect, in the hospital row only, counts unreachable hospital domains whose last archived homepage capture redirected to another registrable domain.

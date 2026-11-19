@@ -1,0 +1,7 @@
+{
+  "url": "https://raw.githubusercontent.com/cisagov/dotgov-data/main/current-federal.csv",
+  "downloaded_utc": "2026-11-16T05:09:56+00:00",
+  "rows": 1320,
+  "sha256": "e8f0ff9d5c43b4c15e95591f0cdb84a377c0d6b0b5e038dc80ae59bb7b7b2b0a",
+  "note": "written after the download from the stored file (data/raw/current-federal.csv, not committed); the time is the stored file's modification time; the repository commit was not recorded at download"
+}

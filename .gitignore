@@ -1,0 +1,10 @@
+/reference/
+data/raw/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.superpowers/
+data/derived/pilot/
+results/pilot/
+logs/*.out

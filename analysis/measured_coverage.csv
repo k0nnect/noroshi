@@ -1,0 +1,18 @@
+characteristic,level,measured_n,measured_share,unmeasured_n,unmeasured_share,measured_of_level
+type,general acute care,1449,56.3%,621,55.5%,70.0%
+type,critical access,411,16.0%,190,17.0%,68.4%
+type,psychiatric,269,10.4%,84,7.5%,76.2%
+type,rehabilitation,143,5.6%,99,8.9%,59.1%
+type,long term care,164,6.4%,74,6.6%,68.9%
+type,other,88,3.4%,35,3.1%,71.5%
+type,children,51,2.0%,15,1.3%,77.3%
+ownership,non-profit,1234,47.9%,531,47.5%,69.9%
+ownership,proprietary,859,33.4%,395,35.3%,68.5%
+ownership,non-federal government,320,12.4%,139,12.4%,69.7%
+ownership,unknown,162,6.3%,53,4.7%,75.3%
+beds,under 100,1425,55.3%,667,59.7%,68.1%
+beds,100-299,732,28.4%,300,26.8%,70.9%
+beds,300 or more,373,14.5%,137,12.3%,73.1%
+beds,unknown,45,1.7%,14,1.3%,76.3%
+rural,metropolitan county,1847,71.7%,775,69.3%,70.4%
+rural,nonmetropolitan county,728,28.3%,343,30.7%,68.0%

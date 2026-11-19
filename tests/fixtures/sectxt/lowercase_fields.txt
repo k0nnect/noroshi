@@ -1,0 +1,4 @@
+contact: mailto:security@stmarys-health.example.org
+expires: 2027-03-31T23:59:59Z
+preferred-languages: en, es
+canonical: https://stmarys-health.example.org/.well-known/security.txt

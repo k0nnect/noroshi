@@ -1,0 +1,82 @@
+{"key": "abbott laboratories", "name": "Abbott Laboratories", "model": "claude-sonnet-5-5", "domain": "abbott.com"}
+{"key": "alivecor", "name": "AliveCor", "model": "claude-sonnet-5-5", "domain": "alivecor.com"}
+{"key": "animas", "name": "Animas", "model": "claude-sonnet-5-5", "domain": "animas.com"}
+{"key": "apollo pharmacy", "name": "Apollo Pharmacy", "model": "claude-sonnet-5-5", "domain": "apollopharmacy.in"}
+{"key": "b braun", "name": "B. Braun", "model": "claude-sonnet-5-5", "domain": "bbraun.com"}
+{"key": "b braun medical", "name": "B. Braun Medical", "model": "claude-sonnet-5-5", "domain": "bbraunusa.com"}
+{"key": "b braun melsungen", "name": "B. Braun Melsungen AG", "model": "claude-sonnet-5-5", "domain": "bbraun.com"}
+{"key": "baxter", "name": "Baxter", "model": "claude-sonnet-5-5", "domain": "baxter.com"}
+{"key": "beaconmedaes", "name": "BeaconMedaes", "model": "claude-sonnet-5-5", "domain": "beaconmedaes.com"}
+{"key": "becton dickinson and company bd", "name": "Becton, Dickinson and Company (BD)", "model": "claude-sonnet-5-5", "domain": "bd.com"}
+{"key": "biotronik", "name": "BIOTRONIK", "model": "claude-sonnet-5-5", "domain": "biotronik.com"}
+{"key": "bmc medical 3b medical", "name": "BMC Medical, 3B Medical", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "boston scientific", "name": "Boston Scientific", "model": "claude-sonnet-5-5", "domain": "bostonscientific.com"}
+{"key": "bpl medical technologies", "name": "BPL Medical Technologies", "model": "claude-sonnet-5-5", "domain": "bplmedicaltechnologies.com"}
+{"key": "capsule technologies", "name": "Capsule Technologies", "model": "claude-sonnet-5-5", "domain": "capsuletech.com"}
+{"key": "carestream", "name": "Carestream", "model": "claude-sonnet-5-5", "domain": "carestream.com"}
+{"key": "change healthcare", "name": "Change Healthcare", "model": "claude-sonnet-5-5", "domain": "changehealthcare.com"}
+{"key": "contec health", "name": "Contec Health", "model": "claude-sonnet-5-5", "domain": "contechealth.com"}
+{"key": "dario health", "name": "Dario Health", "model": "claude-sonnet-5-5", "domain": "dariohealth.com"}
+{"key": "dr ger", "name": "Dräger", "model": "claude-sonnet-5-5", "domain": "draeger.com"}
+{"key": "enea green hills software itron ip infusion and wind river", "name": "ENEA, Green Hills Software, ITRON, IP Infusion, and Wind River", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "eppendorf", "name": "Eppendorf", "model": "claude-sonnet-5-5", "domain": "eppendorf.com"}
+{"key": "flow neuroscience", "name": "Flow Neuroscience", "model": "claude-sonnet-5-5", "domain": "flowneuroscience.com"}
+{"key": "fourth frontier", "name": "Fourth Frontier", "model": "claude-sonnet-5-5", "domain": "fourthfrontier.com"}
+{"key": "fresenius kabi", "name": "Fresenius Kabi", "model": "claude-sonnet-5-5", "domain": "fresenius-kabi.com"}
+{"key": "fujifilm", "name": "Fujifilm", "model": "claude-sonnet-5-5", "domain": "fujifilm.com"}
+{"key": "fujifilm healthcare americas", "name": "FUJIFILM Healthcare Americas Corporation", "model": "claude-sonnet-5-5", "domain": "fujifilm.com"}
+{"key": "ge healthcare", "name": "GE Healthcare", "model": "claude-sonnet-5-5", "domain": "gehealthcare.com"}
+{"key": "general electric ge", "name": "General Electric (GE)", "model": "claude-sonnet-5-5", "domain": "ge.com"}
+{"key": "grassroots", "name": "Grassroots", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "hamilton medical", "name": "Hamilton Medical AG", "model": "claude-sonnet-5-5", "domain": "hamilton-medical.com"}
+{"key": "hillrom", "name": "Hillrom", "model": "claude-sonnet-5-5", "domain": "hillrom.com"}
+{"key": "hillrom and eli baxter international", "name": "Hillrom and ELI, Baxter International Inc.", "model": "claude-sonnet-5-5", "domain": "hillrom.com"}
+{"key": "i sens", "name": "i-SENS Inc", "model": "claude-sonnet-5-5", "domain": "i-sens.com"}
+{"key": "illumina", "name": "Illumina", "model": "claude-sonnet-5-5", "domain": "illumina.com"}
+{"key": "infinitt healthcare", "name": "INFINITT Healthcare", "model": "claude-sonnet-5-5", "domain": "infinitt.com"}
+{"key": "innokas yhtym", "name": "Innokas YhtymÃ¤ Oy", "model": "claude-sonnet-5-5", "domain": "innokas.com"}
+{"key": "insulet", "name": "Insulet", "model": "claude-sonnet-5-5", "domain": "insulet.com"}
+{"key": "intersystems", "name": "InterSystems Corporation", "model": "claude-sonnet-5-5", "domain": "intersystems.com"}
+{"key": "j4care", "name": "J4Care", "model": "claude-sonnet-5-5", "domain": "j4care.com"}
+{"key": "johnson and johnson", "name": "Johnson & Johnson", "model": "claude-sonnet-5-5", "domain": "jnj.com"}
+{"key": "lifepoint informatics", "name": "LifePoint Informatics", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "medixant", "name": "Medixant", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "medtronic", "name": "Medtronic", "model": "claude-sonnet-5-5", "domain": "medtronic.com"}
+{"key": "microdicom", "name": "MicroDicom", "model": "claude-sonnet-5-5", "domain": "microdicom.com"}
+{"key": "mirion medical", "name": "Mirion Medical", "model": "claude-sonnet-5-5", "domain": "mirion.com"}
+{"key": "natus medical inc natus", "name": "Natus Medical, Inc. (Natus)", "model": "claude-sonnet-5-5", "domain": "natus.com"}
+{"key": "nextgen healthcare", "name": "NextGen Healthcare", "model": "claude-sonnet-5-5", "domain": "nextgen.com"}
+{"key": "nihon kohden", "name": "NIHON KOHDEN", "model": "claude-sonnet-5-5", "domain": "nihonkohden.com"}
+{"key": "offis", "name": "OFFIS", "model": "claude-sonnet-5-5", "domain": "offis.de"}
+{"key": "open health imaging foundation ohif", "name": "Open Health Imaging Foundation (OHIF)", "model": "claude-sonnet-5-5", "domain": "ohif.org"}
+{"key": "openclinic ga", "name": "OpenClinic GA", "model": "claude-sonnet-5-5", "domain": "sourceforge.net"}
+{"key": "orthanc", "name": "Orthanc", "model": "claude-sonnet-5-5", "domain": "orthanc-server.com"}
+{"key": "ossur", "name": "Ossur", "model": "claude-sonnet-5-5", "domain": "ossur.com"}
+{"key": "oxford nanopore technologies", "name": "Oxford Nanopore Technologies", "model": "claude-sonnet-5-5", "domain": "nanoporetech.com"}
+{"key": "panoramic", "name": "Panoramic Corporation", "model": "claude-sonnet-5-5", "domain": "panoramic.com"}
+{"key": "philips", "name": "Philips", "model": "claude-sonnet-5-5", "domain": "philips.com"}
+{"key": "phillips", "name": "Phillips", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "pixmeo", "name": "Pixmeo", "model": "claude-sonnet-5-5", "domain": "pixmeo.com"}
+{"key": "pulsetto", "name": "Pulsetto", "model": "claude-sonnet-5-5", "domain": "pulsetto.tech"}
+{"key": "pydicom", "name": "pydicom", "model": "claude-sonnet-5-5", "domain": "pydicom.github.io"}
+{"key": "qardio", "name": "Qardio", "model": "claude-sonnet-5-5", "domain": "getqardio.com"}
+{"key": "qualcomm life", "name": "Qualcomm Life", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "quanovate tech inc operating as mira mira care", "name": "Quanovate Tech Inc. (operating as Mira / Mira Care)", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "roche diagnostics", "name": "Roche Diagnostics", "model": "claude-sonnet-5-5", "domain": "roche.com"}
+{"key": "santesoft", "name": "Santesoft", "model": "claude-sonnet-5-5", "domain": "santesoft.com"}
+{"key": "siemens", "name": "Siemens", "model": "claude-sonnet-5-5", "domain": "siemens.com"}
+{"key": "silex technology and ge healthcare", "name": "Silex Technology and GE Healthcare", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "smiths medical", "name": "Smiths Medical", "model": "claude-sonnet-5-5", "domain": "smiths-medical.com"}
+{"key": "softneta", "name": "Softneta", "model": "claude-sonnet-5-5", "domain": "softneta.com"}
+{"key": "sooil developments", "name": "SOOIL Developments Co, Ltd.", "model": "claude-sonnet-5-5", "domain": "sooil.com"}
+{"key": "spacelabs", "name": "Spacelabs", "model": "claude-sonnet-5-5", "domain": "spacelabshealthcare.com"}
+{"key": "st jude medical", "name": "St. Jude Medical", "model": "claude-sonnet-5-5", "domain": "sjm.com"}
+{"key": "stryker", "name": "Stryker", "model": "claude-sonnet-5-5", "domain": "stryker.com"}
+{"key": "swisslog healthcare", "name": "Swisslog Healthcare", "model": "claude-sonnet-5-5", "domain": "swisslog-healthcare.com"}
+{"key": "thermo fisher", "name": "Thermo Fisher", "model": "claude-sonnet-5-5", "domain": "thermofisher.com"}
+{"key": "varex imaging", "name": "Varex Imaging", "model": "claude-sonnet-5-5", "domain": "vareximaging.com"}
+{"key": "vertikal systems", "name": "Vertikal Systems", "model": "claude-sonnet-5-5", "domain": null}
+{"key": "vyaire medical", "name": "Vyaire Medical", "model": "claude-sonnet-5-5", "domain": "vyaire.com"}
+{"key": "whill", "name": "WHILL Inc.", "model": "claude-sonnet-5-5", "domain": "whill.inc"}
+{"key": "ypsomed", "name": "Ypsomed", "model": "claude-sonnet-5-5", "domain": "ypsomed.com"}
+{"key": "zoll", "name": "ZOLL", "model": "claude-sonnet-5-5", "domain": "zoll.com"}

@@ -1,0 +1,616 @@
+{"key": "16 bit", "name": "16 Bit Inc", "model": "claude-opus-5-5", "domain": "16bit.ai"}
+{"key": "23andme", "name": "23andMe, Inc.", "model": "claude-opus-5-5", "domain": "23andme.com"}
+{"key": "3d side", "name": "3D-Side SA", "model": "claude-opus-5-5", "domain": null}
+{"key": "3d systems", "name": "3D Systems, Inc.", "model": "claude-opus-5-5", "domain": "3dsystems.com"}
+{"key": "3shape trios a s", "name": "3Shape TRIOS A/S", "model": "claude-opus-5-5", "domain": "3shape.com"}
+{"key": "7d surgical", "name": "7D Surgical Inc.", "model": "claude-opus-5-5", "domain": "7dsurgical.com"}
+{"key": "7d surgical ulc", "name": "7D Surgical ULC", "model": "claude-opus-5-5", "domain": "7dsurgical.com"}
+{"key": "a2z radiology ai", "name": "A2z Radiology Ai, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "abbott", "name": "Abbott", "model": "claude-opus-5-5", "domain": "abbott.com"}
+{"key": "abbott medical", "name": "ABBOTT MEDICAL", "model": "claude-opus-5-5", "domain": "abbott.com"}
+{"key": "accelerate diagnostics", "name": "Accelerate Diagnostics, Inc.", "model": "claude-opus-5-5", "domain": "axdx.com"}
+{"key": "adas3d medical", "name": "Adas3D Medical S.L.", "model": "claude-opus-5-5", "domain": "adas3d.com"}
+{"key": "adm diagnostics", "name": "ADM Diagnostics, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "adra", "name": "Adra Corporation", "model": "claude-opus-5-5", "domain": null}
+{"key": "aeye health", "name": "AEYE Health Inc.", "model": "claude-opus-5-5", "domain": "aeyehealth.com"}
+{"key": "agada medical", "name": "Agada Medical, Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "agamatrix", "name": "AgaMatrix, Inc.", "model": "claude-opus-5-5", "domain": "agamatrix.com"}
+{"key": "agfa healthcare", "name": "Agfa HealthCare N.V.", "model": "claude-opus-5-5", "domain": "agfahealthcare.com"}
+{"key": "agilemd", "name": "AgileMD, Inc.", "model": "claude-opus-5-5", "domain": "agilemd.com"}
+{"key": "ai medical", "name": "AI Medical AG", "model": "claude-opus-5-5", "domain": null}
+{"key": "ai metrics", "name": "AI Metrics, LLC", "model": "claude-opus-5-5", "domain": "aimetrics.com"}
+{"key": "ai4medimaging medical solutions", "name": "Ai4medimaging Medical Solutions S.A.", "model": "claude-opus-5-5", "domain": null}
+{"key": "aibolit technologies", "name": "Aibolit Technologies, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "aidoc medical", "name": "Aidoc Medical , Ltd.", "model": "claude-opus-5-5", "domain": "aidoc.com"}
+{"key": "aikenist technologies pvt", "name": "Aikenist Technologies Pvt Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "aiq global", "name": "AIQ Global, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "aiq solutions", "name": "AIQ Solutions, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "airamed", "name": "AIRAmed GmbH", "model": "claude-opus-5-5", "domain": "airamed.de"}
+{"key": "airs medical", "name": "Airs Medical, Inc.", "model": "claude-opus-5-5", "domain": "airsmed.com"}
+{"key": "aisap", "name": "Aisap", "model": "claude-opus-5-5", "domain": "aisap.ai"}
+{"key": "ait austrian institute of technology", "name": "AIT Austrian Institute of Technology GmbH", "model": "claude-opus-5-5", "domain": "ait.ac.at"}
+{"key": "aitewan biomedical technology", "name": "Aitewan Biomedical Technology, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "algomedica", "name": "ALGOMEDICA", "model": "claude-opus-5-5", "domain": "algomedica.com"}
+{"key": "alife health", "name": "Alife Health", "model": "claude-opus-5-5", "domain": "alifehealth.com"}
+{"key": "alimetry", "name": "Alimetry , Ltd.", "model": "claude-opus-5-5", "domain": "alimetry.com"}
+{"key": "alio", "name": "Alio, Inc.", "model": "claude-opus-5-5", "domain": "alio.ai"}
+{"key": "alivecor", "name": "AliveCor, Inc.", "model": "claude-opus-5-5", "domain": "alivecor.com"}
+{"key": "alpha intelligence manifolds", "name": "Alpha Intelligence Manifolds, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "alphatec spine", "name": "Alphatec Spine, Inc.", "model": "claude-opus-5-5", "domain": "atecspine.com"}
+{"key": "amcad biomed", "name": "AmCad BioMed Corporation", "model": "claude-opus-5-5", "domain": "amcad.com.tw"}
+{"key": "amra medical", "name": "AMRA Medical AB", "model": "claude-opus-5-5", "domain": "amramedical.com"}
+{"key": "analytics for life", "name": "Analytics for Life, Inc.", "model": "claude-opus-5-5", "domain": "analyticsforlife.com"}
+{"key": "angiowave imaging", "name": "Angiowave Imaging, Inc.", "model": "claude-opus-5-5", "domain": "angiowave.com"}
+{"key": "ankon technologies", "name": "Ankon Technologies co., ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "annalise ai", "name": "Annalise-AI", "model": "claude-opus-5-5", "domain": "annalise.ai"}
+{"key": "anumana", "name": "Anumana, Inc.", "model": "claude-opus-5-5", "domain": "anumana.ai"}
+{"key": "appian medical", "name": "APPIAN MEDICAL, INC.", "model": "claude-opus-5-5", "domain": null}
+{"key": "apple", "name": "Apple Inc.", "model": "claude-opus-5-5", "domain": "apple.com"}
+{"key": "arineta", "name": "Arineta Ltd.", "model": "claude-opus-5-5", "domain": "arineta.com"}
+{"key": "arkray", "name": "Arkray Inc.", "model": "claude-opus-5-5", "domain": "arkray.co.jp"}
+{"key": "artera", "name": "Artera, Inc.", "model": "claude-opus-5-5", "domain": "artera.ai"}
+{"key": "arterys", "name": "Arterys, Inc.", "model": "claude-opus-5-5", "domain": "arterys.com"}
+{"key": "artrya", "name": "Artrya Limited", "model": "claude-opus-5-5", "domain": "artrya.com"}
+{"key": "athelas", "name": "Athelas, Inc.", "model": "claude-opus-5-5", "domain": "athelas.com"}
+{"key": "atsens", "name": "ATsens Co.,Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "audax doo", "name": "Audax d.o.o.", "model": "claude-opus-5-5", "domain": null}
+{"key": "augmedics", "name": "Augmedics, Ltd.", "model": "claude-opus-5-5", "domain": "augmedics.com"}
+{"key": "augmedit", "name": "Augmedit B.V.", "model": "claude-opus-5-5", "domain": "augmedit.com"}
+{"key": "ausculthing", "name": "AusculThing Oy", "model": "claude-opus-5-5", "domain": null}
+{"key": "avatar medical", "name": "Avatar Medical", "model": "claude-opus-5-5", "domain": "avatarmedical.ai"}
+{"key": "avenda health", "name": "Avenda Health, Inc.", "model": "claude-opus-5-5", "domain": "avenda.com"}
+{"key": "avicena", "name": "Avicena, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "avicennaai", "name": "Avicenna.AI", "model": "claude-opus-5-5", "domain": "avicenna.ai"}
+{"key": "avive solutions", "name": "Avive Solutions, Inc.", "model": "claude-opus-5-5", "domain": "avive.life"}
+{"key": "axial medical printing", "name": "Axial Medical Printing Limited", "model": "claude-opus-5-5", "domain": "axial3d.com"}
+{"key": "azmed", "name": "AZmed", "model": "claude-opus-5-5", "domain": "azmed.co"}
+{"key": "azmed sas", "name": "AZmed SAS", "model": "claude-opus-5-5", "domain": "azmed.co"}
+{"key": "b secur", "name": "B-Secur Limited", "model": "claude-opus-5-5", "domain": "b-secur.com"}
+{"key": "bay labs", "name": "Bay Labs, Inc.", "model": "claude-opus-5-5", "domain": "baylabs.io"}
+{"key": "bayesian health", "name": "Bayesian Health, Inc.", "model": "claude-opus-5-5", "domain": "bayesianhealth.com"}
+{"key": "bd diagnostics", "name": "BD DIAGNOSTICS", "model": "claude-opus-5-5", "domain": "bd.com"}
+{"key": "beacon biosignals", "name": "Beacon Biosignals, Inc.", "model": "claude-opus-5-5", "domain": "beacon.bio"}
+{"key": "beaubrain healthcare", "name": "BeauBrain Healthcare, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "beckman coulter", "name": "BECKMAN COULTER, INC.", "model": "claude-opus-5-5", "domain": "beckmancoulter.com"}
+{"key": "beholdai technologies", "name": "Behold.AI Technologies Limited", "model": "claude-opus-5-5", "domain": "behold.ai"}
+{"key": "beijing infervision healthcare medical technology", "name": "Beijing Infervision Healthcare Medical Technology Co., Ltd.", "model": "claude-opus-5-5", "domain": "infervision.com"}
+{"key": "beijing infervision technology", "name": "Beijing Infervision Technology Co.,Ltd.", "model": "claude-opus-5-5", "domain": "infervision.com"}
+{"key": "belun technology", "name": "Belun Technology Company Limited", "model": "claude-opus-5-5", "domain": null}
+{"key": "bench7", "name": "Bench7, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "bering", "name": "Bering Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "better diagnostics ai", "name": "Better Diagnostics AI Corp", "model": "claude-opus-5-5", "domain": null}
+{"key": "bio rad laboratories", "name": "BIO-RAD LABORATORIES, INC.", "model": "claude-opus-5-5", "domain": "bio-rad.com"}
+{"key": "biofourmis singapore pte", "name": "Biofourmis Singapore Pte. Ltd", "model": "claude-opus-5-5", "domain": "biofourmis.com"}
+{"key": "biomerieux", "name": "BIOMERIEUX, INC.", "model": "claude-opus-5-5", "domain": "biomerieux.com"}
+{"key": "biosense webster", "name": "Biosense Webster, Inc.", "model": "claude-opus-5-5", "domain": "biosensewebster.com"}
+{"key": "bioticsai", "name": "Bioticsai, Inc.", "model": "claude-opus-5-5", "domain": "bioticsai.com"}
+{"key": "bk medical aps", "name": "BK Medical Aps", "model": "claude-opus-5-5", "domain": "bkmedical.com"}
+{"key": "body vision medical", "name": "Body Vision Medical Ltd.", "model": "claude-opus-5-5", "domain": "bodyvisionmedical.com"}
+{"key": "bodyvision medical", "name": "BodyVision Medical Ltd.", "model": "claude-opus-5-5", "domain": "bodyvisionmedical.com"}
+{"key": "bonraybio", "name": "Bonraybio Co., LTD.", "model": "claude-opus-5-5", "domain": "bonraybio.com"}
+{"key": "boston scientific cardiac diagnostic technologies", "name": "Boston Scientific Cardiac Diagnostic Technologies, Inc.", "model": "claude-opus-5-5", "domain": "bostonscientific.com"}
+{"key": "brainlab", "name": "Brainlab AG", "model": "claude-opus-5-5", "domain": "brainlab.com"}
+{"key": "brainomix", "name": "Brainomix Limited", "model": "claude-opus-5-5", "domain": "brainomix.com"}
+{"key": "brainscope", "name": "BrainScope Company, Inc.", "model": "claude-opus-5-5", "domain": "brainscope.com"}
+{"key": "brightheart", "name": "Brightheart", "model": "claude-opus-5-5", "domain": null}
+{"key": "bruker daltonics", "name": "BRUKER DALTONICS, INC", "model": "claude-opus-5-5", "domain": "bruker.com"}
+{"key": "bunkerhill", "name": "Bunkerhill, Inc", "model": "claude-opus-5-5", "domain": "bunkerhillhealth.com"}
+{"key": "bunkerhill health", "name": "BunkerHill Health", "model": "claude-opus-5-5", "domain": "bunkerhillhealth.com"}
+{"key": "butterfly network", "name": "Butterfly Network, Inc.", "model": "claude-opus-5-5", "domain": "butterflynetwork.com"}
+{"key": "cancer genetics", "name": "Cancer Genetics, Inc.", "model": "claude-opus-5-5", "domain": "cancergenetics.com"}
+{"key": "canon", "name": "Canon, Inc.", "model": "claude-opus-5-5", "domain": "global.canon"}
+{"key": "canon medical informatics", "name": "Canon Medical Informatics, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "canon medical systems", "name": "Canon Medical Systems Corporation", "model": "claude-opus-5-5", "domain": "medical.canon"}
+{"key": "caption health", "name": "Caption Health, Inc.", "model": "claude-opus-5-5", "domain": "captionhealth.com"}
+{"key": "cara medical", "name": "Cara Medical, Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "caranx medical", "name": "Caranx Medical", "model": "claude-opus-5-5", "domain": null}
+{"key": "cardio phoenix", "name": "Cardio-Phoenix Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "cardiologs technologies", "name": "Cardiologs Technologies", "model": "claude-opus-5-5", "domain": "cardiologs.com"}
+{"key": "cardiosense", "name": "Cardiosense, Inc.", "model": "claude-opus-5-5", "domain": "cardiosense.com"}
+{"key": "carestream dental", "name": "CARESTREAM DENTAL LLC", "model": "claude-opus-5-5", "domain": "carestreamdental.com"}
+{"key": "carestream health", "name": "Carestream Health, Inc.", "model": "claude-opus-5-5", "domain": "carestream.com"}
+{"key": "careverse technology pte", "name": "Careverse Technology Pte. Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "carina medical", "name": "Carina Medical LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "caristo diagnostics", "name": "Caristo Diagnostics Ltd.", "model": "claude-opus-5-5", "domain": "caristo.com"}
+{"key": "carl zeiss meditec", "name": "Carl Zeiss Meditec, Inc.", "model": "claude-opus-5-5", "domain": "zeiss.com"}
+{"key": "carlsmed", "name": "Carlsmed, Inc.", "model": "claude-opus-5-5", "domain": "carlsmed.com"}
+{"key": "casis cardiac simulation and imaging software", "name": "CASIS Cardiac Simulation & Imaging Software", "model": "claude-opus-5-5", "domain": null}
+{"key": "cathworks", "name": "CathWorks Ltd", "model": "claude-opus-5-5", "domain": "cathworks.com"}
+{"key": "cedars sinai medical center aim", "name": "Cedars-Sinai Medical Center: AIM", "model": "claude-opus-5-5", "domain": "cedars-sinai.org"}
+{"key": "ceevra", "name": "Ceevra, Inc.", "model": "claude-opus-5-5", "domain": "ceevra.com"}
+{"key": "cella vision", "name": "Cella Vision AB", "model": "claude-opus-5-5", "domain": "cellavision.com"}
+{"key": "cellavision", "name": "CellaVision AB", "model": "claude-opus-5-5", "domain": "cellavision.com"}
+{"key": "cercare medical a s", "name": "Cercare Medical A/S", "model": "claude-opus-5-5", "domain": "cercare-medical.com"}
+{"key": "ceribell", "name": "Ceribell, Inc.", "model": "claude-opus-5-5", "domain": "ceribell.com"}
+{"key": "change healthcare canada", "name": "Change Healthcare Canada Company", "model": "claude-opus-5-5", "domain": "changehealthcare.com"}
+{"key": "checkcells", "name": "Checkcells, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "chengdu wision medical device", "name": "Chengdu Wision Medical Device Co., LTD.", "model": "claude-opus-5-5", "domain": null}
+{"key": "circle cardiovascular imaging", "name": "Circle Cardiovascular Imaging, Inc.", "model": "claude-opus-5-5", "domain": "circlecvi.com"}
+{"key": "circle neurovascular imaging", "name": "Circle Neurovascular Imaging, Inc", "model": "claude-opus-5-5", "domain": null}
+{"key": "clairity", "name": "Clairity, Inc.", "model": "claude-opus-5-5", "domain": "clairity.com"}
+{"key": "claripi", "name": "ClariPi Inc.", "model": "claude-opus-5-5", "domain": "claripi.com"}
+{"key": "clarius mobile health", "name": "Clarius Mobile Health Corp.", "model": "claude-opus-5-5", "domain": "clarius.com"}
+{"key": "clearpoint neuro", "name": "ClearPoint Neuro, Inc.", "model": "claude-opus-5-5", "domain": "clearpointneuro.com"}
+{"key": "clearview diagnostics", "name": "ClearView Diagnostics Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "cleerly", "name": "Cleerly, Inc.", "model": "claude-opus-5-5", "domain": "cleerlyhealth.com"}
+{"key": "clever culture systems", "name": "Clever Culture Systems AG", "model": "claude-opus-5-5", "domain": "cleverculturesystems.com"}
+{"key": "clew medical", "name": "Clew Medical Ltd.", "model": "claude-opus-5-5", "domain": "clewmed.com"}
+{"key": "coapt", "name": "Coapt", "model": "claude-opus-5-5", "domain": "coaptengineering.com"}
+{"key": "cognoa", "name": "Cognoa, Inc.", "model": "claude-opus-5-5", "domain": "cognoa.com"}
+{"key": "combinostics", "name": "Combinostics Oy", "model": "claude-opus-5-5", "domain": "combinostics.com"}
+{"key": "compumedics", "name": "Compumedics Limited", "model": "claude-opus-5-5", "domain": "compumedics.com.au"}
+{"key": "compumedics ptd", "name": "COMPUMEDICS PTD LTD.", "model": "claude-opus-5-5", "domain": "compumedics.com.au"}
+{"key": "conavi medical", "name": "Conavi Medical, Inc.", "model": "claude-opus-5-5", "domain": "conavi.com"}
+{"key": "continuse biometrics", "name": "ContinUse Biometrics Ltd.", "model": "claude-opus-5-5", "domain": "continusebiometrics.com"}
+{"key": "copan wasp", "name": "Copan Wasp Srl", "model": "claude-opus-5-5", "domain": "copanwasp.com"}
+{"key": "coreline soft", "name": "Coreline Soft Co.,Ltd", "model": "claude-opus-5-5", "domain": "corelinesoft.com"}
+{"key": "cortechs labs", "name": "CorTechs Labs, Inc.", "model": "claude-opus-5-5", "domain": "cortechs.ai"}
+{"key": "corticometrics", "name": "CorticoMetrics LLC", "model": "claude-opus-5-5", "domain": "corticometrics.com"}
+{"key": "corvista health", "name": "CorVista Health, Inc.", "model": "claude-opus-5-5", "domain": "corvista.com"}
+{"key": "cosmo artificial intelligence ai", "name": "Cosmo Artificial Intelligence - Ai, Ltd.", "model": "claude-opus-5-5", "domain": "cosmoimd.com"}
+{"key": "covidien", "name": "Covidien, LLC", "model": "claude-opus-5-5", "domain": "covidien.com"}
+{"key": "crescom", "name": "Crescom Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "csd labs", "name": "Csd Labs", "model": "claude-opus-5-5", "domain": null}
+{"key": "cube click", "name": "Cube Click, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "curacloud", "name": "CuraCloud Corp.", "model": "claude-opus-5-5", "domain": "curacloudcorp.com"}
+{"key": "curemetrix", "name": "CureMetrix, Inc.", "model": "claude-opus-5-5", "domain": "curemetrix.com"}
+{"key": "cycle clarity", "name": "Cycle Clarity", "model": "claude-opus-5-5", "domain": "cycleclarity.com"}
+{"key": "cydar", "name": "Cydar Ltd.", "model": "claude-opus-5-5", "domain": "cydarmedical.com"}
+{"key": "darmiyan", "name": "Darmiyan, Inc.", "model": "claude-opus-5-5", "domain": "darmiyan.com"}
+{"key": "dasi simulations", "name": "DASI Simulations", "model": "claude-opus-5-5", "domain": "dasisimulations.com"}
+{"key": "deep breathe", "name": "Deep Breathe, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "deep01", "name": "Deep01 Limited", "model": "claude-opus-5-5", "domain": "deep01.com"}
+{"key": "deepecho", "name": "DeepEcho", "model": "claude-opus-5-5", "domain": null}
+{"key": "deephealth", "name": "DeepHealth, Inc.", "model": "claude-opus-5-5", "domain": "deephealth.com"}
+{"key": "deeptek medical imaging pvt", "name": "DeepTek Medical Imaging Pvt Ltd", "model": "claude-opus-5-5", "domain": "deeptek.ai"}
+{"key": "deepvoxel", "name": "Deepvoxel INC", "model": "claude-opus-5-5", "domain": null}
+{"key": "densitas", "name": "Densitas, Inc.", "model": "claude-opus-5-5", "domain": "densitashealth.com"}
+{"key": "dental monitoring sas", "name": "Dental Monitoring SAS", "model": "claude-opus-5-5", "domain": "dental-monitoring.com"}
+{"key": "dentiai technology", "name": "Denti.AI Technology, Inc.", "model": "claude-opus-5-5", "domain": "denti.ai"}
+{"key": "dentsply sirona", "name": "Dentsply Sirona", "model": "claude-opus-5-5", "domain": "dentsplysirona.com"}
+{"key": "depuy ireland uc", "name": "Depuy Ireland UC", "model": "claude-opus-5-5", "domain": "depuysynthes.com"}
+{"key": "dermasensor", "name": "DermaSensor Inc.", "model": "claude-opus-5-5", "domain": "dermasensor.com"}
+{"key": "deski", "name": "Deski", "model": "claude-opus-5-5", "domain": null}
+{"key": "dgnct", "name": "DGNCT, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "dia imaging analysis", "name": "DiA Imaging Analysis Ltd.", "model": "claude-opus-5-5", "domain": "dia-analysis.com"}
+{"key": "diacardio", "name": "DIACARDIO, LTD.", "model": "claude-opus-5-5", "domain": null}
+{"key": "diacoustic medical", "name": "DIACOUSTIC MEDICAL (PTY)", "model": "claude-opus-5-5", "domain": null}
+{"key": "diacoustic medical devices", "name": "DIACOUSTIC MEDICAL DEVICES (PTY) LTD.", "model": "claude-opus-5-5", "domain": null}
+{"key": "diagnoly", "name": "Diagnoly", "model": "claude-opus-5-5", "domain": "diagnoly.com"}
+{"key": "digestaid artificial intelligence development", "name": "Digestaid - Artificial Intelligence Development SA", "model": "claude-opus-5-5", "domain": null}
+{"key": "digital diagnostics", "name": "Digital Diagnostics Inc.", "model": "claude-opus-5-5", "domain": "digitaldiagnostics.com"}
+{"key": "dilon medical technologies", "name": "Dilon Medical Technologies, Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "disior", "name": "Disior Ltd", "model": "claude-opus-5-5", "domain": "disior.com"}
+{"key": "dreamed diabetes", "name": "DreaMed Diabetes Ltd", "model": "claude-opus-5-5", "domain": "dreamed-diabetes.com"}
+{"key": "dyad medical", "name": "Dyad Medical, Inc", "model": "claude-opus-5-5", "domain": "dyadmedical.com"}
+{"key": "earlitec diagnostics", "name": "Earlitec Diagnostics", "model": "claude-opus-5-5", "domain": null}
+{"key": "echo iq", "name": "Echo IQ Ltd", "model": "claude-opus-5-5", "domain": "echoiq.ai"}
+{"key": "echonous", "name": "EchoNous, Inc.", "model": "claude-opus-5-5", "domain": "echonous.com"}
+{"key": "edgecare", "name": "Edgecare, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "edwards lifeciences", "name": "Edwards Lifeciences, LLC", "model": "claude-opus-5-5", "domain": "edwards.com"}
+{"key": "edwards lifesciences", "name": "Edwards Lifesciences, LLC", "model": "claude-opus-5-5", "domain": "edwards.com"}
+{"key": "eko devices", "name": "Eko Devices, Inc.", "model": "claude-opus-5-5", "domain": "ekohealth.com"}
+{"key": "eko health", "name": "Eko Health, Inc.", "model": "claude-opus-5-5", "domain": "ekohealth.com"}
+{"key": "ekoai pte ltd d b a us2ai", "name": "Eko.Ai Pte Ltd. D/B/A Us2.Ai", "model": "claude-opus-5-5", "domain": "us2.ai"}
+{"key": "elaitra", "name": "Elaitra Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "elekta solutions", "name": "Elekta Solutions AB", "model": "claude-opus-5-5", "domain": "elekta.com"}
+{"key": "element science", "name": "Element Science, Inc.", "model": "claude-opus-5-5", "domain": "elementscience.com"}
+{"key": "elucid bioimaging", "name": "Elucid Bioimaging Inc.", "model": "claude-opus-5-5", "domain": "elucid.com"}
+{"key": "empatica", "name": "Empatica  Srl", "model": "claude-opus-5-5", "domain": "empatica.com"}
+{"key": "enhatch", "name": "Enhatch, Inc.", "model": "claude-opus-5-5", "domain": "enhatch.com"}
+{"key": "ensodata", "name": "EnsoData", "model": "claude-opus-5-5", "domain": "ensodata.com"}
+{"key": "envisionit deepai", "name": "Envisionit DeepAI Ltd", "model": "claude-opus-5-5", "domain": "envisionitdeepai.com"}
+{"key": "eos imaging", "name": "Eos Imaging", "model": "claude-opus-5-5", "domain": "eos-imaging.com"}
+{"key": "epitel", "name": "Epitel, Inc", "model": "claude-opus-5-5", "domain": "epitel.com"}
+{"key": "esaote spa", "name": "Esaote, S.p.A.", "model": "claude-opus-5-5", "domain": "esaote.com"}
+{"key": "ever fortune ai", "name": "Ever Fortune AI Co., Ltd.", "model": "claude-opus-5-5", "domain": "everfortune.ai"}
+{"key": "ever fortuneai", "name": "Ever Fortune.Ai, Co., Ltd.", "model": "claude-opus-5-5", "domain": "everfortune.ai"}
+{"key": "ewoosoft", "name": "Ewoosoft Co., Ltd", "model": "claude-opus-5-5", "domain": "ewoosoft.com"}
+{"key": "excel medical electronics", "name": "Excel Medical Electronics, LLC", "model": "claude-opus-5-5", "domain": "excel-medical.com"}
+{"key": "exini diagnostics", "name": "EXINI Diagnostics AB", "model": "claude-opus-5-5", "domain": "exini.com"}
+{"key": "exo", "name": "Exo Inc", "model": "claude-opus-5-5", "domain": "exo.inc"}
+{"key": "exo imaging", "name": "Exo Imaging", "model": "claude-opus-5-5", "domain": "exo.inc"}
+{"key": "eyenuk", "name": "Eyenuk, Inc.", "model": "claude-opus-5-5", "domain": "eyenuk.com"}
+{"key": "ezra ai", "name": "Ezra AI, Inc.", "model": "claude-opus-5-5", "domain": "ezra.com"}
+{"key": "faceheart", "name": "FaceHeart Corp.", "model": "claude-opus-5-5", "domain": null}
+{"key": "fairtility", "name": "Fairtility Ltd.", "model": "claude-opus-5-5", "domain": "fairtility.com"}
+{"key": "fasikl", "name": "Fasikl Incorporated", "model": "claude-opus-5-5", "domain": "fasikl.com"}
+{"key": "feops", "name": "Feops NV", "model": "claude-opus-5-5", "domain": "feops.com"}
+{"key": "fifth eye", "name": "Fifth Eye Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "fitbit", "name": "Fitbit", "model": "claude-opus-5-5", "domain": "fitbit.com"}
+{"key": "fluidda", "name": "Fluidda Inc.", "model": "claude-opus-5-5", "domain": "fluidda.com"}
+{"key": "foqus technologies", "name": "Foqus Technologies Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "formus labs", "name": "Formus Labs, Ltd", "model": "claude-opus-5-5", "domain": "formuslabs.com"}
+{"key": "fovia", "name": "Fovia, Inc.", "model": "claude-opus-5-5", "domain": "fovia.com"}
+{"key": "fujifilm", "name": "Fujifilm Corporation", "model": "claude-opus-5-5", "domain": "fujifilm.com"}
+{"key": "fujifilm healthcare", "name": "FUJIFILM Healthcare Corporation", "model": "claude-opus-5-5", "domain": "fujifilm.com"}
+{"key": "fujifilm healthcare americas", "name": "FUJIFILM Healthcare Americas Corporation", "model": "claude-opus-5-5", "domain": "fujifilm.com"}
+{"key": "fujifilm sonosite", "name": "Fujifilm Sonosite Inc", "model": "claude-opus-5-5", "domain": "sonosite.com"}
+{"key": "galgo medical", "name": "Galgo Medical S.L", "model": "claude-opus-5-5", "domain": "galgomedical.com"}
+{"key": "galileo cds", "name": "Galileo CDS, Inc", "model": "claude-opus-5-5", "domain": null}
+{"key": "gauss surgical", "name": "GAUSS SURGICAL INC.", "model": "claude-opus-5-5", "domain": "gausssurgical.com"}
+{"key": "ge hangwei medical systems", "name": "GE Hangwei Medical Systems Co., Ltd.", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge healthcare", "name": "GE Healthcare", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge healthcare ge medical systems", "name": "GE Healthcare (GE Medical Systems, LLC)", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge healthcare japan", "name": "Ge Healthcare Japan Corporation", "model": "claude-opus-5-5", "domain": "gehealthcare.co.jp"}
+{"key": "ge healthcare tianjin", "name": "GE Healthcare (Tianjin) Company Limited", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge hualun medical systems", "name": "Ge Hualun Medical Systems Co. , Ltd.", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems", "name": "Ge Medical Systems, LLC", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems israel", "name": "GE Medical Systems Israel", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems israel functional imaging", "name": "GE Medical Systems Israel, Functional Imaging", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems llc ge healthcare", "name": "GE Medical Systems,LLC (GE Healthcare)", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems scs", "name": "GE Medical Systems SCS", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems ultrasound and", "name": "GE Medical Systems Ultrasound and", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems ultrasound and primary care diagnostic", "name": "GE Medical Systems Ultrasound and Primary Care Diagnostic,", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "ge medical systems ultrasound and primary care diagnostics", "name": "GE Medical Systems Ultrasound & Primary Care Diagnostics, LLC", "model": "claude-opus-5-5", "domain": "gehealthcare.com"}
+{"key": "geneseeq technology", "name": "Geneseeq Technology Inc.", "model": "claude-opus-5-5", "domain": "geneseeq.com"}
+{"key": "genesis software innovations", "name": "Genesis Software Innovations", "model": "claude-opus-5-5", "domain": null}
+{"key": "getset surgical", "name": "GetSet Surgical, SA", "model": "claude-opus-5-5", "domain": "getsetsurgical.com"}
+{"key": "gleamer", "name": "Gleamer", "model": "claude-opus-5-5", "domain": "gleamer.ai"}
+{"key": "gleamer sas", "name": "Gleamer SAS", "model": "claude-opus-5-5", "domain": "gleamer.ai"}
+{"key": "guideai health", "name": "GuideAI Health", "model": "claude-opus-5-5", "domain": null}
+{"key": "hangzhou chohotech", "name": "Hangzhou ChohoTech Co., Ltd.", "model": "claude-opus-5-5", "domain": "chohotech.com"}
+{"key": "harrison ai medical", "name": "Harrison-AI Medical Pty, Ltd.", "model": "claude-opus-5-5", "domain": "harrison.ai"}
+{"key": "healthyio", "name": "Healthy.io Ltd.", "model": "claude-opus-5-5", "domain": "healthy.io"}
+{"key": "heartflow", "name": "HeartFlow, Inc.", "model": "claude-opus-5-5", "domain": "heartflow.com"}
+{"key": "heartlung", "name": "HeartLung Corporation", "model": "claude-opus-5-5", "domain": null}
+{"key": "heartvista", "name": "HeartVista, Inc.", "model": "claude-opus-5-5", "domain": "heartvista.ai"}
+{"key": "hermes medical solutions", "name": "Hermes Medical Solutions AB", "model": "claude-opus-5-5", "domain": "hermesmedical.com"}
+{"key": "heroic faith international", "name": "Heroic Faith International Ltd.", "model": "claude-opus-5-5", "domain": "heroic-faith.com"}
+{"key": "heuron", "name": "Heuron Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "hi d imaging", "name": "Hi-D Imaging AG", "model": "claude-opus-5-5", "domain": null}
+{"key": "highrad", "name": "HighRAD Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "histosonics", "name": "HistoSonics, Inc.", "model": "claude-opus-5-5", "domain": "histosonics.com"}
+{"key": "holberg eeg as", "name": "Holberg EEG AS", "model": "claude-opus-5-5", "domain": "holbergeeg.com"}
+{"key": "hologic", "name": "Hologic, Inc.", "model": "claude-opus-5-5", "domain": "hologic.com"}
+{"key": "honeynaps", "name": "Honeynaps Co., Ltd.", "model": "claude-opus-5-5", "domain": "honeynaps.com"}
+{"key": "hutom", "name": "Hutom Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "huxley medical", "name": "Huxley Medical", "model": "claude-opus-5-5", "domain": null}
+{"key": "hygieia", "name": "Hygieia, Inc", "model": "claude-opus-5-5", "domain": "hygieia.com"}
+{"key": "hyperfine", "name": "Hyperfine, Inc.", "model": "claude-opus-5-5", "domain": "hyperfine.io"}
+{"key": "hyperfine research", "name": "Hyperfine Research, Inc", "model": "claude-opus-5-5", "domain": "hyperfine.io"}
+{"key": "hypervision surgical", "name": "Hypervision Surgical", "model": "claude-opus-5-5", "domain": "hypervisionsurgical.com"}
+{"key": "ib lab", "name": "IB Lab GmbH", "model": "claude-opus-5-5", "domain": "imagebiopsy.com"}
+{"key": "ibex medical analytics", "name": "Ibex Medical Analytics Ltd.", "model": "claude-opus-5-5", "domain": "ibex-ai.com"}
+{"key": "icad", "name": "iCAD, Inc.", "model": "claude-opus-5-5", "domain": "icadmed.com"}
+{"key": "icardioai", "name": "Icardio.Ai", "model": "claude-opus-5-5", "domain": "icardio.ai"}
+{"key": "icometrix", "name": "icometrix NV", "model": "claude-opus-5-5", "domain": "icometrix.com"}
+{"key": "idx", "name": "IDx, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "imagen technologies", "name": "Imagen Technologies, Inc", "model": "claude-opus-5-5", "domain": "imagen.ai"}
+{"key": "imaging biometrics", "name": "IMAGING BIOMETRICS, LLC", "model": "claude-opus-5-5", "domain": "imagingbiometrics.com"}
+{"key": "imbio", "name": "Imbio, Inc.", "model": "claude-opus-5-5", "domain": "imbio.com"}
+{"key": "imeka solutions", "name": "Imeka Solutions, Inc.", "model": "claude-opus-5-5", "domain": "imeka.ca"}
+{"key": "imidex", "name": "Imidex Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "impedimed", "name": "ImpediMed Limited", "model": "claude-opus-5-5", "domain": "impedimed.com"}
+{"key": "implicity", "name": "Implicity Inc.", "model": "claude-opus-5-5", "domain": "implicity.com"}
+{"key": "imvaria", "name": "Imvaria, Inc.", "model": "claude-opus-5-5", "domain": "imvaria.com"}
+{"key": "in med prognostics l3c", "name": "In-Med Prognostics L3C", "model": "claude-opus-5-5", "domain": null}
+{"key": "indevr", "name": "InDevR, Inc.", "model": "claude-opus-5-5", "domain": "indevr.com"}
+{"key": "infervision medical technology", "name": "Infervision Medical Technology Co., Ltd.", "model": "claude-opus-5-5", "domain": "infervision.com"}
+{"key": "infinite biomedical technologies", "name": "Infinite Biomedical Technologies, LLC", "model": "claude-opus-5-5", "domain": "i-biomed.com"}
+{"key": "infinitt healthcare", "name": "Infinitt Healthcare Co., Ltd.", "model": "claude-opus-5-5", "domain": "infinitt.com"}
+{"key": "inflammatix", "name": "Inflammatix, Inc.", "model": "claude-opus-5-5", "domain": "inflammatix.com"}
+{"key": "informai", "name": "Informai", "model": "claude-opus-5-5", "domain": null}
+{"key": "inheart sas", "name": "inHEART, SAS", "model": "claude-opus-5-5", "domain": "inheart.fr"}
+{"key": "innolitics", "name": "Innolitics, LLC", "model": "claude-opus-5-5", "domain": "innolitics.com"}
+{"key": "insight medical systems", "name": "Insight Medical Systems, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "intelligent retinal imaging systems", "name": "INTELLIGENT RETINAL IMAGING SYSTEMS, LLC", "model": "claude-opus-5-5", "domain": "retinalscreenings.com"}
+{"key": "intelligent ultrasound", "name": "Intelligent Ultrasound Limited", "model": "claude-opus-5-5", "domain": "intelligentultrasound.com"}
+{"key": "intuitive surgical", "name": "Intuitive Surgical, Inc.", "model": "claude-opus-5-5", "domain": "intuitive.com"}
+{"key": "invision medical technology", "name": "InVision Medical Technology Corporation", "model": "claude-opus-5-5", "domain": null}
+{"key": "irhythm technologies", "name": "iRhythm Technologies, Inc.", "model": "claude-opus-5-5", "domain": "irhythmtech.com"}
+{"key": "ischema view", "name": "iSchema View Inc.", "model": "claude-opus-5-5", "domain": "rapidai.com"}
+{"key": "ischemaview", "name": "iSchemaView, Inc.", "model": "claude-opus-5-5", "domain": "rapidai.com"}
+{"key": "iterative health", "name": "Iterative Health", "model": "claude-opus-5-5", "domain": "iterative.health"}
+{"key": "iterative scopes", "name": "Iterative Scopes, Inc.", "model": "claude-opus-5-5", "domain": "iterative.health"}
+{"key": "jlk", "name": "JLK, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "kestra medical technologies", "name": "Kestra Medical Technologies, Inc.", "model": "claude-opus-5-5", "domain": "kestramedical.com"}
+{"key": "keya medical technology", "name": "Keya Medical Technology Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "keyamed na", "name": "KeyaMed NA Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "kico knee innovation", "name": "Kico Knee Innovation Company Pty Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "kneevoice", "name": "Kneevoice, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "koios medical", "name": "Koios Medical, Inc.", "model": "claude-opus-5-5", "domain": "koiosmedical.com"}
+{"key": "labstyle innovations", "name": "LabStyle Innovations Ltd.", "model": "claude-opus-5-5", "domain": "dariohealth.com"}
+{"key": "laralab", "name": "LARALAB GmbH", "model": "claude-opus-5-5", "domain": null}
+{"key": "ligence uab", "name": "Ligence Uab", "model": "claude-opus-5-5", "domain": null}
+{"key": "limbus ai", "name": "Limbus AI Inc.", "model": "claude-opus-5-5", "domain": "limbus.ai"}
+{"key": "lunit", "name": "Lunit, Inc.", "model": "claude-opus-5-5", "domain": "lunit.io"}
+{"key": "lvis", "name": "LVIS Corporation", "model": "claude-opus-5-5", "domain": null}
+{"key": "m3dicine", "name": "M3DICINE Pty Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "magentiq eye", "name": "Magentiq Eye, Ltd.", "model": "claude-opus-5-5", "domain": "magentiq.com"}
+{"key": "manteia technologies", "name": "Manteia Technologies Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "masimo", "name": "Masimo Corporation", "model": "claude-opus-5-5", "domain": "masimo.com"}
+{"key": "matakina technology", "name": "Matakina Technology LTD", "model": "claude-opus-5-5", "domain": "volparahealth.com"}
+{"key": "maxq al", "name": "MaxQ Al Ltd.", "model": "claude-opus-5-5", "domain": "maxq.ai"}
+{"key": "mazor robotics", "name": "Mazor Robotics Ltd.", "model": "claude-opus-5-5", "domain": "mazorrobotics.com"}
+{"key": "measure labs inc dba preemptiveai", "name": "Measure Labs, Inc. (Dba Preemptiveai, Inc.)", "model": "claude-opus-5-5", "domain": null}
+{"key": "medacta international", "name": "Medacta International S.A.", "model": "claude-opus-5-5", "domain": "medacta.com"}
+{"key": "medasense biometrics", "name": "Medasense Biometrics Ltd.", "model": "claude-opus-5-5", "domain": "medasense.com"}
+{"key": "medcognetics", "name": "Medcognetics, Inc.", "model": "claude-opus-5-5", "domain": "medcognetics.com"}
+{"key": "median technologies", "name": "Median Technologies", "model": "claude-opus-5-5", "domain": "mediantechnologies.com"}
+{"key": "medic vision imaging solutions", "name": "Medic Vision - Imaging Solutions Ltd", "model": "claude-opus-5-5", "domain": "medicvision.com"}
+{"key": "medica", "name": "MEDICA CORP.", "model": "claude-opus-5-5", "domain": "medicacorp.com"}
+{"key": "medical metrics", "name": "Medical Metrics, Inc.", "model": "claude-opus-5-5", "domain": "medicalmetrics.com"}
+{"key": "medicalgorithmics", "name": "Medicalgorithmics S.A.", "model": "claude-opus-5-5", "domain": "medicalgorithmics.com"}
+{"key": "medicalip", "name": "MEDICALIP Co., Ltd", "model": "claude-opus-5-5", "domain": "medicalip.com"}
+{"key": "medicalvr", "name": "Medicalvr B.V.", "model": "claude-opus-5-5", "domain": null}
+{"key": "medicrea international", "name": "MEDICREA International, Inc.", "model": "claude-opus-5-5", "domain": "medicrea.com"}
+{"key": "medicrea international sas medtronic", "name": "Medicrea International S.A.S. (Medtronic)", "model": "claude-opus-5-5", "domain": "medicrea.com"}
+{"key": "medipixel", "name": "Medipixel, Inc.", "model": "claude-opus-5-5", "domain": "medipixel.io"}
+{"key": "medivis", "name": "MEDIVIS, Inc.", "model": "claude-opus-5-5", "domain": "medivis.com"}
+{"key": "medmind technology", "name": "MedMind Technology Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "medo dx pte", "name": "MEDO DX Pte. Ltd.", "model": "claude-opus-5-5", "domain": "medo.ai"}
+{"key": "medoai", "name": "Medo.ai", "model": "claude-opus-5-5", "domain": "medo.ai"}
+{"key": "medtronic", "name": "Medtronic, Inc.", "model": "claude-opus-5-5", "domain": "medtronic.com"}
+{"key": "medtronic cardiac rhythm disease management", "name": "Medtronic Cardiac Rhythm Disease Management", "model": "claude-opus-5-5", "domain": "medtronic.com"}
+{"key": "medtronic navigation", "name": "Medtronic Navigation, Inc.", "model": "claude-opus-5-5", "domain": "medtronic.com"}
+{"key": "medviso", "name": "Medviso AB", "model": "claude-opus-5-5", "domain": "medviso.com"}
+{"key": "merge healthcare", "name": "Merge Healthcare Incorporated", "model": "claude-opus-5-5", "domain": "merge.com"}
+{"key": "metamorphosis", "name": "Metamorphosis GmbH", "model": "claude-opus-5-5", "domain": null}
+{"key": "methinks software", "name": "Methinks Software S.L.", "model": "claude-opus-5-5", "domain": null}
+{"key": "mevis medical solutions", "name": "MeVis Medical Solutions AG", "model": "claude-opus-5-5", "domain": "mevis.de"}
+{"key": "microsoft", "name": "Microsoft Corp.", "model": "claude-opus-5-5", "domain": "microsoft.com"}
+{"key": "microstructure imaging", "name": "Microstructure Imaging, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "mighty oak medical", "name": "Mighty Oak Medical", "model": "claude-opus-5-5", "domain": "mightyoakmedical.com"}
+{"key": "milvue", "name": "Milvue", "model": "claude-opus-5-5", "domain": "milvue.com"}
+{"key": "mim fertility", "name": "Mim Fertility", "model": "claude-opus-5-5", "domain": null}
+{"key": "mim software", "name": "Mim Software, Inc.", "model": "claude-opus-5-5", "domain": "mimsoftware.com"}
+{"key": "mimosa diagnostics", "name": "MIMOSA Diagnostics Inc", "model": "claude-opus-5-5", "domain": "mimosadiagnostics.com"}
+{"key": "mindset medical", "name": "Mindset Medical, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "mint labs inc d b a qmenta", "name": "Mint Labs, Inc., d/b/a. QMENTA", "model": "claude-opus-5-5", "domain": "qmenta.com"}
+{"key": "mirada medical", "name": "Mirada Medical Ltd.", "model": "claude-opus-5-5", "domain": "mirada-medical.com"}
+{"key": "mlhealth 360", "name": "Mlhealth 360", "model": "claude-opus-5-5", "domain": null}
+{"key": "momentum health", "name": "Momentum Health Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "monarch medical technologies", "name": "MONARCH MEDICAL TECHNOLOGIES", "model": "claude-opus-5-5", "domain": "monarchmedtech.com"}
+{"key": "moon surgical", "name": "Moon Surgical", "model": "claude-opus-5-5", "domain": "moonsurgical.com"}
+{"key": "mriguidance", "name": "MRIguidance B.V", "model": "claude-opus-5-5", "domain": "mriguidance.com"}
+{"key": "mrimath", "name": "MRIMath LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "mrlguidance", "name": "MRlguidance B.V.", "model": "claude-opus-5-5", "domain": "mriguidance.com"}
+{"key": "mskai", "name": "MSKai", "model": "claude-opus-5-5", "domain": null}
+{"key": "multimodal imaging services corporation dba healthlytix", "name": "MultiModal Imaging Services Corporation (dba HealthLytix)", "model": "claude-opus-5-5", "domain": "healthlytix.com"}
+{"key": "mvision ai", "name": "Mvision AI Oy", "model": "claude-opus-5-5", "domain": "mvision.ai"}
+{"key": "mycardium ai", "name": "Mycardium AI Limited", "model": "claude-opus-5-5", "domain": "mycardium.ai"}
+{"key": "naitive technologies", "name": "Naitive Technologies Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "nano x ai", "name": "Nano-X AI Ltd.", "model": "claude-opus-5-5", "domain": "nanox.vision"}
+{"key": "nanoxai", "name": "NanoxAI Ltd.", "model": "claude-opus-5-5", "domain": "nanox.vision"}
+{"key": "neosoma", "name": "Neosoma, Inc.", "model": "claude-opus-5-5", "domain": "neosomainc.com"}
+{"key": "neumetry medical", "name": "Neumetry Medical Inc", "model": "claude-opus-5-5", "domain": null}
+{"key": "neuro event labs", "name": "Neuro Event Labs OY", "model": "claude-opus-5-5", "domain": "neuroeventlabs.com"}
+{"key": "neurocareai", "name": "Neurocareai Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "neurocareai inc dba savelifeai", "name": "Neurocareai, Inc. (Dba Savelife.Ai)", "model": "claude-opus-5-5", "domain": null}
+{"key": "neuromedical systems", "name": "Neuromedical Systems, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "neurophet", "name": "Neurophet., Inc.", "model": "claude-opus-5-5", "domain": "neurophet.com"}
+{"key": "neurospectrum insights", "name": "NeuroSpectrum Insights Corp.", "model": "claude-opus-5-5", "domain": null}
+{"key": "neusoft medical systems", "name": "Neusoft Medical Systems Co., Ltd.", "model": "claude-opus-5-5", "domain": "neusoftmedical.com"}
+{"key": "new touch digital", "name": "New Touch Digital Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "nexsys electronics inc dba medweb", "name": "Nexsys Electronics Inc. dba Medweb", "model": "claude-opus-5-5", "domain": "medweb.com"}
+{"key": "nico lab", "name": "NICo-Lab B.V.", "model": "claude-opus-5-5", "domain": "nicolab.com"}
+{"key": "nicolab", "name": "Nico.Lab B.V.", "model": "claude-opus-5-5", "domain": "nicolab.com"}
+{"key": "ninepoint medical", "name": "NinePoint Medical, Inc.", "model": "claude-opus-5-5", "domain": "ninepointmedical.com"}
+{"key": "nines", "name": "Nines, Inc.", "model": "claude-opus-5-5", "domain": "nines.com"}
+{"key": "nobel biocare", "name": "Nobel Biocare AB", "model": "claude-opus-5-5", "domain": "nobelbiocare.com"}
+{"key": "nobel biocare c o medicim", "name": "Nobel Biocare C/O Medicim NV", "model": "claude-opus-5-5", "domain": "nobelbiocare.com"}
+{"key": "nordicneurolab as", "name": "NordicNeurolab AS", "model": "claude-opus-5-5", "domain": "nordicneurolab.com"}
+{"key": "notal vision", "name": "Notal Vision Inc", "model": "claude-opus-5-5", "domain": "notalvision.com"}
+{"key": "nox medical ehf", "name": "Nox Medical Ehf", "model": "claude-opus-5-5", "domain": "noxmedical.com"}
+{"key": "nurea", "name": "Nurea", "model": "claude-opus-5-5", "domain": "nurea-soft.com"}
+{"key": "nuvasive", "name": "NuVasive, Incorporated", "model": "claude-opus-5-5", "domain": "nuvasive.com"}
+{"key": "nuvoair", "name": "NuvoAir AB", "model": "claude-opus-5-5", "domain": "nuvoair.com"}
+{"key": "obs medical", "name": "OBS MEDICAL", "model": "claude-opus-5-5", "domain": "obsmedical.com"}
+{"key": "oculogica", "name": "Oculogica, Inc.", "model": "claude-opus-5-5", "domain": "oculogica.com"}
+{"key": "odin medical", "name": "Odin Medical Limited", "model": "claude-opus-5-5", "domain": null}
+{"key": "olea medical", "name": "Olea Medical", "model": "claude-opus-5-5", "domain": "olea-medical.com"}
+{"key": "olea medical sas", "name": "Olea Medical S.A.S.", "model": "claude-opus-5-5", "domain": "olea-medical.com"}
+{"key": "omega medical imaging", "name": "Omega Medical Imaging, LLC", "model": "claude-opus-5-5", "domain": "omegamedicalimaging.com"}
+{"key": "oncosoft", "name": "OncoSoft. Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "oncospace", "name": "Oncospace, Inc.", "model": "claude-opus-5-5", "domain": "oncospace.com"}
+{"key": "onera", "name": "Onera B.V.", "model": "claude-opus-5-5", "domain": "onerahealth.com"}
+{"key": "ontact health", "name": "Ontact Health Co., Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "optellum", "name": "Optellum Ltd", "model": "claude-opus-5-5", "domain": "optellum.com"}
+{"key": "orca dental ai", "name": "Orca Dental AI , Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "ortho ai", "name": "Ortho AI LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "orthofix", "name": "Orthofix Srl", "model": "claude-opus-5-5", "domain": "orthofix.com"}
+{"key": "orthofix us", "name": "Orthofix US LLC", "model": "claude-opus-5-5", "domain": "orthofix.com"}
+{"key": "orthogrid systems", "name": "OrthoGrid Systems, Inc.", "model": "claude-opus-5-5", "domain": "orthogrid.com"}
+{"key": "orthosoft inc d b a zimmer cas", "name": "Orthosoft Inc. (d/b/a) Zimmer CAS", "model": "claude-opus-5-5", "domain": "zimmerbiomet.com"}
+{"key": "ortoma", "name": "Ortoma AB", "model": "claude-opus-5-5", "domain": "ortoma.com"}
+{"key": "otto bock healthcare products", "name": "Otto Bock Healthcare Products GmbH", "model": "claude-opus-5-5", "domain": "ottobock.com"}
+{"key": "overjet", "name": "Overjet, Inc.", "model": "claude-opus-5-5", "domain": "overjet.ai"}
+{"key": "oxehealth", "name": "Oxehealth Limited", "model": "claude-opus-5-5", "domain": "oxehealth.com"}
+{"key": "oxford brain diagnostics", "name": "Oxford Brain Diagnostics Ltd", "model": "claude-opus-5-5", "domain": "oxfordbraindiagnostics.com"}
+{"key": "oxos medical", "name": "OXOS Medical, Inc.", "model": "claude-opus-5-5", "domain": "oxos.com"}
+{"key": "pacificmd biotech", "name": "PacificMD Biotech Llc", "model": "claude-opus-5-5", "domain": null}
+{"key": "paigeai", "name": "Paige.AI", "model": "claude-opus-5-5", "domain": "paige.ai"}
+{"key": "pathwai", "name": "Pathwai, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "pathwork diagnostics", "name": "PATHWORK DIAGNOSTICS, INC.", "model": "claude-opus-5-5", "domain": "pathworkdx.com"}
+{"key": "pearl", "name": "Pearl, Inc.", "model": "claude-opus-5-5", "domain": "hellopearl.com"}
+{"key": "peek health", "name": "Peek Health, S.A.", "model": "claude-opus-5-5", "domain": null}
+{"key": "peerbridge health", "name": "Peerbridge Health INc.", "model": "claude-opus-5-5", "domain": "peerbridgehealth.com"}
+{"key": "perahealth", "name": "PeraHealth, Inc.", "model": "claude-opus-5-5", "domain": "perahealth.com"}
+{"key": "perigen", "name": "PeriGen, Inc.", "model": "claude-opus-5-5", "domain": "perigen.com"}
+{"key": "perimeter medical imaging ai", "name": "Perimeter Medical Imaging Ai, Inc.", "model": "claude-opus-5-5", "domain": "perimetermed.com"}
+{"key": "perin health devices", "name": "Perin Health Devices, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "perspectum", "name": "Perspectum, Ltd.", "model": "claude-opus-5-5", "domain": "perspectum.com"}
+{"key": "perspectum diagnostics", "name": "Perspectum Diagnostics Ltd", "model": "claude-opus-5-5", "domain": "perspectum.com"}
+{"key": "persyst development", "name": "Persyst Development Corporation", "model": "claude-opus-5-5", "domain": "persyst.com"}
+{"key": "phantomics", "name": "Phantomics Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "philips", "name": "Philips Oy", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips france commercial", "name": "Philips France Commercial", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips healthcare", "name": "Philips Healthcare", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips healthcare suzhou", "name": "Philips Healthcare (Suzhou) Co., Ltd.", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems", "name": "Philips Medical Systems", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems dmc", "name": "Philips Medical Systems DMC GmbH", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems mr finland", "name": "Philips Medical Systems MR Finland", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems nederland", "name": "Philips Medical Systems Nederland B.V.", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems nederlands", "name": "Philips Medical Systems Nederlands B.V.", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips medical systems technologies", "name": "Philips Medical Systems Technologies , Ltd.", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "philips ultrasound", "name": "Philips Ultrasound, LLC", "model": "claude-opus-5-5", "domain": "philips.com"}
+{"key": "physcade", "name": "PhysCade, Inc.", "model": "claude-opus-5-5", "domain": "physcade.com"}
+{"key": "physiq", "name": "physIQ, Inc", "model": "claude-opus-5-5", "domain": "physiq.com"}
+{"key": "pie medical imaging", "name": "Pie Medical Imaging BV", "model": "claude-opus-5-5", "domain": "piemedicalimaging.com"}
+{"key": "piur imaging", "name": "PIUR Imaging GmbH", "model": "claude-opus-5-5", "domain": "piurimaging.com"}
+{"key": "pranaq pte", "name": "PranaQ Pte. Ltd.", "model": "claude-opus-5-5", "domain": "pranaq.com"}
+{"key": "precision ai", "name": "Precision AI Pty, Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "precision medical ventures inc dba revealdx", "name": "Precision Medical Ventures, Inc. Dba Revealdx", "model": "claude-opus-5-5", "domain": "revealdx.com"}
+{"key": "prenosis", "name": "Prenosis, Inc.", "model": "claude-opus-5-5", "domain": "prenosis.com"}
+{"key": "prenuvo", "name": "Prenuvo", "model": "claude-opus-5-5", "domain": "prenuvo.com"}
+{"key": "preventice technologies", "name": "Preventice Technologies, Inc.", "model": "claude-opus-5-5", "domain": "preventicesolutions.com"}
+{"key": "procept biorobotics", "name": "Procept Biorobotics", "model": "claude-opus-5-5", "domain": "procept-biorobotics.com"}
+{"key": "prolaio", "name": "Prolaio, Inc.", "model": "claude-opus-5-5", "domain": "prolaio.com"}
+{"key": "q bio", "name": "Q Bio, Inc.", "model": "claude-opus-5-5", "domain": "q.bio"}
+{"key": "qfr solutions", "name": "QFR Solutions bv", "model": "claude-opus-5-5", "domain": null}
+{"key": "qompium", "name": "Qompium nv", "model": "claude-opus-5-5", "domain": "qompium.com"}
+{"key": "qt imaging holdings", "name": "QT Imaging Holdings, Inc.", "model": "claude-opus-5-5", "domain": "qtimaging.com"}
+{"key": "quanta computer", "name": "Quanta Computer Inc.", "model": "claude-opus-5-5", "domain": "quantatw.com"}
+{"key": "quantib", "name": "Quantib B.V.", "model": "claude-opus-5-5", "domain": "quantib.com"}
+{"key": "quantitative insights", "name": "Quantitative Insights, Inc", "model": "claude-opus-5-5", "domain": null}
+{"key": "quantitative radiology solutions", "name": "Quantitative Radiology Solutions, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "quibim", "name": "Quibim S.L.", "model": "claude-opus-5-5", "domain": "quibim.com"}
+{"key": "qureai technologies", "name": "Qure.Ai Technologies", "model": "claude-opus-5-5", "domain": "qure.ai"}
+{"key": "qview medical", "name": "QView Medical, Inc.", "model": "claude-opus-5-5", "domain": "qviewmedical.com"}
+{"key": "qynapse", "name": "Qynapse", "model": "claude-opus-5-5", "domain": "qynapse.com"}
+{"key": "radformation", "name": "Radformation, Inc.", "model": "claude-opus-5-5", "domain": "radformation.com"}
+{"key": "radiobotics aps", "name": "Radiobotics ApS", "model": "claude-opus-5-5", "domain": "radiobotics.com"}
+{"key": "radlogics", "name": "RADLogics, Inc.", "model": "claude-opus-5-5", "domain": "radlogics.com"}
+{"key": "ray", "name": "RAY Co., Ltd.", "model": "claude-opus-5-5", "domain": "raymedical.com"}
+{"key": "raysearch laboratories ab publ", "name": "RaySearch Laboratories AB (PUBL)", "model": "claude-opus-5-5", "domain": "raysearchlabs.com"}
+{"key": "rebrain sas", "name": "Rebrain, SAS", "model": "claude-opus-5-5", "domain": null}
+{"key": "relu", "name": "Relu BV", "model": "claude-opus-5-5", "domain": "relu.eu"}
+{"key": "remedy logic", "name": "Remedy Logic Inc.", "model": "claude-opus-5-5", "domain": "remedylogic.com"}
+{"key": "renalytix ai", "name": "Renalytix AI, Inc.", "model": "claude-opus-5-5", "domain": "renalytix.com"}
+{"key": "resmed", "name": "ResMed Corp", "model": "claude-opus-5-5", "domain": "resmed.com"}
+{"key": "resonance health analysis services", "name": "Resonance Health Analysis Services Pty Ltd", "model": "claude-opus-5-5", "domain": "resonancehealth.com"}
+{"key": "restor3d", "name": "Restor3D", "model": "claude-opus-5-5", "domain": "restor3d.com"}
+{"key": "rhythm al", "name": "Rhythm Al, Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "righteye", "name": "RightEye, LLC", "model": "claude-opus-5-5", "domain": "righteye.com"}
+{"key": "rivanna medical", "name": "Rivanna Medical, Inc.", "model": "claude-opus-5-5", "domain": "rivannamedical.com"}
+{"key": "riverain medical group", "name": "RIVERAIN MEDICAL GROUP,LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "riverain technologies", "name": "Riverain Technologies, Inc.", "model": "claude-opus-5-5", "domain": "riveraintech.com"}
+{"key": "roche molecular systems", "name": "Roche Molecular Systems, Inc.", "model": "claude-opus-5-5", "domain": "roche.com"}
+{"key": "rooti labs", "name": "Rooti Labs Ltd.", "model": "claude-opus-5-5", "domain": "rootilabs.com"}
+{"key": "ropca aps", "name": "ROPCA ApS", "model": "claude-opus-5-5", "domain": "ropca.com"}
+{"key": "safebeat rx", "name": "SafeBeat Rx, Inc.", "model": "claude-opus-5-5", "domain": "safebeatrx.com"}
+{"key": "samsung electronics", "name": "Samsung Electronics Co., Ltd", "model": "claude-opus-5-5", "domain": "samsung.com"}
+{"key": "samsung medison", "name": "Samsung Medison Co., Ltd.", "model": "claude-opus-5-5", "domain": "samsungmedison.com"}
+{"key": "saranas", "name": "Saranas Inc.", "model": "claude-opus-5-5", "domain": "saranas.com"}
+{"key": "scandiags", "name": "ScanDiags AG", "model": "claude-opus-5-5", "domain": null}
+{"key": "scanmed", "name": "ScanMed, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "scibase", "name": "SCIBASE AB", "model": "claude-opus-5-5", "domain": "scibase.com"}
+{"key": "scopio labs", "name": "Scopio Labs , Ltd.", "model": "claude-opus-5-5", "domain": "scopiolabs.com"}
+{"key": "screenpoint medical", "name": "ScreenPoint Medical B.V.", "model": "claude-opus-5-5", "domain": "screenpoint-medical.com"}
+{"key": "see mode technologies pte", "name": "See-Mode Technologies Pte. Ltd.", "model": "claude-opus-5-5", "domain": "see-mode.com"}
+{"key": "seno medical instruments", "name": "Seno Medical Instruments, Inc.", "model": "claude-opus-5-5", "domain": "senomedical.com"}
+{"key": "shanghai united imaging healthcare", "name": "Shanghai United Imaging Healthcare Co., Ltd.", "model": "claude-opus-5-5", "domain": "united-imaging.com"}
+{"key": "shanghai united imaging intelligence", "name": "Shanghai United Imaging Intelligence Co., Ltd.", "model": "claude-opus-5-5", "domain": "uii-ai.com"}
+{"key": "shenzhen carewell electronics", "name": "Shenzhen Carewell Electronics Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "shenzhen mindray bio medical electronics", "name": "Shenzhen Mindray Bio-Medical Electronics Co.,LTD", "model": "claude-opus-5-5", "domain": "mindray.com"}
+{"key": "shimadzu", "name": "Shimadzu Corporation", "model": "claude-opus-5-5", "domain": "shimadzu.com"}
+{"key": "siemens healthcare", "name": "Siemens Healthcare GmbH", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "siemens healthineers", "name": "Siemens Healthineers AG", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "siemens medical solution usa", "name": "Siemens Medical Solution USA, Inc.", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "siemens medical solutions", "name": "Siemens Medical Solutions", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "siemens medical solutions usa", "name": "Siemens Medical Solutions USA, Inc.", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "siemens shenzhen magnetic resonance", "name": "Siemens Shenzhen Magnetic Resonance , Ltd.", "model": "claude-opus-5-5", "domain": "siemens-healthineers.com"}
+{"key": "sight diagnostics", "name": "Sight Diagnostics Ltd.", "model": "claude-opus-5-5", "domain": "sightdx.com"}
+{"key": "sigtuple technologies pvt", "name": "SigTuple Technologies Pvt. Ltd.", "model": "claude-opus-5-5", "domain": "sigtuple.com"}
+{"key": "simbiosys", "name": "SimBioSys, Inc.", "model": "claude-opus-5-5", "domain": "simbiosys.com"}
+{"key": "sk", "name": "SK Inc.", "model": "claude-opus-5-5", "domain": "sk-inc.com"}
+{"key": "smart alfa teknoloji san ve tic as", "name": "Smart Alfa Teknoloji San. Ve Tic. A.S.", "model": "claude-opus-5-5", "domain": null}
+{"key": "smart soft healthcare", "name": "Smart Soft Healthcare", "model": "claude-opus-5-5", "domain": null}
+{"key": "smart soft healthcare ad", "name": "Smart Soft Healthcare AD", "model": "claude-opus-5-5", "domain": null}
+{"key": "smarttarget", "name": "SmartTarget, Ltd.", "model": "claude-opus-5-5", "domain": "smarttarget.co.uk"}
+{"key": "softlink international private", "name": "Softlink International Private Limited", "model": "claude-opus-5-5", "domain": null}
+{"key": "software nemotec", "name": "Software Nemotec S.L.", "model": "claude-opus-5-5", "domain": "nemotec.com"}
+{"key": "sonic incytes", "name": "Sonic Incytes", "model": "claude-opus-5-5", "domain": "sonicincytes.com"}
+{"key": "sonio", "name": "Sonio", "model": "claude-opus-5-5", "domain": "sonio.ai"}
+{"key": "sonoscape medical", "name": "Sonoscape Medical Corp.", "model": "claude-opus-5-5", "domain": "sonoscape.com"}
+{"key": "sora neuroscience", "name": "Sora Neuroscience, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "sparrow acoustics", "name": "Sparrow Acoustics, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "spectra science", "name": "SPECTRA SCIENCE", "model": "claude-opus-5-5", "domain": "spectrascience.com"}
+{"key": "spectralmd", "name": "spectralmd, inc.", "model": "claude-opus-5-5", "domain": "spectral-md.com"}
+{"key": "spectrawave", "name": "Spectrawave, Inc.", "model": "claude-opus-5-5", "domain": "spectrawave.com"}
+{"key": "spectronic medical", "name": "Spectronic Medical AB", "model": "claude-opus-5-5", "domain": null}
+{"key": "spectrum dynamics medical", "name": "Spectrum Dynamics Medical, Ltd.", "model": "claude-opus-5-5", "domain": "spectrum-dynamics.com"}
+{"key": "springbok", "name": "Springbok, Inc.", "model": "claude-opus-5-5", "domain": "springbokanalytics.com"}
+{"key": "springbok inc dba springbok analytics", "name": "Springbok, Inc. (dba Springbok Analytics)", "model": "claude-opus-5-5", "domain": "springbokanalytics.com"}
+{"key": "spry health", "name": "Spry Health, Inc.", "model": "claude-opus-5-5", "domain": "spryhealth.com"}
+{"key": "statlife", "name": "Statlife", "model": "claude-opus-5-5", "domain": null}
+{"key": "strata skin sciences", "name": "STRATA SKIN SCIENCES, INC.", "model": "claude-opus-5-5", "domain": "strataskinsciences.com"}
+{"key": "stratoscientific", "name": "STRATOSCIENTIFIC, INC.", "model": "claude-opus-5-5", "domain": "stratoscientific.com"}
+{"key": "stryker", "name": "Stryker Corp.", "model": "claude-opus-5-5", "domain": "stryker.com"}
+{"key": "stryker instruments", "name": "Stryker Instruments", "model": "claude-opus-5-5", "domain": "stryker.com"}
+{"key": "subtle medical", "name": "Subtle Medical, Inc.", "model": "claude-opus-5-5", "domain": "subtlemedical.com"}
+{"key": "surgical information sciences", "name": "Surgical Information Sciences, Inc.", "model": "claude-opus-5-5", "domain": "surgicalis.com"}
+{"key": "surgical theater", "name": "Surgical Theater, Inc.", "model": "claude-opus-5-5", "domain": "surgicaltheater.com"}
+{"key": "sydney neuroimaging analysis centre", "name": "Sydney Neuroimaging Analysis Centre Pty Ltd", "model": "claude-opus-5-5", "domain": "snac.com.au"}
+{"key": "synapsica", "name": "Synapsica", "model": "claude-opus-5-5", "domain": "synapsica.com"}
+{"key": "syncthink", "name": "SyncThink, Inc.", "model": "claude-opus-5-5", "domain": "syncthink.com"}
+{"key": "taihao medical", "name": "TaiHao Medical Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "taiwan medical imaging", "name": "Taiwan Medical Imaging Co., Ltd.", "model": "claude-opus-5-5", "domain": null}
+{"key": "techsomed", "name": "Techsomed", "model": "claude-opus-5-5", "domain": "techsomed.com"}
+{"key": "techsomed medical technologies", "name": "Techsomed Medical Technologies", "model": "claude-opus-5-5", "domain": "techsomed.com"}
+{"key": "tempus ai", "name": "Tempus AI, Inc.", "model": "claude-opus-5-5", "domain": "tempus.com"}
+{"key": "tempus labs", "name": "Tempus Labs, Inc.", "model": "claude-opus-5-5", "domain": "tempus.com"}
+{"key": "terarecon", "name": "Terarecon,Inc.", "model": "claude-opus-5-5", "domain": "terarecon.com"}
+{"key": "the surgeon general department of the army tsg da", "name": "The Surgeon General, Department of the Army (TSG-DA)", "model": "claude-opus-5-5", "domain": "army.mil"}
+{"key": "therapanacea", "name": "TheraPanacea", "model": "claude-opus-5-5", "domain": "therapanacea.eu"}
+{"key": "therapanacea sas", "name": "Therapanacea Sas", "model": "claude-opus-5-5", "domain": "therapanacea.eu"}
+{"key": "therapixel", "name": "Therapixel", "model": "claude-opus-5-5", "domain": "therapixel.com"}
+{"key": "therenva sas", "name": "Therenva SAS", "model": "claude-opus-5-5", "domain": "therenva.com"}
+{"key": "think surgical", "name": "THINK Surgical, Inc.", "model": "claude-opus-5-5", "domain": "thinksurgical.com"}
+{"key": "thirona", "name": "Thirona BV", "model": "claude-opus-5-5", "domain": "thirona.eu"}
+{"key": "tissue differentiation intelligence", "name": "Tissue Differentiation Intelligence, LLC", "model": "claude-opus-5-5", "domain": null}
+{"key": "tomtec imaging systems", "name": "TOMTEC Imaging Systems GmbH", "model": "claude-opus-5-5", "domain": "tomtec.de"}
+{"key": "topia medtech", "name": "TOPIA MEDTECH LIMITED", "model": "claude-opus-5-5", "domain": null}
+{"key": "transenterix", "name": "TransEnterix, Inc.", "model": "claude-opus-5-5", "domain": "transenterix.com"}
+{"key": "tribusmed beheer", "name": "TribusMed Beheer BV", "model": "claude-opus-5-5", "domain": null}
+{"key": "twinsight", "name": "Twinsight", "model": "claude-opus-5-5", "domain": null}
+{"key": "tyto care", "name": "Tyto Care , Ltd.", "model": "claude-opus-5-5", "domain": "tytocare.com"}
+{"key": "ultrasight", "name": "Ultrasight , Ltd.", "model": "claude-opus-5-5", "domain": "ultrasight.com"}
+{"key": "ultrasound ai", "name": "Ultrasound AI", "model": "claude-opus-5-5", "domain": null}
+{"key": "ultromics", "name": "Ultromics Limited", "model": "claude-opus-5-5", "domain": "ultromics.com"}
+{"key": "university of texas md anderson cancer center", "name": "University of Texas, MD Anderson Cancer Center", "model": "claude-opus-5-5", "domain": "mdanderson.org"}
+{"key": "v5med", "name": "V5med Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "varian medical systems", "name": "Varian Medical Systems, Inc.", "model": "claude-opus-5-5", "domain": "varian.com"}
+{"key": "velmeni", "name": "Velmeni, Inc.", "model": "claude-opus-5-5", "domain": "velmeni.ai"}
+{"key": "vent creativity", "name": "Vent Creativity", "model": "claude-opus-5-5", "domain": "ventcreativity.com"}
+{"key": "ventripoint diagnostics", "name": "Ventripoint Diagnostics Ltd.", "model": "claude-opus-5-5", "domain": "ventripoint.com"}
+{"key": "verathon", "name": "Verathon Incorporated", "model": "claude-opus-5-5", "domain": "verathon.com"}
+{"key": "verdure imaging", "name": "Verdure Imaging", "model": "claude-opus-5-5", "domain": null}
+{"key": "verily life sciences", "name": "Verily Life Sciences LLC", "model": "claude-opus-5-5", "domain": "verily.com"}
+{"key": "vgbio inc dba physiq", "name": "VGBio, Inc (DBA PhysIQ)", "model": "claude-opus-5-5", "domain": "physiq.com"}
+{"key": "vida diagnostics", "name": "VIDA Diagnostics Inc.", "model": "claude-opus-5-5", "domain": "vidalung.ai"}
+{"key": "videahealth", "name": "VideaHealth Inc.", "model": "claude-opus-5-5", "domain": "videa.ai"}
+{"key": "vinbigdata joint stock", "name": "VinBigData Joint Stock Company", "model": "claude-opus-5-5", "domain": "vinbigdata.com"}
+{"key": "vinbrain joint stock", "name": "VinBrain Joint Stock Company", "model": "claude-opus-5-5", "domain": "vinbrain.net"}
+{"key": "visage imaging", "name": "Visage Imaging GmbH", "model": "claude-opus-5-5", "domain": "visageimaging.com"}
+{"key": "vista ai", "name": "Vista AI, Inc.", "model": "claude-opus-5-5", "domain": "vista.ai"}
+{"key": "vitaa medical solutions", "name": "ViTAA Medical Solutions, Inc.", "model": "claude-opus-5-5", "domain": "vitaamedical.com"}
+{"key": "vital images", "name": "Vital Images, Inc.", "model": "claude-opus-5-5", "domain": "vitalimages.com"}
+{"key": "vitalconnect", "name": "VitalConnect, Inc.", "model": "claude-opus-5-5", "domain": "vitalconnect.com"}
+{"key": "vitrolife a s", "name": "Vitrolife A/S", "model": "claude-opus-5-5", "domain": "vitrolife.com"}
+{"key": "vivaquant", "name": "VivaQuant Inc.", "model": "claude-opus-5-5", "domain": "vivaquant.com"}
+{"key": "vivaquant inc dba rhythm express", "name": "Vivaquant, Inc. Dba Rhythm Express", "model": "claude-opus-5-5", "domain": "vivaquant.com"}
+{"key": "viz ai", "name": "Viz. ai, Inc.", "model": "claude-opus-5-5", "domain": "viz.ai"}
+{"key": "vizai", "name": "Viz.ai, Inc.", "model": "claude-opus-5-5", "domain": "viz.ai"}
+{"key": "vizal", "name": "Viz.Al, Inc.", "model": "claude-opus-5-5", "domain": "viz.ai"}
+{"key": "volpara health technologies", "name": "Volpara Health Technologies Limited", "model": "claude-opus-5-5", "domain": "volparahealth.com"}
+{"key": "volta medical", "name": "Volta Medical", "model": "claude-opus-5-5", "domain": "volta-medical.com"}
+{"key": "voronoi health analytics", "name": "Voronoi Health Analytics Incorporated", "model": "claude-opus-5-5", "domain": null}
+{"key": "vuno", "name": "Vuno Inc.", "model": "claude-opus-5-5", "domain": "vuno.co"}
+{"key": "vysioneer", "name": "Vysioneer Inc.", "model": "claude-opus-5-5", "domain": "vysioneer.com"}
+{"key": "wave neuroscience", "name": "Wave Neuroscience", "model": "claude-opus-5-5", "domain": "waveneuro.com"}
+{"key": "welldoc", "name": "WellDoc, Inc.", "model": "claude-opus-5-5", "domain": "welldoc.com"}
+{"key": "wesper", "name": "Wesper, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "whiterabbitai", "name": "Whiterabbit.ai Inc.", "model": "claude-opus-5-5", "domain": "whiterabbit.ai"}
+{"key": "wisdom technologies", "name": "Wisdom Technologies., Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "withings", "name": "Withings", "model": "claude-opus-5-5", "domain": "withings.com"}
+{"key": "wuhan united imaging healthcare", "name": "Wuhan United Imaging Healthcare Co.,Ltd", "model": "claude-opus-5-5", "domain": "united-imaging.com"}
+{"key": "x nav technologies", "name": "X-Nav Technologies, LLC", "model": "claude-opus-5-5", "domain": "x-navtech.com"}
+{"key": "x9", "name": "X9, Inc.", "model": "claude-opus-5-5", "domain": null}
+{"key": "xiamen manteia technology", "name": "Xiamen Manteia Technology LTD.", "model": "claude-opus-5-5", "domain": null}
+{"key": "yukun beijing technology", "name": "Yukun (Beijing) Technology Co., Ltd", "model": "claude-opus-5-5", "domain": null}
+{"key": "zebra medical vision", "name": "Zebra Medical Vision Ltd.", "model": "claude-opus-5-5", "domain": "zebra-med.com"}
+{"key": "zephyr sleep technologies", "name": "Zephyr Sleep Technologies", "model": "claude-opus-5-5", "domain": "zephyrsleep.com"}
+{"key": "zepmed", "name": "ZEPMED, LLC.", "model": "claude-opus-5-5", "domain": null}
+{"key": "ziosoft", "name": "Ziosoft, Inc.", "model": "claude-opus-5-5", "domain": null}

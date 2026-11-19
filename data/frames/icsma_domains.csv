@@ -1,0 +1,76 @@
+sector,domain,start_url,n_units,beds_sum,name_tokens
+icsma,abbott.com,https://abbott.com/,1,,abbott laboratories
+icsma,alivecor.com,https://alivecor.com/,1,,alivecor
+icsma,animas.com,https://animas.com/,1,,animas
+icsma,apollopharmacy.in,https://apollopharmacy.in/,1,,apollo pharmacy
+icsma,baxter.com,https://baxter.com/,2,,baxter hillrom international
+icsma,bbraun.com,https://bbraun.com/,2,,braun melsungen
+icsma,bbraunusa.com,https://bbraunusa.com/,1,,braun
+icsma,bd.com,https://bd.com/,1,,becton dickinson
+icsma,beaconmedaes.com,https://beaconmedaes.com/,1,,beaconmedaes
+icsma,biotronik.com,https://biotronik.com/,1,,biotronik
+icsma,bmc-medical.com,https://bmc-medical.com/,1,,
+icsma,bostonscientific.com,https://bostonscientific.com/,1,,boston scientific
+icsma,bplmedicaltechnologies.com,https://bplmedicaltechnologies.com/,1,,technologies
+icsma,capsuletech.com,https://capsuletech.com/,1,,capsule technologies
+icsma,carestream.com,https://carestream.com/,1,,carestream
+icsma,changehealthcare.com,https://changehealthcare.com/,1,,change
+icsma,contecmed.com,https://contecmed.com/,1,,contec
+icsma,dariohealth.com,https://dariohealth.com/,1,,dario
+icsma,draeger.com,https://draeger.com/,1,,
+icsma,eppendorf.com,https://eppendorf.com/,1,,eppendorf
+icsma,flowneuroscience.com,https://flowneuroscience.com/,1,,flow neuroscience
+icsma,fourthfrontier.com,https://fourthfrontier.com/,1,,fourth frontier
+icsma,fresenius-kabi.com,https://fresenius-kabi.com/,1,,fresenius kabi
+icsma,fujifilm.com,https://fujifilm.com/,2,,americas fujifilm
+icsma,ge.com,https://ge.com/,1,,electric general
+icsma,gehealthcare.com,https://gehealthcare.com/,2,,silex technology
+icsma,getqardio.com,https://getqardio.com/,1,,qardio
+icsma,hamilton-medical.com,https://hamilton-medical.com/,1,,hamilton
+icsma,hillrom.com,https://hillrom.com/,1,,hillrom
+icsma,i-sens.com,https://i-sens.com/,1,,sens
+icsma,illumina.com,https://illumina.com/,1,,illumina
+icsma,infinitt.com,https://infinitt.com/,1,,infinitt
+icsma,innokasmedical.fi,https://innokasmedical.fi/,1,,innokas yhtym
+icsma,insulet.com,https://insulet.com/,1,,insulet
+icsma,intersystems.com,https://intersystems.com/,1,,intersystems
+icsma,j4care.com,https://j4care.com/,1,,care
+icsma,jnj.com,https://jnj.com/,1,,johnson
+icsma,lifepoint.com,https://lifepoint.com/,1,,informatics lifepoint
+icsma,medtronic.com,https://medtronic.com/,1,,medtronic
+icsma,microdicom.com,https://microdicom.com/,1,,microdicom
+icsma,miracare.com,https://miracare.com/,1,,care mira operating quanovate tech
+icsma,mirion.com,https://mirion.com/,1,,mirion
+icsma,nanoporetech.com,https://nanoporetech.com/,1,,nanopore oxford technologies
+icsma,natus.com,https://natus.com/,1,,natus
+icsma,nextgen.com,https://nextgen.com/,1,,nextgen
+icsma,nihonkohden.com,https://nihonkohden.com/,1,,kohden nihon
+icsma,offis.de,https://offis.de/,1,,offis
+icsma,ohif.org,https://ohif.org/,1,,foundation imaging ohif open
+icsma,orthanc-server.com,https://orthanc-server.com/,1,,orthanc
+icsma,ossur.com,https://ossur.com/,1,,ossur
+icsma,pancorp.com,https://pancorp.com/,1,,panoramic
+icsma,philips.com,https://philips.com/,2,,philips phillips
+icsma,pixmeo.com,https://pixmeo.com/,1,,pixmeo
+icsma,post-factum.be,https://post-factum.be/,1,,openclinic
+icsma,pulsetto.tech,https://pulsetto.tech/,1,,pulsetto
+icsma,pydicom.github.io,https://pydicom.github.io/,1,,pydicom
+icsma,qualcommlife.com,https://qualcommlife.com/,1,,life qualcomm
+icsma,radiantviewer.com,https://radiantviewer.com/,1,,medixant
+icsma,roche.com,https://roche.com/,1,,diagnostics roche
+icsma,santesoft.com,https://santesoft.com/,1,,santesoft
+icsma,siemens.com,https://siemens.com/,1,,siemens
+icsma,sjm.com,https://sjm.com/,1,,jude
+icsma,smiths-medical.com,https://smiths-medical.com/,1,,smiths
+icsma,softneta.com,https://softneta.com/,1,,softneta
+icsma,sooil.com,https://sooil.com/,1,,developments sooil
+icsma,spacelabshealthcare.com,https://spacelabshealthcare.com/,1,,spacelabs
+icsma,stryker.com,https://stryker.com/,1,,stryker
+icsma,swisslog-healthcare.com,https://swisslog-healthcare.com/,1,,swisslog
+icsma,thermofisher.com,https://thermofisher.com/,1,,fisher thermo
+icsma,vareximaging.com,https://vareximaging.com/,1,,imaging varex
+icsma,vertikalsystems.com,https://vertikalsystems.com/,1,,systems vertikal
+icsma,vyaire.com,https://vyaire.com/,1,,vyaire
+icsma,whill.inc,https://whill.inc/,1,,whill
+icsma,ypsomed.com,https://ypsomed.com/,1,,ypsomed
+icsma,zoll.com,https://zoll.com/,1,,zoll

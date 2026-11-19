@@ -1,0 +1,87 @@
+{
+ "hospital": {
+  "domains": 132,
+  "with_capture": 117,
+  "no_capture_found": 15,
+  "lookup_incomplete": 0,
+  "by_year": {
+   "2023": 2,
+   "2024": 8,
+   "2025": 14,
+   "2026": 93
+  },
+  "earliest": "2023-06-01",
+  "latest": "2026-10-16"
+ },
+ "device": {
+  "domains": 30,
+  "with_capture": 16,
+  "no_capture_found": 14,
+  "lookup_incomplete": 0,
+  "by_year": {
+   "2019": 1,
+   "2022": 2,
+   "2023": 1,
+   "2024": 4,
+   "2025": 2,
+   "2026": 6
+  },
+  "earliest": "2019-12-16",
+  "latest": "2026-10-11"
+ },
+ "icsma": {
+  "domains": 7,
+  "with_capture": 5,
+  "no_capture_found": 2,
+  "lookup_incomplete": 0,
+  "by_year": {
+   "2019": 1,
+   "2022": 1,
+   "2024": 1,
+   "2025": 1,
+   "2026": 1
+  },
+  "earliest": "2019-12-16",
+  "latest": "2026-10-02"
+ },
+ "ehr": {
+  "domains": 8,
+  "with_capture": 5,
+  "no_capture_found": 2,
+  "lookup_incomplete": 1,
+  "by_year": {
+   "2024": 1,
+   "2025": 3,
+   "2026": 1
+  },
+  "earliest": "2024-09-04",
+  "latest": "2026-10-09"
+ },
+ "federal": {
+  "domains": 4,
+  "with_capture": 4,
+  "no_capture_found": 0,
+  "lookup_incomplete": 0,
+  "by_year": {
+   "2024": 4
+  },
+  "earliest": "2024-09-23",
+  "latest": "2024-10-21"
+ },
+ "all_distinct": {
+  "domains": 178,
+  "with_capture": 145,
+  "no_capture_found": 32,
+  "lookup_incomplete": 1,
+  "by_year": {
+   "2019": 1,
+   "2022": 2,
+   "2023": 3,
+   "2024": 18,
+   "2025": 20,
+   "2026": 101
+  },
+  "earliest": "2019-12-16",
+  "latest": "2026-10-16"
+ }
+}
