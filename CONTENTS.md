@@ -26,6 +26,10 @@ This repository belongs to the study "Nowhere to Report: Vulnerability Disclosur
 - The audit reports, which discuss individual sites.
 - Copies of third-party directories, which are pinned by commit and hash instead.
 
+## Licence
+
+The code and the study's own files (the protocol, results, analysis scripts and outputs, logs and this page) are released under the MIT License; see `LICENSE`. The source tables in `data/frames/` and `data/reference/` were downloaded from public sources, named in the `.meta.json` files beside them and in the protocol. The licence does not change the terms those sources set.
+
 ## Notes for readers
 
 - A result of "no channel found" for a domain means only that this study's method found none on the dates given. It is not a statement about that organization's security. A status of unreachable, blocked or mismatch means the domain could not be measured, not that it lacks a channel.
